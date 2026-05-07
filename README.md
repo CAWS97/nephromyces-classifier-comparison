@@ -11,7 +11,8 @@ The three databases compared are:
 | `PlusPF` | Standard build + RefSeq protozoa + fungi |
 | `PrackenDB` | GenBank + RefSeq bacteria/archaea/protists/fungi + human + viral + UniVec |
 
----
+
+```
 
 ## Repository Structure
 
@@ -43,9 +44,9 @@ nephromyces-classifier-comparison/
 │   └── final_paper.pdf             ← writeup of methods and results
 │
 └── ai_statement/
-└── ai_use_statement.pdf        ← statement on AI tool usage
+	└── ai_use_statement.pdf        ← statement on AI tool usage
 
----
+```
 
 ## Input Requirements
 
