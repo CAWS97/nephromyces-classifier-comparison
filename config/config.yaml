@@ -1,0 +1,41 @@
+# ---------------------------------------------------------------------------
+# Configuration for the Nephromyces classifier comparison pipeline.
+#
+# This pipeline compares THREE Kraken2 databases on the same metagenomic
+# input to assess how reference scope affects taxonomic interpretation:
+#
+#   - kraken2_basic : bacteria + archaea + viruses (no eukaryotes)
+#   - PlusPF        : Standard + RefSeq protozoa + fungi
+#   - PrackenDB     : GenBank + RefSeq bacteria/archaea/protists/fungi
+#                     + human + viral + UniVec (broader/larger)
+#
+# All paths inside the repo are RELATIVE to the repo root.
+# Database paths are absolute (URI Unity cluster).
+# ---------------------------------------------------------------------------
+
+input:
+  reads: "data/raw/reads.fastq"
+
+databases:
+  - name: "kraken2_basic"
+    label: "Basic (bact+arch+viral)"
+    db:     "/datasets/bio/kraken2/kraken2-db"
+    report: "data/raw/kraken_report_basic.txt"
+
+  - name: "pluspf"
+    label: "PlusPF (RefSeq + protozoa/fungi)"
+    db:     "/datasets/bio/kraken2/PlusPF"
+    report: "data/raw/kraken_report_pluspf.txt"
+
+  - name: "prackendb"
+    label: "PrackenDB (GenBank+RefSeq broad)"
+    db:     "/datasets/bio/kraken2/PrackenDB"
+    report: "data/raw/kraken_report_prackendb.txt"
+
+output:
+  tables:  "results/tables"
+  figures: "results/figures"
+
+params:
+  kraken_rank: "S"
+  min_percent_for_plot: 1.0

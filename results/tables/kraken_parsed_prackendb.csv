@@ -1,0 +1,3515 @@
+percent,reads_clade,reads_taxon,rank,taxid,name,db_name
+40.55,4055,4055,U,0,unclassified,prackendb
+59.45,5945,16,,1,root,prackendb
+59.12,5912,205,1,131567,cellular organisms,prackendb
+54.95,5495,328,,2759,Eukaryota,prackendb
+46.11,4611,36,D1,33154,Opisthokonta,prackendb
+45.43,4543,2,K,33208,Metazoa,prackendb
+45.39,4539,9,K1,6072,Eumetazoa,prackendb
+45.25,4525,432,K2,33213,Bilateria,prackendb
+31.95,3195,134,K3,33317,Protostomia,prackendb
+28.57,2857,12,K4,1206794,Ecdysozoa,prackendb
+28.27,2827,0,K5,88770,Panarthropoda,prackendb
+28.26,2826,11,P,6656,Arthropoda,prackendb
+27.9,2790,0,P1,197563,Mandibulata,prackendb
+27.88,2788,33,P2,197562,Pancrustacea,prackendb
+27.12,2712,2,P3,6960,Hexapoda,prackendb
+27.05,2705,0,C,50557,Insecta,prackendb
+27.05,2705,0,C1,85512,Dicondylia,prackendb
+27.05,2705,1,C2,7496,Pterygota,prackendb
+27.03,2703,72,C3,33340,Neoptera,prackendb
+25.19,2519,209,C4,33392,Endopterygota,prackendb
+19.45,1945,15,C5,85604,Amphiesmenoptera,prackendb
+18.95,1895,1,O,7088,Lepidoptera,prackendb
+18.9,1890,0,O1,41191,Glossata,prackendb
+18.9,1890,0,O2,41196,Neolepidoptera,prackendb
+18.9,1890,0,O3,41197,Heteroneura,prackendb
+18.86,1886,87,O4,37567,Ditrysia,prackendb
+15.92,1592,204,O5,104431,Obtectomera,prackendb
+7.43,743,19,O6,37570,Noctuoidea,prackendb
+5.48,548,23,F,7100,Noctuidae,prackendb
+2.19,219,2,F1,95186,Plusiinae,prackendb
+1.89,189,0,G,254717,Chrysodeixis,prackendb
+1.89,189,189,S,689277,Chrysodeixis includens,prackendb
+0.15,15,0,G,254364,Abrostola,prackendb
+0.08,8,8,S,938171,Abrostola tripartita,prackendb
+0.07,7,7,S,254365,Abrostola triplasia,prackendb
+0.09,9,0,G,254361,Autographa,prackendb
+0.06,6,6,S,987893,Autographa pulchrina,prackendb
+0.03,3,3,S,254363,Autographa gamma,prackendb
+0.03,3,0,G,179673,Diachrysia,prackendb
+0.03,3,3,S,179674,Diachrysia chrysitis,prackendb
+0.01,1,0,G,7110,Trichoplusia,prackendb
+0.01,1,1,S,7111,Trichoplusia ni,prackendb
+0.77,77,1,F1,95244,Hadeninae,prackendb
+0.24,24,3,G,103830,Mythimna,prackendb
+0.12,12,12,S,997540,Mythimna ferrago,prackendb
+0.05,5,5,S,987985,Mythimna impura,prackendb
+0.04,4,4,S,987983,Mythimna albipuncta,prackendb
+0.15,15,0,G,320087,Euplexia,prackendb
+0.15,15,15,S,987933,Euplexia lucipara,prackendb
+0.09,9,0,G,988059,Anorthoa,prackendb
+0.09,9,9,S,988060,Anorthoa munda,prackendb
+0.09,9,0,G,988123,Hecatera,prackendb
+0.09,9,9,S,988125,Hecatera dysodea,prackendb
+0.07,7,0,G,320089,Phlogophora,prackendb
+0.07,7,7,S,875884,Phlogophora meticulosa,prackendb
+0.06,6,0,G,55056,Mamestra,prackendb
+0.06,6,6,S,55057,Mamestra brassicae,prackendb
+0.06,6,0,G,946290,Tholera,prackendb
+0.06,6,6,S,988041,Tholera decimalis,prackendb
+0.69,69,1,F1,95179,Noctuinae,prackendb
+0.39,39,3,F2,2555566,Noctuini,prackendb
+0.15,15,0,G,320016,Xestia,prackendb
+0.06,6,6,S,988049,Xestia xanthographa,prackendb
+0.05,5,5,S,987431,Xestia c-nigrum,prackendb
+0.04,4,4,S,997545,Xestia sexstrigata,prackendb
+0.08,8,1,G,214276,Noctua,prackendb
+0.03,3,3,S,753202,Noctua fimbriata,prackendb
+0.02,2,2,S,214277,Noctua pronuba,prackendb
+0.02,2,2,S,987995,Noctua janthe,prackendb
+0.05,5,0,G,47766,Agrotis,prackendb
+0.05,5,5,S,1857961,Agrotis puta,prackendb
+0.05,5,0,G,214282,Ochropleura,prackendb
+0.05,5,5,S,320037,Ochropleura plecta,prackendb
+0.03,3,0,G,320033,Diarsia,prackendb
+0.03,3,3,S,987925,Diarsia rubi,prackendb
+0.2,20,2,F2,2555556,Apameini,prackendb
+0.07,7,0,G,95189,Apamea,prackendb
+0.05,5,5,S,875885,Apamea monoglypha,prackendb
+0.02,2,2,S,689061,Apamea sordens,prackendb
+0.04,4,0,G,688395,Amphipoea,prackendb
+0.04,4,4,S,987876,Amphipoea oculea,prackendb
+0.04,4,0,G,882791,Luperina,prackendb
+0.04,4,4,S,988174,Luperina testacea,prackendb
+0.03,3,0,G,214170,Hydraecia,prackendb
+0.03,3,3,S,214171,Hydraecia micacea,prackendb
+0.09,9,0,G,320076,Caradrina,prackendb
+0.09,9,9,S,987895,Caradrina clavipalpis,prackendb
+0.59,59,1,F1,572922,Xyleninae,prackendb
+0.11,11,0,G,689302,Agrochola,prackendb
+0.06,6,6,S,987866,Agrochola circellaris,prackendb
+0.05,5,5,S,987872,Agrochola macilenta,prackendb
+0.09,9,0,G,988105,Dryobotodes,prackendb
+0.09,9,9,S,988106,Dryobotodes eremita,prackendb
+0.09,9,0,G,2492374,Omphaloscelis,prackendb
+0.09,9,9,S,2492375,Omphaloscelis lunosa,prackendb
+0.08,8,0,G,988070,Atethmia,prackendb
+0.08,8,8,S,988071,Atethmia centrago,prackendb
+0.07,7,0,G,997550,Mesoligia,prackendb
+0.07,7,7,S,997551,Mesoligia furuncula,prackendb
+0.06,6,0,G,988080,Brachylomia,prackendb
+0.06,6,6,S,988081,Brachylomia viminalis,prackendb
+0.05,5,0,G,988063,Aporophyla,prackendb
+0.05,5,5,S,1337163,Aporophyla lueneburgensis,prackendb
+0.03,3,0,G,1101105,Griposia,prackendb
+0.03,3,3,S,1101106,Griposia aprilina,prackendb
+0.43,43,0,F1,95182,Amphipyrinae,prackendb
+0.18,18,0,G,56365,Amphipyra,prackendb
+0.1,10,10,S,987877,Amphipyra berbera,prackendb
+0.08,8,8,S,689058,Amphipyra tragopoginis,prackendb
+0.16,16,1,G,7106,Spodoptera,prackendb
+0.09,9,9,S,7109,Spodoptera littoralis,prackendb
+0.06,6,6,S,7107,Spodoptera exigua,prackendb
+0.08,8,0,G,1430964,Xylocampa,prackendb
+0.08,8,8,S,1870430,Xylocampa areola,prackendb
+0.01,1,0,G,988055,Allophyes,prackendb
+0.01,1,1,S,988056,Allophyes oxyacanthae,prackendb
+0.23,23,0,F1,116124,Ipimorphinae,prackendb
+0.15,15,0,G,116125,Cosmia,prackendb
+0.08,8,8,S,987909,Cosmia pyralina,prackendb
+0.07,7,7,S,116126,Cosmia trapezina,prackendb
+0.08,8,0,G,116129,Eupsilia,prackendb
+0.08,8,8,S,116130,Eupsilia transversa,prackendb
+0.15,15,0,F1,95175,Acronictinae,prackendb
+0.08,8,0,G,938225,Craniophora,prackendb
+0.08,8,8,S,938226,Craniophora ligustri,prackendb
+0.07,7,0,G,56362,Acronicta,prackendb
+0.04,4,4,S,987865,Acronicta psi,prackendb
+0.03,3,3,S,987859,Acronicta aceris,prackendb
+0.08,8,0,F1,95214,Acontiinae,prackendb
+0.08,8,0,G,753440,Trisateles,prackendb
+0.08,8,8,S,753441,Trisateles emortualis,prackendb
+0.07,7,0,F1,95178,Heliothinae,prackendb
+0.07,7,1,G,7112,Helicoverpa,prackendb
+0.06,6,6,S,7113,Helicoverpa zea,prackendb
+0.05,5,0,F1,1430885,Eustrotiinae,prackendb
+0.05,5,0,G,708062,Protodeltote,prackendb
+0.05,5,5,S,708063,Protodeltote pygarga,prackendb
+1.23,123,1,F,695564,Erebidae,prackendb
+0.53,53,1,F1,30225,Arctiinae,prackendb
+0.28,28,0,F2,1945703,Spilosomini,prackendb
+0.13,13,0,G,695183,Spilarctia,prackendb
+0.13,13,13,S,875881,Spilarctia lutea,prackendb
+0.08,8,0,G,214365,Spilosoma,prackendb
+0.08,8,8,S,875880,Spilosoma lubricipeda,prackendb
+0.07,7,0,G,214310,Phragmatobia,prackendb
+0.07,7,7,S,214311,Phragmatobia fuliginosa,prackendb
+0.24,24,0,F2,132199,Lithosiini,prackendb
+0.13,13,1,G,464722,Eilema,prackendb
+0.07,7,7,S,987424,Eilema sororculum,prackendb
+0.05,5,5,S,987419,Eilema depressum,prackendb
+0.08,8,0,G,694657,Miltochrista,prackendb
+0.08,8,8,S,987980,Miltochrista miniata,prackendb
+0.03,3,0,G,694848,Cybosia,prackendb
+0.03,3,3,S,987918,Cybosia mesomella,prackendb
+0.3,30,3,F1,1583079,Erebinae,prackendb
+0.15,15,0,G,292570,Euclidia,prackendb
+0.15,15,15,S,938167,Euclidia mi,prackendb
+0.1,10,0,G,56375,Catocala,prackendb
+0.1,10,10,S,423510,Catocala fraxini,prackendb
+0.02,2,0,G,938237,Laspeyria,prackendb
+0.02,2,2,S,938238,Laspeyria flexula,prackendb
+0.18,18,0,F1,27548,Lymantriinae,prackendb
+0.09,9,0,G,13122,Lymantria,prackendb
+0.09,9,9,S,78897,Lymantria monacha,prackendb
+0.05,5,0,G,319798,Euproctis,prackendb
+0.05,5,5,S,987935,Euproctis similis,prackendb
+0.04,4,0,G,33413,Orgyia,prackendb
+0.04,4,4,S,335469,Orgyia antiqua,prackendb
+0.13,13,0,F1,95222,Herminiinae,prackendb
+0.13,13,0,G,705937,Herminia,prackendb
+0.13,13,13,S,987440,Herminia tarsipennalis,prackendb
+0.08,8,0,F1,95217,Hypeninae,prackendb
+0.05,5,0,G,95218,Hypena,prackendb
+0.05,5,5,S,753189,Hypena proboscidalis,prackendb
+0.03,3,0,G,411962,Schrankia,prackendb
+0.03,3,3,S,411963,Schrankia costaestrigalis,prackendb
+0.39,39,1,F,37571,Notodontidae,prackendb
+0.12,12,0,F1,319765,Notodontinae,prackendb
+0.08,8,0,G,214280,Notodonta,prackendb
+0.06,6,6,S,988002,Notodonta ziczac,prackendb
+0.02,2,2,S,753204,Notodonta dromedarius,prackendb
+0.04,4,0,G,214308,Pheosia,prackendb
+0.04,4,4,S,988018,Pheosia gnoma,prackendb
+0.1,10,0,F1,319773,Phalerinae,prackendb
+0.1,10,0,G,13633,Phalera,prackendb
+0.1,10,10,S,753216,Phalera bucephala,prackendb
+0.09,9,0,F1,319770,Ptilodontinae,prackendb
+0.09,9,0,G,987448,Ptilodon,prackendb
+0.09,9,9,S,987449,Ptilodon capucinus,prackendb
+0.04,4,0,F1,319766,Stauropinae,prackendb
+0.04,4,0,G,56587,Furcula,prackendb
+0.04,4,4,S,987943,Furcula furcula,prackendb
+0.03,3,0,F1,319762,Pygaerinae,prackendb
+0.03,3,0,G,214089,Clostera,prackendb
+0.03,3,3,S,987902,Clostera curtula,prackendb
+0.14,14,0,F,319783,Nolidae,prackendb
+0.09,9,0,F1,753688,Chloephorinae,prackendb
+0.09,9,0,G,572722,Nycteola,prackendb
+0.09,9,9,S,988004,Nycteola revayana,prackendb
+0.05,5,0,F1,95245,Nolinae,prackendb
+0.05,5,0,G,56393,Meganola,prackendb
+0.05,5,5,S,987977,Meganola albula,prackendb
+2.62,262,8,O6,37572,Papilionoidea,prackendb
+1.65,165,3,F,33415,Nymphalidae,prackendb
+0.68,68,0,F1,40040,Nymphalinae,prackendb
+0.42,42,0,F2,171576,Nymphalini,prackendb
+0.29,29,1,G,76218,Nymphalis,prackendb
+0.21,21,1,G1,111880,Aglais,prackendb
+0.11,11,11,S,111881,Nymphalis urticae,prackendb
+0.09,9,9,S,171585,Nymphalis io,prackendb
+0.07,7,0,G1,442324,Nymphalis,prackendb
+0.07,7,7,S,171594,Nymphalis polychloros,prackendb
+0.13,13,1,G,42274,Vanessa,prackendb
+0.07,7,7,S,42275,Vanessa atalanta,prackendb
+0.05,5,5,S,171605,Vanessa cardui,prackendb
+0.26,26,0,F2,171578,Melitaeini,prackendb
+0.26,26,1,F3,171580,Melitaeina,prackendb
+0.13,13,0,G,104514,Melitaea,prackendb
+0.13,13,13,S,113334,Melitaea cinxia,prackendb
+0.12,12,0,G,596672,Mellicta,prackendb
+0.12,12,12,S,113330,Mellicta athalia,prackendb
+0.44,44,0,F1,42282,Satyrinae,prackendb
+0.35,35,0,F2,127320,Satyrini,prackendb
+0.12,12,0,F3,150883,Maniolina,prackendb
+0.12,12,0,G,111919,Maniola,prackendb
+0.1,10,0,G1,111950,jurtina species complex,prackendb
+0.1,10,10,S,191418,Maniola jurtina,prackendb
+0.02,2,0,G1,111885,Aphantopus,prackendb
+0.02,2,2,S,2795564,Maniola hyperantus,prackendb
+0.1,10,0,F3,366209,Parargina,prackendb
+0.07,7,0,G,111932,Pararge,prackendb
+0.07,7,7,S,116150,Pararge aegeria,prackendb
+0.03,3,0,G,111915,Lasiommata,prackendb
+0.03,3,3,S,111917,Lasiommata megera,prackendb
+0.05,5,0,F3,167180,Mycalesina,prackendb
+0.05,5,0,G,110367,Bicyclus,prackendb
+0.05,5,5,S,110368,Bicyclus anynana,prackendb
+0.04,4,0,F3,150884,Melanargiina,prackendb
+0.04,4,0,G,111922,Melanargia,prackendb
+0.04,4,4,S,111923,Melanargia galathea,prackendb
+0.04,4,0,F3,150886,Satyrina,prackendb
+0.04,4,0,G,111908,Hipparchia,prackendb
+0.04,4,4,S,111912,Hipparchia semele,prackendb
+0.09,9,0,F2,1664845,Erebiini,prackendb
+0.09,9,1,G,111897,Erebia,prackendb
+0.05,5,5,S,111903,Erebia ligea,prackendb
+0.03,3,3,S,447833,Erebia aethiops,prackendb
+0.26,26,0,F1,40037,Heliconiinae,prackendb
+0.21,21,0,F2,127312,Argynnini,prackendb
+0.08,8,0,G,127313,Boloria,prackendb
+0.08,8,8,S,191398,Boloria selene,prackendb
+0.08,8,0,G,525812,Fabriciana,prackendb
+0.08,8,8,S,405009,Fabriciana adippe,prackendb
+0.05,5,0,G,405031,Brenthis,prackendb
+0.05,5,5,S,405034,Brenthis ino,prackendb
+0.05,5,0,F2,127322,Heliconiini,prackendb
+0.05,5,0,G,33416,Heliconius,prackendb
+0.05,5,5,S,33443,Heliconius sara,prackendb
+0.17,17,0,F1,127218,Danainae,prackendb
+0.16,16,0,F2,42315,Ithomiini,prackendb
+0.16,16,0,F3,344711,Melinaeina,prackendb
+0.16,16,6,G,64444,Melinaea,prackendb
+0.05,5,0,S,304554,Melinaea menophilus,prackendb
+0.05,5,5,S1,331302,Melinaea menophilus n. ssp. AW-2005,prackendb
+0.05,5,0,S,331299,Melinaea marsaeus,prackendb
+0.05,5,5,S1,331333,Melinaea marsaeus rileyi,prackendb
+0.01,1,0,F2,30248,Danaini,prackendb
+0.01,1,0,F3,344705,Danaina,prackendb
+0.01,1,0,G,13036,Danaus,prackendb
+0.01,1,0,G1,151542,Danaus,prackendb
+0.01,1,0,S,13037,Danaus plexippus,prackendb
+0.01,1,1,S1,278856,Danaus plexippus plexippus,prackendb
+0.07,7,0,F1,100750,Limenitidinae,prackendb
+0.07,7,0,F2,215788,Limenitidini,prackendb
+0.07,7,0,G,124410,Limenitis,prackendb
+0.07,7,7,S,270466,Limenitis camilla,prackendb
+0.41,41,1,F,27544,Lycaenidae,prackendb
+0.36,36,2,F1,42297,Polyommatinae,prackendb
+0.08,8,0,G,1821620,Cyaniris,prackendb
+0.08,8,8,S,988025,Cyaniris semiargus,prackendb
+0.07,7,3,G,138069,Lysandra,prackendb
+0.03,3,3,S,268709,Lysandra coridon,prackendb
+0.01,1,1,S,138070,Lysandra bellargus,prackendb
+0.06,6,0,G,203780,Glaucopsyche,prackendb
+0.06,6,6,S,203781,Glaucopsyche alexis,prackendb
+0.05,5,0,G,91737,Aricia,prackendb
+0.03,3,3,S,91739,Aricia agestis,prackendb
+0.02,2,2,S,91738,Aricia artaxerxes,prackendb
+0.03,3,0,G,42298,Celastrina,prackendb
+0.03,3,3,S,203782,Celastrina argiolus,prackendb
+0.03,3,0,G,265382,Polyommatus,prackendb
+0.03,3,3,S,265386,Polyommatus icarus,prackendb
+0.02,2,0,G,242266,Plebejus,prackendb
+0.02,2,2,S,242267,Plebejus argus,prackendb
+0.04,4,0,F1,124406,Lycaeninae,prackendb
+0.04,4,0,G,265359,Lycaena,prackendb
+0.04,4,4,S,282391,Lycaena phlaeas,prackendb
+0.33,33,1,F,7114,Pieridae,prackendb
+0.2,20,0,F1,42449,Pierinae,prackendb
+0.2,20,0,F2,152601,Pierini,prackendb
+0.13,13,0,G,7115,Pieris,prackendb
+0.06,6,6,S,64459,Pieris rapae,prackendb
+0.05,5,5,S,7116,Pieris brassicae,prackendb
+0.02,2,2,S,78633,Pieris napi,prackendb
+0.06,6,0,G,129396,Aporia,prackendb
+0.06,6,6,S,129397,Aporia crataegi,prackendb
+0.01,1,0,G,72244,Anthocharis,prackendb
+0.01,1,1,S,227532,Anthocharis cardamines,prackendb
+0.1,10,0,F1,151208,Dismorphiinae,prackendb
+0.1,10,0,G,189907,Leptidea,prackendb
+0.1,10,10,S,189913,Leptidea sinapis,prackendb
+0.02,2,0,F1,42450,Coliadinae,prackendb
+0.02,2,0,G,42295,Colias,prackendb
+0.02,2,2,S,72248,Colias croceus,prackendb
+0.15,15,0,F,7143,Papilionidae,prackendb
+0.15,15,0,F1,42289,Papilioninae,prackendb
+0.09,9,0,F2,189315,Papilionini,prackendb
+0.09,9,0,G,7145,Papilio,prackendb
+0.05,5,5,S,76193,Papilio machaon,prackendb
+0.04,4,4,S,76194,Papilio polytes,prackendb
+0.06,6,0,F2,189314,Leptocircini,prackendb
+0.06,6,0,G,157396,Iphiclides,prackendb
+0.06,6,6,S,110791,Iphiclides podalirius,prackendb
+1.88,188,0,O6,82592,Geometroidea,prackendb
+1.88,188,2,F,82593,Geometridae,prackendb
+0.8,80,1,F1,82596,Ennominae,prackendb
+0.1,10,0,G,393392,Macaria,prackendb
+0.1,10,10,S,688445,Macaria notata,prackendb
+0.09,9,0,G,214128,Ennomos,prackendb
+0.06,6,6,S,722662,Ennomos fuscantarius,prackendb
+0.03,3,3,S,875883,Ennomos quercinarius,prackendb
+0.08,8,0,G,572919,Selenia,prackendb
+0.08,8,8,S,934894,Selenia dentaria,prackendb
+0.08,8,0,G,934914,Apeira,prackendb
+0.08,8,8,S,934915,Apeira syringaria,prackendb
+0.07,7,0,G,82594,Biston,prackendb
+0.07,7,7,S,82595,Biston betularia,prackendb
+0.07,7,0,G,704816,Opisthograptis,prackendb
+0.07,7,7,S,934882,Opisthograptis luteolata,prackendb
+0.07,7,0,G,104475,Agriopis,prackendb
+0.06,6,6,S,104476,Agriopis aurantiaria,prackendb
+0.01,1,1,S,190331,Agriopis marginaria,prackendb
+0.06,6,0,G,104473,Erannis,prackendb
+0.06,6,6,S,104474,Erannis defoliaria,prackendb
+0.05,5,0,G,704699,Crocallis,prackendb
+0.05,5,5,S,934829,Crocallis elinguaria,prackendb
+0.05,5,0,G,190355,Peribatodes,prackendb
+0.05,5,5,S,190356,Peribatodes rhomboidaria,prackendb
+0.03,3,0,G,692034,Ligdia,prackendb
+0.03,3,3,S,934875,Ligdia adustata,prackendb
+0.02,2,0,G,82597,Campaea,prackendb
+0.02,2,2,S,934813,Campaea margaritaria,prackendb
+0.02,2,0,G,722672,Hylaea,prackendb
+0.02,2,2,S,722673,Hylaea fasciaria,prackendb
+0.78,78,1,F1,104450,Larentiinae,prackendb
+0.23,23,9,G,214137,Eupithecia,prackendb
+0.06,6,6,S,934844,Eupithecia centaureata,prackendb
+0.02,2,2,S,934866,Eupithecia vulgata,prackendb
+0.02,2,2,S,934840,Eupithecia abbreviata,prackendb
+0.02,2,2,S,934845,Eupithecia dodoneata,prackendb
+0.02,2,2,S,934847,Eupithecia exiguata,prackendb
+0.1,10,0,G,104458,Hydriomena,prackendb
+0.1,10,10,S,104460,Hydriomena furcata,prackendb
+0.1,10,0,G,934939,Gymnoscelis,prackendb
+0.1,10,10,S,934940,Gymnoscelis rufifasciata,prackendb
+0.07,7,0,G,104456,Ecliptopera,prackendb
+0.07,7,7,S,104457,Ecliptopera silaceata,prackendb
+0.06,6,0,G,934935,Electrophaes,prackendb
+0.06,6,6,S,934936,Electrophaes corylata,prackendb
+0.05,5,0,G,214392,Chloroclysta,prackendb
+0.05,5,5,S,934828,Chloroclysta siterata,prackendb
+0.04,4,0,G,104451,Operophtera,prackendb
+0.04,4,4,S,104452,Operophtera brumata,prackendb
+0.04,4,0,G,934916,Aplocera,prackendb
+0.04,4,4,S,934917,Aplocera efformata,prackendb
+0.04,4,0,G,873511,Philereme,prackendb
+0.04,4,4,S,934888,Philereme vetulata,prackendb
+0.02,2,0,G,326956,Thera,prackendb
+0.02,2,2,S,987013,Thera britannica,prackendb
+0.01,1,0,G,214189,Lobophora,prackendb
+0.01,1,1,S,934876,Lobophora halterata,prackendb
+0.01,1,0,G,190368,Xanthorhoe,prackendb
+0.01,1,1,S,934904,Xanthorhoe spadicearia,prackendb
+0.11,11,0,F1,393382,Alsophilinae,prackendb
+0.11,11,0,G,104485,Alsophila,prackendb
+0.11,11,11,S,104486,Alsophila aescularia,prackendb
+0.1,10,0,F1,104442,Sterrhinae,prackendb
+0.1,10,0,G,104446,Idaea,prackendb
+0.1,10,10,S,104447,Idaea aversata,prackendb
+0.07,7,0,F1,104461,Geometrinae,prackendb
+0.07,7,0,G,934941,Hemistola,prackendb
+0.07,7,7,S,934942,Hemistola chrysoprasaria,prackendb
+0.85,85,0,O6,37573,Pyraloidea,prackendb
+0.62,62,0,F,268499,Crambidae,prackendb
+0.45,45,1,F1,40081,Crambinae,prackendb
+0.14,14,0,G,572808,Agriphila,prackendb
+0.08,8,8,S,1660579,Agriphila geniculea,prackendb
+0.06,6,6,S,1594226,Agriphila tristella,prackendb
+0.11,11,0,G,572825,Chrysoteuchia,prackendb
+0.11,11,11,S,1594250,Chrysoteuchia culmella,prackendb
+0.08,8,0,G,40084,Diatraea,prackendb
+0.08,8,8,S,40085,Diatraea saccharalis,prackendb
+0.06,6,0,G,1368975,Calamotropha,prackendb
+0.06,6,6,S,1371681,Calamotropha paludella,prackendb
+0.05,5,0,G,168630,Chilo,prackendb
+0.05,5,5,S,168631,Chilo suppressalis,prackendb
+0.17,17,0,F1,299362,Nymphulinae,prackendb
+0.09,9,0,G,687116,Parapoynx,prackendb
+0.09,9,9,S,1594321,Parapoynx stratiotata,prackendb
+0.08,8,0,G,1666817,Acentria,prackendb
+0.08,8,8,S,1666818,Acentria ephemerella,prackendb
+0.23,23,0,F,7135,Pyralidae,prackendb
+0.15,15,0,F1,299347,Pyralinae,prackendb
+0.12,12,0,G,1101109,Hypsopygia,prackendb
+0.12,12,12,S,1101110,Hypsopygia costalis,prackendb
+0.03,3,0,G,1101094,Endotricha,prackendb
+0.03,3,3,S,1101095,Endotricha flammealis,prackendb
+0.08,8,0,F1,40083,Phycitinae,prackendb
+0.05,5,0,G,989881,Apomyelois,prackendb
+0.05,5,5,S,1666458,Apomyelois bistriatella,prackendb
+0.02,2,0,G,687068,Acrobasis,prackendb
+0.02,2,2,S,1857951,Acrobasis suavella,prackendb
+0.01,1,0,G,680682,Amyelois,prackendb
+0.01,1,1,S,680683,Amyelois transitella,prackendb
+0.38,38,0,O6,40092,Hesperioidea,prackendb
+0.38,38,0,F,40093,Hesperiidae,prackendb
+0.19,19,0,F1,40096,Hesperiinae,prackendb
+0.19,19,0,F2,2839394,Hesperiini,prackendb
+0.09,9,0,G,218743,Ochlodes,prackendb
+0.09,9,9,S,876063,Ochlodes sylvanus,prackendb
+0.05,5,0,G,218734,Hesperia,prackendb
+0.05,5,5,S,291688,Hesperia comma,prackendb
+0.05,5,0,G,218770,Thymelicus,prackendb
+0.05,5,5,S,272628,Thymelicus sylvestris,prackendb
+0.16,16,0,F1,40100,Pyrginae,prackendb
+0.11,11,0,G,40102,Pyrgus,prackendb
+0.11,11,11,S,218760,Pyrgus malvae,prackendb
+0.05,5,0,G,76212,Erynnis,prackendb
+0.05,5,5,S,520884,Erynnis tages,prackendb
+0.03,3,0,F1,218718,Heteropterinae,prackendb
+0.03,3,0,G,218719,Carterocephalus,prackendb
+0.03,3,3,S,218720,Carterocephalus palaemon,prackendb
+0.29,29,0,O6,37569,Bombycoidea,prackendb
+0.24,24,0,F,7128,Sphingidae,prackendb
+0.11,11,0,F1,82617,Macroglossinae,prackendb
+0.08,8,0,F2,523174,Dilophonotini,prackendb
+0.08,8,0,G,82622,Hemaris,prackendb
+0.08,8,8,S,987953,Hemaris fuciformis,prackendb
+0.03,3,0,F2,523176,Macroglossini,prackendb
+0.03,3,0,G,283833,Deilephila,prackendb
+0.03,3,3,S,644661,Deilephila porcellus,prackendb
+0.11,11,0,F1,469321,Smerinthinae,prackendb
+0.11,11,0,F2,523180,Smerinthini,prackendb
+0.09,9,0,G,522847,Mimas,prackendb
+0.09,9,9,S,522848,Mimas tiliae,prackendb
+0.02,2,0,G,522835,Laothoe,prackendb
+0.02,2,2,S,522836,Laothoe populi,prackendb
+0.02,2,0,F1,82616,Sphinginae,prackendb
+0.02,2,0,F2,523164,Sphingini,prackendb
+0.02,2,0,G,7129,Manduca,prackendb
+0.02,2,2,S,7130,Manduca sexta,prackendb
+0.05,5,0,F,7089,Bombycidae,prackendb
+0.05,5,0,F1,475327,Bombycinae,prackendb
+0.05,5,0,G,7090,Bombyx,prackendb
+0.05,5,5,S,7091,Bombyx mori,prackendb
+0.25,25,0,O6,104493,Pterophoroidea,prackendb
+0.25,25,0,F,186111,Pterophoridae,prackendb
+0.25,25,0,F1,186112,Pterophorinae,prackendb
+0.14,14,0,G,1594452,Marasmarcha,prackendb
+0.14,14,14,S,1594453,Marasmarcha lunaedactyla,prackendb
+0.08,8,0,G,753424,Stenoptilia,prackendb
+0.08,8,8,S,1660692,Stenoptilia bipunctidactyla,prackendb
+0.03,3,0,G,467773,Emmelina,prackendb
+0.03,3,3,S,467774,Emmelina monodactyla,prackendb
+0.18,18,0,O6,104423,Drepanoidea,prackendb
+0.18,18,1,F,104425,Drepanidae,prackendb
+0.1,10,0,F1,219490,Thyatirinae,prackendb
+0.09,9,0,G,219491,Habrosyne,prackendb
+0.09,9,9,S,721137,Habrosyne pyritoides,prackendb
+0.01,1,0,G,721162,Thyatira,prackendb
+0.01,1,1,S,721163,Thyatira batis,prackendb
+0.07,7,0,F1,104465,Drepaninae,prackendb
+0.05,5,0,G,104426,Drepana,prackendb
+0.05,5,5,S,104428,Drepana falcataria,prackendb
+0.02,2,0,G,721164,Watsonalla,prackendb
+0.02,2,2,S,721165,Watsonalla binaria,prackendb
+1.39,139,4,O5,104430,Apoditrysia,prackendb
+0.72,72,0,O6,37568,Tortricoidea,prackendb
+0.72,72,1,F,7139,Tortricidae,prackendb
+0.6,60,0,F1,81687,Olethreutinae,prackendb
+0.22,22,0,F2,581385,Eucosmini,prackendb
+0.16,16,0,G,29054,Epinotia,prackendb
+0.08,8,8,S,1594293,Epinotia bilunana,prackendb
+0.05,5,5,S,1594294,Epinotia demarniana,prackendb
+0.03,3,3,S,989769,Epinotia nisella,prackendb
+0.06,6,0,G,581513,Notocelia,prackendb
+0.06,6,6,S,1594315,Notocelia uddmanniana,prackendb
+0.21,21,0,F2,581387,Grapholitini,prackendb
+0.13,13,0,G,581588,Pammene,prackendb
+0.08,8,8,S,1870148,Pammene aurita,prackendb
+0.05,5,5,S,1101027,Pammene fasciana,prackendb
+0.04,4,0,G,293340,Grapholita,prackendb
+0.04,4,4,S,192188,Grapholita molesta,prackendb
+0.04,4,0,G,82599,Cydia,prackendb
+0.04,4,4,S,1100963,Cydia splendana,prackendb
+0.17,17,0,F2,581389,Olethreutini,prackendb
+0.1,10,2,G,572704,Apotomis,prackendb
+0.05,5,5,S,1100916,Apotomis turbidana,prackendb
+0.03,3,3,S,1100915,Apotomis betuletana,prackendb
+0.04,4,0,G,581658,Eudemis,prackendb
+0.04,4,4,S,1100989,Eudemis profundana,prackendb
+0.03,3,0,G,572852,Hedya,prackendb
+0.03,3,3,S,1869985,Hedya salicella,prackendb
+0.11,11,0,F1,65022,Tortricinae,prackendb
+0.08,8,0,F2,173709,Tortricini,prackendb
+0.08,8,0,G,572799,Acleris,prackendb
+0.03,3,3,S,758706,Acleris emargana,prackendb
+0.03,3,3,S,1100899,Acleris literana,prackendb
+0.02,2,2,S,758717,Acleris sparsana,prackendb
+0.03,3,0,F2,81689,Archipini,prackendb
+0.03,3,0,G,192190,Pandemis,prackendb
+0.03,3,3,S,753214,Pandemis cinnamomeana,prackendb
+0.45,45,0,O6,104434,Sesioidea,prackendb
+0.45,45,0,F,106496,Sesiidae,prackendb
+0.45,45,1,F1,106499,Sesiinae,prackendb
+0.34,34,0,F2,301641,Synanthedonini,prackendb
+0.25,25,3,G,106500,Synanthedon,prackendb
+0.07,7,7,S,301036,Synanthedon formicaeformis,prackendb
+0.06,6,6,S,1108570,Synanthedon myopaeformis,prackendb
+0.05,5,5,S,1660703,Synanthedon vespiformis,prackendb
+0.04,4,4,S,1108569,Synanthedon andrenaeformis,prackendb
+0.09,9,0,G,300855,Bembecia,prackendb
+0.09,9,9,S,301037,Bembecia ichneumoniformis,prackendb
+0.1,10,0,F2,301638,Sesiini,prackendb
+0.1,10,2,G,287191,Sesia,prackendb
+0.04,4,4,S,287197,Sesia bembeciformis,prackendb
+0.04,4,4,S,748215,Sesia apiformis,prackendb
+0.11,11,0,O6,104435,Zygaenoidea,prackendb
+0.1,10,0,F,115353,Limacodidae,prackendb
+0.1,10,0,G,287107,Apoda,prackendb
+0.1,10,10,S,287200,Apoda limacodes,prackendb
+0.01,1,0,F,115354,Zygaenidae,prackendb
+0.01,1,0,F1,287187,Zygaeninae,prackendb
+0.01,1,0,G,287110,Zygaena,prackendb
+0.01,1,1,S,287375,Zygaena filipendulae,prackendb
+0.06,6,0,O6,104432,Cossoidea,prackendb
+0.06,6,0,F,186108,Cossidae,prackendb
+0.06,6,0,F1,1556158,Zeuzerinae,prackendb
+0.06,6,0,G,655084,Zeuzera,prackendb
+0.06,6,6,S,1101072,Zeuzera pyrina,prackendb
+0.01,1,0,O6,104437,Copromorphoidea,prackendb
+0.01,1,0,F,252293,Carposinidae,prackendb
+0.01,1,0,G,252294,Carposina,prackendb
+0.01,1,1,S,252295,Carposina sasakii,prackendb
+0.3,30,0,O5,37581,Gelechioidea,prackendb
+0.12,12,0,F,2681869,Depressariidae,prackendb
+0.08,8,0,F1,116119,Depressariinae,prackendb
+0.08,8,0,G,262437,Agonopterix,prackendb
+0.06,6,6,S,1594222,Agonopterix arenella,prackendb
+0.02,2,2,S,1857958,Agonopterix subpropinquella,prackendb
+0.04,4,0,F1,2925401,Depressariidae incertae sedis,prackendb
+0.04,4,0,G,116120,Carcina,prackendb
+0.04,4,4,S,116121,Carcina quercana,prackendb
+0.1,10,0,F,173649,Blastobasidae,prackendb
+0.1,10,2,G,655692,Blastobasis,prackendb
+0.06,6,6,S,2561016,Blastobasis lacticolella,prackendb
+0.02,2,2,S,1869501,Blastobasis adustella,prackendb
+0.07,7,0,F,57992,Oecophoridae,prackendb
+0.07,7,0,F1,116123,Oecophorinae,prackendb
+0.07,7,0,G,688988,Esperia,prackendb
+0.07,7,7,S,2870497,Esperia sulphurella,prackendb
+0.01,1,0,F,173647,Cosmopterigidae,prackendb
+0.01,1,0,F1,248746,Cosmopteriginae,prackendb
+0.01,1,0,G,545366,Hyposmocoma,prackendb
+0.01,1,1,S,1477025,Hyposmocoma kahamanoa,prackendb
+0.21,21,0,O5,37582,Yponomeutoidea,prackendb
+0.15,15,0,F,687156,Ypsolophidae,prackendb
+0.15,15,0,G,687147,Ypsolopha,prackendb
+0.13,13,13,S,1870435,Ypsolopha scabrella,prackendb
+0.02,2,2,S,1870436,Ypsolopha sequella,prackendb
+0.04,4,0,F,51653,Plutellidae,prackendb
+0.04,4,0,G,51654,Plutella,prackendb
+0.04,4,4,S,51655,Plutella xylostella,prackendb
+0.02,2,0,F,33464,Yponomeutidae,prackendb
+0.02,2,0,F1,397427,Yponomeutinae,prackendb
+0.02,2,0,G,33465,Yponomeuta,prackendb
+0.02,2,2,S,263933,Yponomeuta sedellus,prackendb
+0.17,17,0,O5,41011,Tineoidea,prackendb
+0.17,17,0,F,41012,Tineidae,prackendb
+0.17,17,0,F1,236781,Tineinae,prackendb
+0.17,17,0,G,41013,Tinea,prackendb
+0.09,9,9,S,1594354,Tinea trinotella,prackendb
+0.08,8,8,S,1101063,Tinea semifulvella,prackendb
+0.04,4,0,O4,37584,Incurvarioidea,prackendb
+0.03,3,0,F,98958,Incurvariidae,prackendb
+0.03,3,0,G,101736,Incurvaria,prackendb
+0.03,3,3,S,101737,Incurvaria masculella,prackendb
+0.01,1,0,F,30222,Adelidae,prackendb
+0.01,1,0,G,753374,Nematopogon,prackendb
+0.01,1,1,S,753375,Nematopogon swammerdamellus,prackendb
+0.04,4,0,O1,41024,Zeugloptera,prackendb
+0.04,4,0,F,41025,Micropterigidae,prackendb
+0.04,4,0,G,41026,Micropterix,prackendb
+0.04,4,4,S,1042620,Micropterix aruncella,prackendb
+0.35,35,0,O,30263,Trichoptera,prackendb
+0.35,35,0,O1,93875,Integripalpia,prackendb
+0.35,35,0,O2,1683728,Plenitentoria,prackendb
+0.35,35,0,O3,41033,Limnephiloidea,prackendb
+0.35,35,0,F,50645,Limnephilidae,prackendb
+0.35,35,0,F1,177669,Limnephilinae,prackendb
+0.35,35,1,F2,177673,Limnephilini,prackendb
+0.19,19,1,G,177674,Limnephilus,prackendb
+0.11,11,11,S,1271730,Limnephilus marmoratus,prackendb
+0.05,5,5,S,692089,Limnephilus rhombicus,prackendb
+0.02,2,2,S,1218281,Limnephilus lunatus,prackendb
+0.15,15,0,G,1271741,Glyphotaelius,prackendb
+0.15,15,15,S,1271742,Glyphotaelius pellucidus,prackendb
+1.43,143,3,O,7041,Coleoptera,prackendb
+1.12,112,0,O1,41084,Polyphaga,prackendb
+0.79,79,1,O2,41088,Cucujiformia,prackendb
+0.38,38,0,O3,71528,Chrysomeloidea,prackendb
+0.37,37,0,F,27439,Chrysomelidae,prackendb
+0.18,18,0,F1,63710,Galerucinae,prackendb
+0.15,15,0,F2,131578,Alticini,prackendb
+0.11,11,0,G,294691,Psylliodes,prackendb
+0.11,11,11,S,2598218,Psylliodes chrysocephala,prackendb
+0.04,4,0,G,224132,Phyllotreta,prackendb
+0.02,2,2,S,224133,Phyllotreta cruciferae,prackendb
+0.02,2,2,S,444603,Phyllotreta striolata,prackendb
+0.03,3,0,F2,63711,Luperini,prackendb
+0.03,3,0,F3,226742,Diabroticina,prackendb
+0.03,3,0,F4,226749,Diabroticites,prackendb
+0.03,3,0,G,50385,Diabrotica,prackendb
+0.02,2,2,S,107213,Diabrotica balteata,prackendb
+0.01,1,0,S,50389,Diabrotica virgifera,prackendb
+0.01,1,1,S1,50390,Diabrotica virgifera virgifera,prackendb
+0.18,18,0,F1,63707,Chrysomelinae,prackendb
+0.18,18,0,F2,63708,Chrysomelini,prackendb
+0.11,11,0,G,41125,Chrysolina,prackendb
+0.11,11,11,S,1587174,Chrysolina oricalcia,prackendb
+0.07,7,0,G,80248,Phaedon,prackendb
+0.07,7,7,S,80249,Phaedon cochleariae,prackendb
+0.01,1,0,F1,131688,Cryptocephalinae,prackendb
+0.01,1,0,G,204943,Cryptocephalus,prackendb
+0.01,1,1,S,204949,Cryptocephalus moraei,prackendb
+0.01,1,0,F,34667,Cerambycidae,prackendb
+0.01,1,0,F1,79514,Lamiinae,prackendb
+0.01,1,0,F2,192383,Lamiini,prackendb
+0.01,1,0,G,157304,Anoplophora,prackendb
+0.01,1,1,S,217634,Anoplophora glabripennis,prackendb
+0.16,16,0,O3,71529,Curculionoidea,prackendb
+0.1,10,0,F,7042,Curculionidae,prackendb
+0.06,6,0,F1,39814,Entiminae,prackendb
+0.06,6,0,F2,465383,Polydrusini,prackendb
+0.06,6,0,G,122852,Polydrusus,prackendb
+0.06,6,6,S,202137,Polydrusus cervinus,prackendb
+0.03,3,0,F1,123516,Ceutorhynchinae,prackendb
+0.03,3,0,G,201855,Ceutorhynchus,prackendb
+0.03,3,3,S,467358,Ceutorhynchus assimilis,prackendb
+0.01,1,0,F1,55867,Scolytinae,prackendb
+0.01,1,0,G,141196,Xylechinosomus,prackendb
+0.01,1,1,S,141197,Xylechinosomus valdivianus,prackendb
+0.06,6,0,F,122737,Attelabidae,prackendb
+0.06,6,0,F1,701798,Apoderinae,prackendb
+0.06,6,0,G,122772,Apoderus,prackendb
+0.06,6,6,S,201766,Apoderus coryli,prackendb
+0.09,9,0,O3,71527,Tenebrionoidea,prackendb
+0.05,5,0,F,55098,Pyrochroidae,prackendb
+0.05,5,0,G,295984,Pyrochroa,prackendb
+0.05,5,5,S,346838,Pyrochroa serraticornis,prackendb
+0.04,4,0,F,7065,Tenebrionidae,prackendb
+0.04,4,0,F1,1304792,Tenebrionidae incertae sedis,prackendb
+0.04,4,0,G,7069,Tribolium,prackendb
+0.03,3,3,S,7072,Tribolium freemani,prackendb
+0.01,1,1,S,41895,Tribolium madens,prackendb
+0.08,8,0,O3,2939015,Coccinelloidea,prackendb
+0.08,8,0,F,7080,Coccinellidae,prackendb
+0.08,8,0,F1,7081,Coccinellinae,prackendb
+0.04,4,0,F2,263631,Coccinellini,prackendb
+0.02,2,0,G,41138,Coccinella,prackendb
+0.02,2,2,S,41139,Coccinella septempunctata,prackendb
+0.02,2,0,G,7083,Adalia,prackendb
+0.02,2,2,S,7084,Adalia bipunctata,prackendb
+0.04,4,0,F2,263632,Halyziini,prackendb
+0.04,4,0,G,347358,Halyzia,prackendb
+0.04,4,4,S,347359,Halyzia sedecimguttata,prackendb
+0.05,5,0,O3,71525,Cleroidea,prackendb
+0.05,5,0,F,186093,Melyridae,prackendb
+0.05,5,0,F1,353826,Malachiinae,prackendb
+0.05,5,0,G,295699,Malachius,prackendb
+0.05,5,5,S,295700,Malachius bipustulatus,prackendb
+0.02,2,0,O3,71526,Cucujoidea,prackendb
+0.02,2,0,F,116151,Nitidulidae,prackendb
+0.02,2,0,F1,577241,Meligethinae,prackendb
+0.02,2,0,G,1431902,Brassicogethes,prackendb
+0.02,2,2,S,1431903,Brassicogethes aeneus,prackendb
+0.24,24,0,O2,41085,Staphyliniformia,prackendb
+0.24,24,0,O3,75543,Staphylinoidea,prackendb
+0.15,15,0,F,29026,Staphylinidae,prackendb
+0.15,15,0,F1,351514,Staphylininae group,prackendb
+0.15,15,0,F2,82886,Staphylininae,prackendb
+0.15,15,0,F3,295648,Staphylinini,prackendb
+0.09,9,0,G,290671,Ocypus,prackendb
+0.09,9,9,S,662956,Ocypus olens,prackendb
+0.06,6,0,G,219450,Philonthus,prackendb
+0.06,6,6,S,346820,Philonthus cognatus,prackendb
+0.09,9,0,F,57514,Silphidae,prackendb
+0.09,9,0,F1,82881,Silphinae,prackendb
+0.09,9,0,G,414933,Phosphuga,prackendb
+0.09,9,9,S,414934,Phosphuga atrata,prackendb
+0.08,8,0,O2,41087,Elateriformia,prackendb
+0.08,8,0,O3,71193,Elateroidea,prackendb
+0.06,6,0,F,41097,Cantharidae,prackendb
+0.06,6,0,F1,433502,Cantharinae,prackendb
+0.04,4,0,G,186072,Podabrus,prackendb
+0.04,4,4,S,1553677,Podabrus alpinus,prackendb
+0.01,1,0,G,41100,Rhagonycha,prackendb
+0.01,1,1,S,41101,Rhagonycha fulva,prackendb
+0.01,1,0,G,41098,Cantharis,prackendb
+0.01,1,1,S,195172,Cantharis rustica,prackendb
+0.01,1,0,F,71195,Lycidae,prackendb
+0.01,1,0,F1,2043421,Erotinae,prackendb
+0.01,1,0,G,343828,Plateros,prackendb
+0.01,1,0,G1,2627509,unclassified Plateros,prackendb
+0.01,1,1,S,1904180,Plateros sp. UPOL A00510,prackendb
+0.01,1,0,F,7049,Lampyridae,prackendb
+0.01,1,0,F1,433514,Lampyrinae,prackendb
+0.01,1,0,G,7053,Photinus,prackendb
+0.01,1,1,S,7054,Photinus pyralis,prackendb
+0.01,1,0,O2,41086,Scarabaeiformia,prackendb
+0.01,1,0,O3,75546,Scarabaeoidea,prackendb
+0.01,1,0,F,7055,Scarabaeidae,prackendb
+0.01,1,0,F1,7059,Melolonthinae,prackendb
+0.01,1,0,G,7060,Melolontha,prackendb
+0.01,1,1,S,7061,Melolontha melolontha,prackendb
+0.28,28,0,O1,41071,Adephaga,prackendb
+0.28,28,0,O2,535382,Caraboidea,prackendb
+0.28,28,0,F,41073,Carabidae,prackendb
+0.15,15,0,F1,71541,Harpalinae,prackendb
+0.09,9,0,F2,879230,Pterostichini,prackendb
+0.09,9,0,G,41078,Pterostichus,prackendb
+0.09,9,0,G1,484232,Steropus,prackendb
+0.09,9,9,S,767470,Pterostichus madidus,prackendb
+0.06,6,0,F2,60759,Harpalini,prackendb
+0.06,6,0,G,247414,Ophonus,prackendb
+0.06,6,6,S,247415,Ophonus ardosiacus,prackendb
+0.13,13,0,F1,71539,Nebriinae,prackendb
+0.13,13,0,F2,60833,Nebriini,prackendb
+0.08,8,4,G,60834,Nebria,prackendb
+0.02,2,0,G1,186517,Nebria,prackendb
+0.02,2,2,S,110024,Nebria brevicollis,prackendb
+0.02,2,0,G1,186524,Boreonebria,prackendb
+0.02,2,2,S,878211,Nebria salina,prackendb
+0.05,5,0,G,60836,Leistus,prackendb
+0.05,5,5,S,878056,Leistus spinibarbis,prackendb
+1.11,111,0,O,7399,Hymenoptera,prackendb
+1.03,103,1,O1,7400,Apocrita,prackendb
+0.92,92,0,O2,7434,Aculeata,prackendb
+0.65,65,2,O3,34735,Apoidea,prackendb
+0.15,15,0,F,7458,Apidae,prackendb
+0.09,9,0,F1,70987,Apinae,prackendb
+0.08,8,0,F2,83311,Bombini,prackendb
+0.08,8,3,G,28641,Bombus,prackendb
+0.02,2,0,G1,144703,Pyrobombus,prackendb
+0.02,2,2,S,30191,Bombus hypnorum,prackendb
+0.02,2,1,G1,28653,Psithyrus,prackendb
+0.01,1,1,S,207624,Bombus campestris,prackendb
+0.01,1,0,G1,144704,Megabombus,prackendb
+0.01,1,1,S,85660,Bombus hortorum,prackendb
+0.01,1,0,F2,83321,Apini,prackendb
+0.01,1,1,G,7459,Apis,prackendb
+0.06,6,0,F1,78169,Nomadinae,prackendb
+0.06,6,0,F2,95294,Nomadini,prackendb
+0.06,6,0,G,95295,Nomada,prackendb
+0.06,6,6,S,601510,Nomada fabriciana,prackendb
+0.12,12,0,F,77572,Halictidae,prackendb
+0.11,11,0,F1,77573,Halictinae,prackendb
+0.08,8,0,F2,88544,Halictini,prackendb
+0.07,7,0,G,88467,Lasioglossum,prackendb
+0.03,3,0,G1,88472,Lasioglossum,prackendb
+0.03,3,3,S,88531,Lasioglossum lativentre,prackendb
+0.03,3,0,G1,88474,Evylaeus,prackendb
+0.03,3,3,S,88516,Lasioglossum pauxillum,prackendb
+0.01,1,0,G1,88475,Dialictus,prackendb
+0.01,1,1,S,88514,Lasioglossum morio,prackendb
+0.01,1,0,G,88466,Seladonia,prackendb
+0.01,1,1,S,115100,Seladonia tumulorum,prackendb
+0.03,3,0,F2,479730,Sphecodini,prackendb
+0.03,3,0,G,88591,Sphecodes,prackendb
+0.03,3,3,S,1190790,Sphecodes monilicornis,prackendb
+0.01,1,0,F1,178025,Rophitinae,prackendb
+0.01,1,0,G,178032,Dufourea,prackendb
+0.01,1,1,S,178035,Dufourea novaeangliae,prackendb
+0.12,12,0,F,124286,Megachilidae,prackendb
+0.12,12,0,F1,156330,Megachilinae,prackendb
+0.08,8,0,F2,156331,Megachilini,prackendb
+0.08,8,1,G,132116,Megachile,prackendb
+0.03,3,3,S,481575,Megachile willughbiella,prackendb
+0.03,3,3,S,1542540,Megachile ligniseca,prackendb
+0.01,1,1,S,143995,Megachile rotundata,prackendb
+0.02,2,0,F2,156332,Osmiini,prackendb
+0.02,2,0,G,124287,Osmia,prackendb
+0.02,2,0,S,1437190,Osmia bicornis,prackendb
+0.02,2,2,S1,1437191,Osmia bicornis bicornis,prackendb
+0.02,2,0,F2,156337,Anthidiini,prackendb
+0.02,2,0,G,216413,Stelis,prackendb
+0.02,2,2,S,2249760,Stelis phaeoptera,prackendb
+0.11,11,0,O4,2153468,Spheciformes,prackendb
+0.11,11,0,F,253718,Crabronidae,prackendb
+0.04,4,0,F1,253722,Crabroninae,prackendb
+0.03,3,0,F2,288410,Crabronini,prackendb
+0.03,3,0,F3,421285,Crabronina,prackendb
+0.03,3,0,G,421297,Ectemnius,prackendb
+0.02,2,2,S,1126389,Ectemnius continuus,prackendb
+0.01,1,1,S,2495015,Ectemnius lituratus,prackendb
+0.01,1,0,F2,288417,Larrini,prackendb
+0.01,1,0,F3,421331,Larrina,prackendb
+0.01,1,0,G,421343,Liris,prackendb
+0.01,1,0,S,1988062,Liris festinans,prackendb
+0.01,1,1,S1,1988063,Liris festinans praetermissus,prackendb
+0.04,4,0,F1,288404,Bembicinae,prackendb
+0.04,4,0,F2,302523,Nyssonini,prackendb
+0.04,4,0,G,421220,Nysson,prackendb
+0.04,4,4,S,2495127,Nysson spinosus,prackendb
+0.02,2,0,F1,253723,Pemphredoninae,prackendb
+0.01,1,0,F2,302062,Pemphredonini,prackendb
+0.01,1,0,F3,421392,Pemphredonina,prackendb
+0.01,1,0,G,421402,Pemphredon,prackendb
+0.01,1,1,S,2495172,Pemphredon lugubris,prackendb
+0.01,1,0,F2,421418,Psenini,prackendb
+0.01,1,0,G,421423,Mimumesa,prackendb
+0.01,1,1,S,2495085,Mimumesa dahlbomi,prackendb
+0.01,1,0,F1,216423,Philanthinae,prackendb
+0.01,1,0,F2,288382,Cercerini,prackendb
+0.01,1,0,G,288388,Cerceris,prackendb
+0.01,1,1,S,1167272,Cerceris rybyensis,prackendb
+0.07,7,0,F,48719,Andrenidae,prackendb
+0.07,7,0,F1,205141,Andreninae,prackendb
+0.07,7,0,G,48720,Andrena,prackendb
+0.05,5,0,G1,1126400,Andrena incertae sedis,prackendb
+0.05,5,5,S,1126402,Andrena hattorfiana,prackendb
+0.01,1,0,G1,205261,Andrena,prackendb
+0.01,1,1,S,1411667,Andrena fulva,prackendb
+0.01,1,0,G1,205272,Simandrena,prackendb
+0.01,1,1,S,1411666,Andrena dorsata,prackendb
+0.06,6,0,F,156323,Melittidae,prackendb
+0.06,6,0,F1,253710,Melittinae,prackendb
+0.06,6,0,G,253714,Macropis,prackendb
+0.06,6,6,S,253715,Macropis europaea,prackendb
+0.15,15,0,O3,2153479,Formicoidea,prackendb
+0.15,15,0,F,36668,Formicidae,prackendb
+0.07,7,0,F1,34695,Myrmicinae,prackendb
+0.02,2,0,F2,144004,Crematogastrini,prackendb
+0.02,2,0,G,300110,Temnothorax,prackendb
+0.02,2,2,S,300111,Temnothorax curvispinosus,prackendb
+0.02,2,0,F2,144017,Solenopsidini,prackendb
+0.02,2,0,G,55077,Monomorium,prackendb
+0.02,2,2,S,307658,Monomorium pharaonis,prackendb
+0.02,2,1,F2,143999,Attini,prackendb
+0.01,1,0,G,64782,Acromyrmex,prackendb
+0.01,1,1,S,103372,Acromyrmex echinatior,prackendb
+0.01,1,0,F2,144020,Tetramoriini,prackendb
+0.01,1,0,G,30204,Tetramorium,prackendb
+0.01,1,1,S,219812,Tetramorium bicarinatum,prackendb
+0.04,4,0,F1,7479,Formicinae,prackendb
+0.02,2,0,F2,72771,Formicini,prackendb
+0.02,2,0,G,47732,Cataglyphis,prackendb
+0.02,2,2,S,1086592,Cataglyphis hispanica,prackendb
+0.01,1,0,F2,72772,Lasiini,prackendb
+0.01,1,0,G,710235,Nylanderia,prackendb
+0.01,1,1,S,613905,Nylanderia fulva,prackendb
+0.01,1,0,F2,72773,Camponotini,prackendb
+0.01,1,0,G,13390,Camponotus,prackendb
+0.01,1,1,S,104421,Camponotus floridanus,prackendb
+0.03,3,0,F1,43085,Ponerinae,prackendb
+0.03,3,0,F2,141711,Ponerini,prackendb
+0.02,2,0,G,604375,Harpegnathos,prackendb
+0.02,2,2,S,610380,Harpegnathos saltator,prackendb
+0.01,1,0,G,369122,Dinoponera,prackendb
+0.01,1,1,S,609295,Dinoponera quadriceps,prackendb
+0.01,1,0,F1,40139,Dolichoderinae,prackendb
+0.01,1,0,G,83484,Linepithema,prackendb
+0.01,1,1,S,83485,Linepithema humile,prackendb
+0.12,12,0,O3,34725,Vespoidea,prackendb
+0.12,12,0,F,7438,Vespidae,prackendb
+0.1,10,1,F1,7439,Vespinae,prackendb
+0.06,6,1,G,7440,Dolichovespula,prackendb
+0.03,3,3,S,881891,Dolichovespula media,prackendb
+0.01,1,1,S,85443,Dolichovespula saxonica,prackendb
+0.01,1,1,S,85444,Dolichovespula sylvestris,prackendb
+0.02,2,1,G,7451,Vespula,prackendb
+0.01,1,1,S,7454,Vespula vulgaris,prackendb
+0.01,1,1,G,7443,Vespa,prackendb
+0.02,2,0,F1,50638,Eumeninae,prackendb
+0.02,2,0,G,76989,Ancistrocerus,prackendb
+0.02,2,2,S,76990,Ancistrocerus nigricornis,prackendb
+0.1,10,0,O2,1955251,Parasitoida,prackendb
+0.09,9,0,O3,7401,Ichneumonoidea,prackendb
+0.06,6,1,F,7408,Ichneumonidae,prackendb
+0.02,2,0,F1,65140,Ophioninae,prackendb
+0.02,2,0,F2,288186,Ophion group,prackendb
+0.02,2,0,G,29048,Ophion,prackendb
+0.02,2,2,S,1539398,Ophion luteus,prackendb
+0.02,2,0,F1,65163,Banchinae,prackendb
+0.02,2,0,F2,176302,Atrophini,prackendb
+0.02,2,0,G,493657,Alloplasta,prackendb
+0.02,2,2,S,2870495,Alloplasta piceator,prackendb
+0.01,1,0,F1,65171,Cryptinae,prackendb
+0.01,1,0,F2,172377,Cryptini,prackendb
+0.01,1,0,F3,231877,Cryptina,prackendb
+0.01,1,0,G,231878,Buathra,prackendb
+0.01,1,1,S,1419289,Buathra laborator,prackendb
+0.03,3,0,F,7402,Braconidae,prackendb
+0.02,2,0,F1,65197,Euphorinae,prackendb
+0.02,2,0,G,144405,Microctonus,prackendb
+0.02,2,2,S,2738948,Microctonus brassicae,prackendb
+0.01,1,0,F1,68883,Opiinae,prackendb
+0.01,1,0,G,58738,Fopius,prackendb
+0.01,1,1,S,64838,Fopius arisanus,prackendb
+0.01,1,0,O3,40307,Cynipoidea,prackendb
+0.01,1,0,F,44353,Figitidae,prackendb
+0.01,1,0,F1,303412,Eucoilinae,prackendb
+0.01,1,0,G,63429,Leptopilina,prackendb
+0.01,1,1,S,63433,Leptopilina boulardi,prackendb
+0.08,8,0,O1,85772,Tenthredinoidea,prackendb
+0.05,5,0,F,27532,Tenthredinidae,prackendb
+0.05,5,0,F1,112287,Tenthredininae,prackendb
+0.04,4,0,G,112291,Tenthredo,prackendb
+0.03,3,3,S,362091,Tenthredo notha,prackendb
+0.01,1,1,S,222778,Tenthredo mesomela,prackendb
+0.01,1,0,G,1250642,Rhogogaster,prackendb
+0.01,1,1,S,1385029,Rhogogaster chlorosoma,prackendb
+0.03,3,0,F,2982298,Athaliidae,prackendb
+0.03,3,0,G,37343,Athalia,prackendb
+0.03,3,3,S,37344,Athalia rosae,prackendb
+1.04,104,0,O,7147,Diptera,prackendb
+0.69,69,0,O1,7203,Brachycera,prackendb
+0.69,69,0,O2,43733,Muscomorpha,prackendb
+0.61,61,0,O3,480118,Eremoneura,prackendb
+0.6,60,0,O4,480117,Cyclorrhapha,prackendb
+0.31,31,0,O5,43737,Aschiza,prackendb
+0.31,31,0,O6,43740,Syrphoidea,prackendb
+0.31,31,0,F,34680,Syrphidae,prackendb
+0.19,19,0,F1,115244,Eristalinae,prackendb
+0.09,9,0,F2,115277,Eristalini,prackendb
+0.05,5,0,G,198633,Eristalis,prackendb
+0.05,5,5,S,1572519,Eristalis pertinax,prackendb
+0.03,3,0,G,115278,Eristalinus,prackendb
+0.03,3,3,S,2725509,Eristalinus sepulchralis,prackendb
+0.01,1,0,G,2714348,Myathropa,prackendb
+0.01,1,1,S,2714349,Myathropa florea,prackendb
+0.07,7,0,F2,192448,Rhingiini,prackendb
+0.07,7,0,G,173981,Cheilosia,prackendb
+0.03,3,3,S,273409,Cheilosia vulpina,prackendb
+0.02,2,2,S,173985,Cheilosia urbana,prackendb
+0.02,2,2,S,273407,Cheilosia pagana,prackendb
+0.02,2,0,F2,224230,Xylotini,prackendb
+0.02,2,0,G,226146,Blera,prackendb
+0.02,2,2,S,226147,Blera fallax,prackendb
+0.01,1,0,F2,115284,Volucellini,prackendb
+0.01,1,0,G,226148,Volucella,prackendb
+0.01,1,1,S,226151,Volucella inanis,prackendb
+0.12,12,0,F1,43838,Syrphinae,prackendb
+0.12,12,0,F2,115274,Syrphini,prackendb
+0.04,4,0,G,219538,Scaeva,prackendb
+0.04,4,4,S,219539,Scaeva pyrastri,prackendb
+0.02,2,0,G,414813,Epistrophella,prackendb
+0.02,2,2,S,414814,Epistrophella euchroma,prackendb
+0.02,2,0,G,414800,Dasysyrphus,prackendb
+0.02,2,2,S,414801,Dasysyrphus albostriatus,prackendb
+0.01,1,0,G,414873,Xanthogramma,prackendb
+0.01,1,1,S,414876,Xanthogramma pedissequum,prackendb
+0.01,1,0,G,286458,Episyrphus,prackendb
+0.01,1,1,S,286459,Episyrphus balteatus,prackendb
+0.01,1,0,G,414810,Epistrophe,prackendb
+0.01,1,1,S,1352479,Epistrophe grossulariae,prackendb
+0.01,1,0,G,323311,Leucozona,prackendb
+0.01,1,1,S,323312,Leucozona laternaria,prackendb
+0.29,29,1,O5,43738,Schizophora,prackendb
+0.17,17,1,O6,43741,Acalyptratae,prackendb
+0.06,6,0,O7,43746,Ephydroidea,prackendb
+0.06,6,0,F,7214,Drosophilidae,prackendb
+0.06,6,0,F1,43845,Drosophilinae,prackendb
+0.06,6,0,F2,46877,Drosophilini,prackendb
+0.06,6,0,G,7215,Drosophila,prackendb
+0.05,5,0,G1,32341,Sophophora,prackendb
+0.03,3,0,G2,32346,melanogaster group,prackendb
+0.03,3,0,G3,32351,melanogaster subgroup,prackendb
+0.03,3,3,S,7227,Drosophila melanogaster,prackendb
+0.02,2,0,G2,32355,obscura group,prackendb
+0.02,2,0,G3,32358,pseudoobscura subgroup,prackendb
+0.02,2,2,S,7229,Drosophila miranda,prackendb
+0.01,1,0,G1,32280,Dorsilopha,prackendb
+0.01,1,1,S,30019,Drosophila busckii,prackendb
+0.06,6,0,O7,43752,Tephritoidea,prackendb
+0.06,6,2,F,7211,Tephritidae,prackendb
+0.03,3,0,F1,164860,Dacinae,prackendb
+0.03,3,0,F2,43871,Dacini,prackendb
+0.02,2,0,G,27456,Bactrocera,prackendb
+0.02,2,0,G1,69624,Daculus,prackendb
+0.02,2,2,S,104688,Bactrocera oleae,prackendb
+0.01,1,0,G,47833,Zeugodacus,prackendb
+0.01,1,0,G1,1987911,Zeugodacus,prackendb
+0.01,1,1,S,28588,Zeugodacus cucurbitae,prackendb
+0.01,1,0,F1,43867,Trypetinae,prackendb
+0.01,1,0,F2,43901,Carpomyini,prackendb
+0.01,1,0,F3,164882,Carpomyina,prackendb
+0.01,1,1,G,28609,Rhagoletis,prackendb
+0.04,4,0,O7,43744,Conopoidea,prackendb
+0.04,4,0,F,115263,Conopidae,prackendb
+0.04,4,0,F1,115265,Myopinae,prackendb
+0.02,2,0,G,286486,Myopa,prackendb
+0.02,2,2,S,2829445,Myopa tessellatipennis,prackendb
+0.02,2,0,G,305546,Thecophora,prackendb
+0.02,2,2,S,1219171,Thecophora atra,prackendb
+0.11,11,0,O6,43742,Calyptratae,prackendb
+0.09,9,0,O7,43755,Oestroidea,prackendb
+0.06,6,0,F,27474,Tachinidae,prackendb
+0.06,6,0,F1,43917,Exoristinae,prackendb
+0.06,6,0,F2,179426,Eryciini,prackendb
+0.06,6,0,G,569039,Epicampocera,prackendb
+0.06,6,6,S,569040,Epicampocera succincta,prackendb
+0.03,3,0,F,7381,Sarcophagidae,prackendb
+0.03,3,0,F1,43916,Sarcophaginae,prackendb
+0.03,3,0,G,7384,Sarcophaga,prackendb
+0.02,2,0,G1,321190,Robineauella,prackendb
+0.02,2,2,S,596942,Sarcophaga caerulescens,prackendb
+0.01,1,0,G1,236878,Helicophagella,prackendb
+0.01,1,1,S,1206372,Sarcophaga rosellei,prackendb
+0.02,2,0,O7,43754,Muscoidea,prackendb
+0.02,2,0,F,7366,Muscidae,prackendb
+0.02,2,0,F1,43910,Muscinae,prackendb
+0.02,2,0,F2,57894,Muscini,prackendb
+0.02,2,0,G,7369,Musca,prackendb
+0.02,2,0,G1,44052,Musca,prackendb
+0.02,2,2,S,7370,Musca domestica,prackendb
+0.01,1,0,O4,50672,Empidoidea,prackendb
+0.01,1,0,F,92558,Dolichopodidae,prackendb
+0.01,1,0,F1,92572,Dolichopodinae,prackendb
+0.01,1,0,G,369886,Poecilobothrus,prackendb
+0.01,1,1,S,369887,Poecilobothrus nobilitatus,prackendb
+0.08,8,0,O3,50671,Asiloidea,prackendb
+0.07,7,0,F,50674,Bombyliidae,prackendb
+0.07,7,0,F1,50694,Bombyliinae,prackendb
+0.07,7,0,G,219362,Bombylius,prackendb
+0.04,4,4,S,240869,Bombylius major,prackendb
+0.03,3,3,S,2741128,Bombylius discolor,prackendb
+0.01,1,0,F,50673,Asilidae,prackendb
+0.01,1,0,F1,50679,Asilinae,prackendb
+0.01,1,0,G,247604,Machimus,prackendb
+0.01,1,1,S,2794001,Machimus atricapillus,prackendb
+0.35,35,0,O1,7148,Nematocera,prackendb
+0.22,22,0,O2,43786,Culicomorpha,prackendb
+0.14,14,0,O3,41827,Culicoidea,prackendb
+0.14,14,0,F,7157,Culicidae,prackendb
+0.14,14,0,F1,43816,Anophelinae,prackendb
+0.14,14,0,G,7164,Anopheles,prackendb
+0.13,13,0,G1,44534,Cellia,prackendb
+0.06,6,0,G2,59140,Myzomyia,prackendb
+0.03,3,3,S,1521116,Anopheles marshallii,prackendb
+0.02,2,0,G3,59142,funestus group,prackendb
+0.02,2,2,S,62324,Anopheles funestus,prackendb
+0.01,1,1,S,186751,Anopheles moucheti,prackendb
+0.04,4,0,G2,44535,Neocellia,prackendb
+0.03,3,3,S,1496333,Anopheles maculipalpis,prackendb
+0.01,1,1,S,30069,Anopheles stephensi,prackendb
+0.02,2,0,G2,44536,Neomyzomyia,prackendb
+0.02,2,0,G3,185573,ardensis group,prackendb
+0.02,2,0,G4,185574,nili species complex,prackendb
+0.02,2,2,S,185578,Anopheles nili,prackendb
+0.01,1,0,G2,44537,Pyretophorus,prackendb
+0.01,1,1,G3,44542,gambiae species complex,prackendb
+0.01,1,0,G1,44482,Anopheles,prackendb
+0.01,1,0,G2,58247,Laticorn,prackendb
+0.01,1,0,G3,58250,Myzorhynchus,prackendb
+0.01,1,0,G4,59130,coustani group,prackendb
+0.01,1,1,S,139045,Anopheles coustani,prackendb
+0.08,8,0,O3,41828,Chironomoidea,prackendb
+0.06,6,0,F,41819,Ceratopogonidae,prackendb
+0.06,6,0,F1,43801,Ceratopogoninae,prackendb
+0.06,6,0,F2,58262,Culicoidini,prackendb
+0.06,6,0,G,41820,Culicoides,prackendb
+0.06,6,0,G1,58277,Monoculicoides,prackendb
+0.06,6,6,S,179676,Culicoides sonorensis,prackendb
+0.02,2,0,F,7149,Chironomidae,prackendb
+0.02,2,0,F1,54970,Chironominae,prackendb
+0.02,2,0,F2,72530,Chironomini,prackendb
+0.02,2,0,G,7150,Chironomus,prackendb
+0.02,2,0,G1,1165752,Chironomus incertae sedis,prackendb
+0.02,2,2,S,315576,Chironomus riparius,prackendb
+0.11,11,0,O2,43784,Bibionomorpha,prackendb
+0.08,8,0,O3,43790,Bibionoidea,prackendb
+0.08,8,0,F,52729,Bibionidae,prackendb
+0.08,8,0,F1,52730,Bibioninae,prackendb
+0.08,8,0,G,189978,Bibio,prackendb
+0.08,8,8,S,189979,Bibio marci,prackendb
+0.03,3,0,O3,41830,Sciaroidea,prackendb
+0.03,3,0,F,33406,Cecidomyiidae,prackendb
+0.03,3,0,F1,329961,unclassified Cecidomyiidae,prackendb
+0.03,3,3,S,2121511,Cecidomyiidae sp. BIOUG27372-G09,prackendb
+0.02,2,0,O2,43787,Psychodomorpha,prackendb
+0.02,2,0,O3,41831,Psychodoidea,prackendb
+0.02,2,0,F,7197,Psychodidae,prackendb
+0.02,2,0,F1,7198,Phlebotominae,prackendb
+0.02,2,0,G,7199,Lutzomyia,prackendb
+0.02,2,0,G1,252607,Lutzomyia,prackendb
+0.02,2,2,S,7200,Lutzomyia longipalpis,prackendb
+0.06,6,0,C5,85817,Neuropterida,prackendb
+0.06,6,0,O,7516,Neuroptera,prackendb
+0.06,6,0,O1,2029065,Hemerobiiformia,prackendb
+0.06,6,0,F,7520,Chrysopidae,prackendb
+0.06,6,0,F1,2029106,Chrysopinae,prackendb
+0.06,6,0,G,7521,Chrysoperla,prackendb
+0.06,6,6,S,189513,Chrysoperla carnea,prackendb
+0.01,1,0,O,7509,Siphonaptera,prackendb
+0.01,1,0,O1,140693,Pulicomorpha,prackendb
+0.01,1,0,O2,129369,Pulicoidea,prackendb
+0.01,1,0,F,7511,Pulicidae,prackendb
+0.01,1,0,F1,476429,Archaeopsyllinae,prackendb
+0.01,1,0,G,7514,Ctenocephalides,prackendb
+0.01,1,1,S,7515,Ctenocephalides felis,prackendb
+0.77,77,0,C4,33341,Polyneoptera,prackendb
+0.6,60,0,O,7020,Phasmatodea,prackendb
+0.6,60,0,O1,523712,Timematodea,prackendb
+0.6,60,0,O2,213545,Timematoidea,prackendb
+0.6,60,0,F,213546,Timematidae,prackendb
+0.6,60,26,G,61471,Timema,prackendb
+0.1,10,10,S,629358,Timema genevievae,prackendb
+0.04,4,4,S,629360,Timema shepardi,prackendb
+0.04,4,4,S,170555,Timema monikensis,prackendb
+0.03,3,3,S,61474,Timema californicum,prackendb
+0.03,3,3,S,61476,Timema cristinae,prackendb
+0.03,3,3,S,61478,Timema douglasi,prackendb
+0.03,3,3,S,170557,Timema poppensis,prackendb
+0.02,2,2,S,61472,Timema bartmani,prackendb
+0.02,2,2,S,61484,Timema tahoe,prackendb
+0.14,14,0,O,50622,Plecoptera,prackendb
+0.11,11,0,O1,70405,Nemouroidea,prackendb
+0.04,4,0,F,143727,Taeniopterygidae,prackendb
+0.04,4,0,F1,143771,Brachypterainae,prackendb
+0.04,4,0,G,143731,Brachyptera,prackendb
+0.04,4,4,S,2065413,Brachyptera putata,prackendb
+0.04,4,0,F,143733,Leuctridae,prackendb
+0.04,4,0,F1,143769,Leuctrinae,prackendb
+0.04,4,0,G,143734,Leuctra,prackendb
+0.04,4,4,S,143735,Leuctra nigra,prackendb
+0.03,3,0,F,62802,Nemouridae,prackendb
+0.03,3,0,F1,143773,Nemourinae,prackendb
+0.03,3,0,G,143721,Nemurella,prackendb
+0.03,3,3,S,143722,Nemurella pictetii,prackendb
+0.03,3,0,O1,70404,Perloidea,prackendb
+0.03,3,0,F,50623,Perlodidae,prackendb
+0.03,3,0,F1,466866,Isoperlinae,prackendb
+0.03,3,0,G,143767,Isoperla,prackendb
+0.03,3,3,S,552050,Isoperla grammatica,prackendb
+0.02,2,0,C5,6970,Dictyoptera,prackendb
+0.02,2,0,O,85823,Blattodea,prackendb
+0.02,2,0,O1,1049657,Blattoidea,prackendb
+0.02,2,0,O2,1912919,Termitoidae,prackendb
+0.02,2,0,F,46562,Kalotermitidae,prackendb
+0.02,2,0,F1,105801,Cryptotermitinae,prackendb
+0.02,2,0,G,60568,Cryptotermes,prackendb
+0.02,2,2,S,105785,Cryptotermes secundus,prackendb
+0.01,1,0,O,6993,Orthoptera,prackendb
+0.01,1,0,O1,7001,Caelifera,prackendb
+0.01,1,0,O2,1955150,Acrididea,prackendb
+0.01,1,0,O3,70910,Acridomorpha,prackendb
+0.01,1,0,O4,156593,Pyrgomorphoidea,prackendb
+0.01,1,0,F,58543,Pyrgomorphidae,prackendb
+0.01,1,1,G,244709,Mekongiella,prackendb
+0.35,35,0,C4,33342,Paraneoptera,prackendb
+0.33,33,0,O,7524,Hemiptera,prackendb
+0.19,19,0,O1,33373,Sternorrhyncha,prackendb
+0.13,13,0,O2,33380,Aphidomorpha,prackendb
+0.13,13,0,O3,33385,Aphidoidea,prackendb
+0.13,13,0,F,27482,Aphididae,prackendb
+0.13,13,0,F1,133076,Aphidinae,prackendb
+0.12,12,0,F2,33387,Aphidini,prackendb
+0.08,8,0,G,345571,Melanaphis,prackendb
+0.08,8,8,S,742174,Melanaphis sacchari,prackendb
+0.04,4,0,G,80764,Aphis,prackendb
+0.04,4,0,G1,464929,Aphis,prackendb
+0.04,4,4,S,80765,Aphis gossypii,prackendb
+0.01,1,0,F2,33386,Macrosiphini,prackendb
+0.01,1,0,G,143947,Diuraphis,prackendb
+0.01,1,1,S,143948,Diuraphis noxia,prackendb
+0.06,6,0,O2,33377,Aleyrodoidea,prackendb
+0.06,6,0,F,7036,Aleyrodidae,prackendb
+0.06,6,0,F1,33379,Aleyrodinae,prackendb
+0.06,6,0,G,7037,Bemisia,prackendb
+0.06,6,6,S,7038,Bemisia tabaci,prackendb
+0.14,14,0,O1,33343,Prosorrhyncha,prackendb
+0.14,14,0,O2,33345,Heteroptera,prackendb
+0.14,14,0,O3,33347,Euheteroptera,prackendb
+0.14,14,0,O4,33349,Neoheteroptera,prackendb
+0.14,14,0,O5,33351,Panheteroptera,prackendb
+0.12,12,0,O6,33357,Pentatomomorpha,prackendb
+0.08,8,0,O7,38105,Coreoidea,prackendb
+0.08,8,0,F,186376,Coreidae,prackendb
+0.08,8,0,F1,2068237,Coreinae,prackendb
+0.08,8,0,G,1276926,Gonocerus,prackendb
+0.08,8,8,S,1545138,Gonocerus acuteangulatus,prackendb
+0.04,4,0,O7,33358,Pentatomoidea,prackendb
+0.04,4,0,F,160513,Pentatomidae,prackendb
+0.04,4,0,F1,286710,Pentatominae,prackendb
+0.04,4,0,G,85309,Nezara,prackendb
+0.04,4,4,S,85310,Nezara viridula,prackendb
+0.02,2,0,O6,33354,Cimicomorpha,prackendb
+0.02,2,0,O7,33355,Cimicoidea,prackendb
+0.02,2,0,F,30078,Cimicidae,prackendb
+0.02,2,0,G,30079,Cimex,prackendb
+0.02,2,2,S,79782,Cimex lectularius,prackendb
+0.01,1,0,O,30262,Thysanoptera,prackendb
+0.01,1,0,O1,38130,Terebrantia,prackendb
+0.01,1,0,O2,45049,Thripoidea,prackendb
+0.01,1,0,F,45053,Thripidae,prackendb
+0.01,1,0,F1,153976,Thripinae,prackendb
+0.01,1,0,G,45059,Frankliniella,prackendb
+0.01,1,1,S,133901,Frankliniella occidentalis,prackendb
+0.01,1,0,C5,1930602,Psocodea,prackendb
+0.01,1,0,O,85819,Phthiraptera,prackendb
+0.01,1,0,O1,35634,Ischnocera,prackendb
+0.01,1,0,F,66236,Philopteridae,prackendb
+0.01,1,0,G,66242,Halipeurus,prackendb
+0.01,1,1,S,66243,Halipeurus diversus,prackendb
+0.01,1,0,C3,33339,Palaeoptera,prackendb
+0.01,1,0,O,6961,Odonata,prackendb
+0.01,1,0,O1,50488,Zygoptera,prackendb
+0.01,1,0,O2,70894,Coenagrionoidea,prackendb
+0.01,1,0,F,126177,Platycnemididae,prackendb
+0.01,1,0,G,126230,Platycnemis,prackendb
+0.01,1,1,S,126231,Platycnemis pennipes,prackendb
+0.05,5,0,C,30001,Collembola,prackendb
+0.05,5,0,O,79705,Symphypleona,prackendb
+0.05,5,0,F,39131,Sminthuridae,prackendb
+0.05,5,0,G,39132,Allacma,prackendb
+0.05,5,5,S,39272,Allacma fusca,prackendb
+0.43,43,0,P3,6657,Crustacea,prackendb
+0.35,35,0,P4,2172821,Multicrustacea,prackendb
+0.14,14,0,C,6681,Malacostraca,prackendb
+0.14,14,0,C1,72041,Eumalacostraca,prackendb
+0.13,13,0,C2,6682,Eucarida,prackendb
+0.13,13,0,O,6683,Decapoda,prackendb
+0.13,13,0,O1,6692,Pleocyemata,prackendb
+0.12,12,0,O2,6694,Caridea,prackendb
+0.12,12,0,O3,115580,Palaemonoidea,prackendb
+0.12,12,0,F,6695,Palaemonidae,prackendb
+0.12,12,0,G,6696,Macrobrachium,prackendb
+0.12,12,12,S,159736,Macrobrachium nipponense,prackendb
+0.01,1,0,O2,6752,Brachyura,prackendb
+0.01,1,0,O3,116704,Eubrachyura,prackendb
+0.01,1,0,O4,116706,Heterotremata,prackendb
+0.01,1,0,O5,6774,Portunoidea,prackendb
+0.01,1,0,F,6757,Portunidae,prackendb
+0.01,1,0,G,80835,Portunus,prackendb
+0.01,1,1,S,210409,Portunus trituberculatus,prackendb
+0.01,1,0,C2,6820,Peracarida,prackendb
+0.01,1,0,O,6821,Amphipoda,prackendb
+0.01,1,1,O1,44328,Hyperiidea,prackendb
+0.13,13,0,C,72037,Hexanauplia,prackendb
+0.13,13,0,C1,6830,Copepoda,prackendb
+0.13,13,0,C2,116569,Neocopepoda,prackendb
+0.13,13,0,C3,116571,Podoplea,prackendb
+0.13,13,0,O,72033,Siphonostomatoida,prackendb
+0.13,13,0,F,72034,Caligidae,prackendb
+0.07,7,0,G,72035,Lepeophtheirus,prackendb
+0.07,7,7,S,72036,Lepeophtheirus salmonis,prackendb
+0.06,6,0,G,217164,Caligus,prackendb
+0.06,6,6,S,217165,Caligus rogercresseyi,prackendb
+0.08,8,0,C,116172,Thecostraca,prackendb
+0.08,8,0,C1,6675,Cirripedia,prackendb
+0.07,7,0,C2,6676,Thoracica,prackendb
+0.07,7,7,C3,2899756,Thoracicalcarea,prackendb
+0.01,1,0,C2,37909,Rhizocephala,prackendb
+0.01,1,0,F,38011,Sacculinidae,prackendb
+0.01,1,0,G,51649,Sacculina,prackendb
+0.01,1,1,S,51650,Sacculina carcini,prackendb
+0.06,6,0,P4,2172819,Oligostraca,prackendb
+0.06,6,0,C,6670,Ostracoda,prackendb
+0.06,6,0,C1,43953,Podocopa,prackendb
+0.06,6,0,O,84318,Podocopida,prackendb
+0.04,4,0,O1,116574,Darwinulocopina,prackendb
+0.04,4,0,O2,116575,Darwinuloidea,prackendb
+0.04,4,0,F,69351,Darwinulidae,prackendb
+0.04,4,0,G,69354,Darwinula,prackendb
+0.04,4,4,S,69355,Darwinula stevensoni,prackendb
+0.02,2,0,O1,84328,Cypridocopina,prackendb
+0.02,2,0,O2,84329,Cypridoidea,prackendb
+0.02,2,0,F,43954,Cyprididae,prackendb
+0.02,2,0,G,399044,Notodromas,prackendb
+0.02,2,2,S,399045,Notodromas monacha,prackendb
+0.02,2,0,C,6658,Branchiopoda,prackendb
+0.02,2,0,C1,116557,Phyllopoda,prackendb
+0.02,2,0,O,84337,Diplostraca,prackendb
+0.02,2,0,O1,6665,Cladocera,prackendb
+0.02,2,0,O2,116561,Anomopoda,prackendb
+0.02,2,0,F,77658,Daphniidae,prackendb
+0.02,2,0,G,6668,Daphnia,prackendb
+0.02,2,2,S,6669,Daphnia pulex,prackendb
+0.02,2,0,P2,61985,Myriapoda,prackendb
+0.01,1,0,C,7540,Chilopoda,prackendb
+0.01,1,0,C1,115405,Pleurostigmophora,prackendb
+0.01,1,0,O,41362,Lithobiomorpha,prackendb
+0.01,1,0,F,7548,Lithobiidae,prackendb
+0.01,1,0,G,7551,Lithobius,prackendb
+0.01,1,1,S,1255753,Lithobius erythrocephalus,prackendb
+0.01,1,0,C,7553,Diplopoda,prackendb
+0.01,1,0,C1,118561,Helminthomorpha,prackendb
+0.01,1,0,O,71419,Polydesmida,prackendb
+0.01,1,1,F,61982,Polydesmidae,prackendb
+0.25,25,0,P1,6843,Chelicerata,prackendb
+0.24,24,0,C,6854,Arachnida,prackendb
+0.12,12,0,C1,6933,Acari,prackendb
+0.1,10,0,C2,6946,Acariformes,prackendb
+0.07,7,0,O,83137,Sarcoptiformes,prackendb
+0.05,5,0,O1,66551,Oribatida,prackendb
+0.05,5,0,O2,229894,Brachypylina,prackendb
+0.05,5,0,O3,229794,Oppioidea,prackendb
+0.05,5,0,F,229795,Oppiidae,prackendb
+0.05,5,0,G,1979940,Medioppia,prackendb
+0.05,5,5,S,1979941,Medioppia subpectinata,prackendb
+0.02,2,0,O1,6951,Astigmata,prackendb
+0.02,2,0,O2,223472,Psoroptidia,prackendb
+0.02,2,0,O3,83163,Analgoidea,prackendb
+0.02,2,0,F,6952,Pyroglyphidae,prackendb
+0.02,2,0,F1,474036,Dermatophagoidinae,prackendb
+0.02,2,0,G,6953,Dermatophagoides,prackendb
+0.02,2,2,S,6956,Dermatophagoides pteronyssinus,prackendb
+0.03,3,0,O,83136,Trombidiformes,prackendb
+0.03,3,0,O1,6947,Prostigmata,prackendb
+0.03,3,0,O2,83139,Eupodina,prackendb
+0.03,3,0,O3,70332,Eriophyoidea,prackendb
+0.03,3,0,F,1221082,Phytoptidae,prackendb
+0.03,3,0,G,1670683,Novophytoptus,prackendb
+0.03,3,3,S,2750307,Novophytoptus longissimus,prackendb
+0.02,2,0,C2,6934,Parasitiformes,prackendb
+0.02,2,0,O,6935,Ixodida,prackendb
+0.02,2,0,O1,297308,Ixodoidea,prackendb
+0.01,1,0,F,6936,Argasidae,prackendb
+0.01,1,1,F1,2945031,Ornithodorinae,prackendb
+0.01,1,0,F,6939,Ixodidae,prackendb
+0.01,1,0,F1,426437,Rhipicephalinae,prackendb
+0.01,1,0,G,34619,Dermacentor,prackendb
+0.01,1,1,S,34620,Dermacentor andersoni,prackendb
+0.1,10,0,O,6893,Araneae,prackendb
+0.1,10,0,O1,6905,Araneomorphae,prackendb
+0.07,7,0,O2,74971,Entelegynae,prackendb
+0.04,4,0,O3,74974,Orbiculariae,prackendb
+0.04,4,0,O4,74975,Araneoidea,prackendb
+0.04,4,0,F,27394,Tetragnathidae,prackendb
+0.04,4,0,G,94025,Meta,prackendb
+0.04,4,4,S,1926196,Meta bourneti,prackendb
+0.02,2,0,O3,336668,Palpimanoidea,prackendb
+0.02,2,0,F,336678,Archaeidae,prackendb
+0.02,2,0,G,1028197,Austrarchaea,prackendb
+0.02,2,0,G1,2625463,unclassified Austrarchaea,prackendb
+0.02,2,2,S,1090239,Austrarchaea sp. VIC_1,prackendb
+0.01,1,0,O3,175332,Eresoidea,prackendb
+0.01,1,0,F,175333,Eresidae,prackendb
+0.01,1,0,G,175340,Stegodyphus,prackendb
+0.01,1,1,S,202533,Stegodyphus dumicola,prackendb
+0.03,3,0,O2,74970,Haplogynae,prackendb
+0.03,3,0,O3,571551,Leptonetoidea,prackendb
+0.03,3,0,F,1002506,Leptonetidae,prackendb
+0.03,3,0,G,1002519,Neoleptoneta,prackendb
+0.03,3,3,S,1124202,Neoleptoneta paraconcinna,prackendb
+0.02,2,0,O,6855,Scorpiones,prackendb
+0.02,2,0,O1,259437,Buthida,prackendb
+0.02,2,0,O2,70336,Buthoidea,prackendb
+0.02,2,0,F,6856,Buthidae,prackendb
+0.02,2,0,G,6875,Centruroides,prackendb
+0.02,2,2,S,218467,Centruroides sculpturatus,prackendb
+0.01,1,0,C,6844,Merostomata,prackendb
+0.01,1,0,O,6845,Xiphosura,prackendb
+0.01,1,0,F,6846,Limulidae,prackendb
+0.01,1,0,G,6849,Limulus,prackendb
+0.01,1,1,S,6850,Limulus polyphemus,prackendb
+0.01,1,0,P,42241,Tardigrada,prackendb
+0.01,1,0,C,89368,Heterotardigrada,prackendb
+0.01,1,0,O,710186,Echiniscoidea,prackendb
+0.01,1,1,F,500489,Echiniscoididae,prackendb
+0.18,18,0,P,6231,Nematoda,prackendb
+0.16,16,0,C,119089,Chromadorea,prackendb
+0.14,14,0,O,6236,Rhabditida,prackendb
+0.08,8,0,O1,6300,Tylenchina,prackendb
+0.04,4,0,O2,33283,Tylenchomorpha,prackendb
+0.04,4,0,O3,33284,Tylenchoidea,prackendb
+0.04,4,0,F,6301,Heteroderidae,prackendb
+0.04,4,0,F1,33286,Heteroderinae,prackendb
+0.04,4,0,G,34509,Heterodera,prackendb
+0.04,4,4,S,51029,Heterodera glycines,prackendb
+0.04,4,0,O2,2082223,Panagrolaimomorpha,prackendb
+0.04,4,0,O3,2082224,Strongyloidoidea,prackendb
+0.02,2,0,F,6246,Strongyloididae,prackendb
+0.01,1,0,G,6247,Strongyloides,prackendb
+0.01,1,1,S,75913,Strongyloides venezuelensis,prackendb
+0.01,1,0,G,131309,Parastrongyloides,prackendb
+0.01,1,1,S,131310,Parastrongyloides trichosuri,prackendb
+0.02,2,0,F,114888,Alloionematidae,prackendb
+0.02,2,0,G,114889,Rhabditophanes,prackendb
+0.02,2,0,G1,2629767,unclassified Rhabditophanes,prackendb
+0.02,2,2,S,114890,Rhabditophanes sp. KR3021,prackendb
+0.05,5,0,O1,2301116,Rhabditina,prackendb
+0.04,4,0,O2,2301119,Rhabditomorpha,prackendb
+0.04,4,0,O3,55879,Rhabditoidea,prackendb
+0.04,4,0,F,6243,Rhabditidae,prackendb
+0.03,3,0,F1,55885,Peloderinae,prackendb
+0.03,3,0,G,6237,Caenorhabditis,prackendb
+0.02,2,2,S,6238,Caenorhabditis briggsae,prackendb
+0.01,1,1,S,6239,Caenorhabditis elegans,prackendb
+0.01,1,0,F1,55887,Rhabditinae,prackendb
+0.01,1,0,G,42476,Oscheius,prackendb
+0.01,1,1,S,1559960,Oscheius onirici,prackendb
+0.01,1,0,O2,50827,Diplogasteromorpha,prackendb
+0.01,1,0,O3,2301094,Diplogasteroidea,prackendb
+0.01,1,0,F,54124,Neodiplogasteridae,prackendb
+0.01,1,0,G,288520,Mononchoides,prackendb
+0.01,1,0,G1,2631483,unclassified Mononchoides,prackendb
+0.01,1,1,S,1538699,Mononchoides sp. 3 VS-2014,prackendb
+0.01,1,0,O1,6274,Spirurina,prackendb
+0.01,1,0,O2,2072716,Spiruromorpha,prackendb
+0.01,1,0,O3,6295,Filarioidea,prackendb
+0.01,1,0,F,6296,Onchocercidae,prackendb
+0.01,1,0,G,6278,Brugia,prackendb
+0.01,1,1,S,6279,Brugia malayi,prackendb
+0.02,2,0,O,6308,Strongylida,prackendb
+0.02,2,0,O1,6314,Trichostrongyloidea,prackendb
+0.02,2,0,F,126387,Haemonchidae,prackendb
+0.02,2,0,G,6288,Haemonchus,prackendb
+0.02,2,2,S,6289,Haemonchus contortus,prackendb
+0.02,2,0,C,119088,Enoplea,prackendb
+0.02,2,0,C1,1457286,Dorylaimia,prackendb
+0.02,2,0,O,6329,Trichinellida,prackendb
+0.02,2,0,F,6332,Trichinellidae,prackendb
+0.02,2,0,G,6333,Trichinella,prackendb
+0.02,2,2,S,6334,Trichinella spiralis,prackendb
+2.04,204,0,K4,2697495,Spiralia,prackendb
+2.01,201,6,K5,1206795,Lophotrochozoa,prackendb
+1.14,114,3,P,6447,Mollusca,prackendb
+0.56,56,0,C,6544,Bivalvia,prackendb
+0.56,56,0,C1,2785011,Autobranchia,prackendb
+0.32,32,0,C2,6599,Heteroconchia,prackendb
+0.31,31,0,C3,735337,Euheterodonta,prackendb
+0.31,31,0,C4,2785015,Imparidentia,prackendb
+0.3,30,0,C5,2908833,Neoheterodontei,prackendb
+0.24,24,0,O,2783445,Cardiida,prackendb
+0.17,17,0,O1,105710,Cardioidea,prackendb
+0.17,17,0,F,55708,Cardiidae,prackendb
+0.11,11,0,F1,2787994,Tridacninae,prackendb
+0.1,10,1,G,52939,Tridacna,prackendb
+0.08,8,8,S,80829,Tridacna gigas,prackendb
+0.01,1,1,S,80833,Tridacna crocea,prackendb
+0.01,1,0,G,80817,Hippopus,prackendb
+0.01,1,1,S,80818,Hippopus hippopus,prackendb
+0.06,6,0,F1,2787989,Fraginae,prackendb
+0.06,6,0,G,80820,Fragum,prackendb
+0.06,6,6,S,80821,Fragum fragum,prackendb
+0.07,7,0,O1,98297,Tellinoidea,prackendb
+0.07,7,0,F,61354,Psammobiidae,prackendb
+0.07,7,0,G,457750,Gari,prackendb
+0.07,7,7,S,2589376,Gari tellinella,prackendb
+0.06,6,0,O,6580,Venerida,prackendb
+0.06,6,0,O1,106231,Mactroidea,prackendb
+0.06,6,0,F,6581,Mactridae,prackendb
+0.06,6,0,G,6582,Spisula,prackendb
+0.06,6,6,S,31201,Spisula solida,prackendb
+0.01,1,0,O,1564048,Lucinida,prackendb
+0.01,1,1,O1,106230,Lucinoidea,prackendb
+0.01,1,0,C3,47520,Palaeoheterodonta,prackendb
+0.01,1,0,O,47521,Unionida,prackendb
+0.01,1,0,O1,47522,Unionoidea,prackendb
+0.01,1,0,F,47526,Unionidae,prackendb
+0.01,1,0,F1,293110,Anodontinae,prackendb
+0.01,1,0,G,47527,Anodonta,prackendb
+0.01,1,1,S,358454,Anodonta nuttalliana,prackendb
+0.24,24,0,C2,6545,Pteriomorphia,prackendb
+0.1,10,0,O,6562,Ostreida,prackendb
+0.1,10,0,O1,98302,Ostreoidea,prackendb
+0.1,10,0,F,6563,Ostreidae,prackendb
+0.1,10,0,G,6564,Crassostrea,prackendb
+0.08,8,8,S,29159,Crassostrea gigas,prackendb
+0.02,2,2,S,6565,Crassostrea virginica,prackendb
+0.07,7,0,O,6546,Mytilida,prackendb
+0.07,7,0,O1,106220,Mytiloidea,prackendb
+0.07,7,0,F,6547,Mytilidae,prackendb
+0.06,6,0,F1,2899742,Arcuatulinae,prackendb
+0.06,6,0,G,356392,Limnoperna,prackendb
+0.06,6,6,S,356393,Limnoperna fortunei,prackendb
+0.01,1,0,G,40258,Mytella,prackendb
+0.01,1,1,S,582332,Mytella charruana,prackendb
+0.06,6,0,O,106218,Pectinida,prackendb
+0.06,6,0,O1,106219,Pectinoidea,prackendb
+0.06,6,0,F,6566,Pectinidae,prackendb
+0.06,6,0,G,6578,Pecten,prackendb
+0.06,6,6,S,6579,Pecten maximus,prackendb
+0.01,1,1,O,6552,Arcoida,prackendb
+0.54,54,0,C,6448,Gastropoda,prackendb
+0.21,21,0,C1,69675,Patellogastropoda,prackendb
+0.19,19,0,C2,146277,Patelloidea,prackendb
+0.19,19,0,F,6462,Patellidae,prackendb
+0.19,19,1,G,6463,Patella,prackendb
+0.1,10,10,S,6465,Patella vulgata,prackendb
+0.08,8,8,S,88005,Patella pellucida,prackendb
+0.02,2,0,C2,216260,Lottioidea,prackendb
+0.02,2,0,F,69676,Lottiidae,prackendb
+0.02,2,0,G,72691,Lottia,prackendb
+0.02,2,2,S,225164,Lottia gigantea,prackendb
+0.2,20,0,C1,216275,Vetigastropoda,prackendb
+0.2,20,0,O,2315720,Trochida,prackendb
+0.2,20,0,O1,216285,Trochoidea,prackendb
+0.2,20,0,F,6466,Trochidae,prackendb
+0.2,20,0,F1,1955429,Cantharidinae,prackendb
+0.08,8,0,G,148341,Gibbula,prackendb
+0.08,8,8,S,703304,Gibbula magus,prackendb
+0.06,6,0,G,2072689,Steromphala,prackendb
+0.06,6,6,S,216125,Steromphala cineraria,prackendb
+0.06,6,0,G,1093071,Phorcus,prackendb
+0.06,6,6,S,1620919,Phorcus lineatus,prackendb
+0.13,13,0,C1,216305,Heterobranchia,prackendb
+0.13,13,0,C2,216307,Euthyneura,prackendb
+0.12,12,1,C3,977775,Panpulmonata,prackendb
+0.08,8,0,C4,977779,Hygrophila,prackendb
+0.08,8,0,C5,216441,Lymnaeoidea,prackendb
+0.06,6,0,F,6524,Planorbidae,prackendb
+0.06,6,0,G,6525,Biomphalaria,prackendb
+0.06,6,6,S,6526,Biomphalaria glabrata,prackendb
+0.02,2,0,F,6521,Lymnaeidae,prackendb
+0.02,2,0,G,55689,Radix,prackendb
+0.02,2,2,S,52793,Radix auricularia,prackendb
+0.03,3,0,C4,120490,Eupulmonata,prackendb
+0.03,3,0,O,6527,Stylommatophora,prackendb
+0.03,3,0,O1,216366,Helicina,prackendb
+0.03,3,0,O2,87864,Camaenoidea,prackendb
+0.03,3,0,F,83226,Camaenidae,prackendb
+0.03,3,0,F1,2936376,Bradybaeninae,prackendb
+0.03,3,0,G,58911,Euhadra,prackendb
+0.03,3,3,S,58912,Euhadra herklotsi,prackendb
+0.01,1,0,C3,2836391,Tectipleura,prackendb
+0.01,1,0,O,6497,Aplysiida,prackendb
+0.01,1,0,O1,216318,Aplysioidea,prackendb
+0.01,1,0,F,6498,Aplysiidae,prackendb
+0.01,1,0,G,6499,Aplysia,prackendb
+0.01,1,1,S,6500,Aplysia californica,prackendb
+0.01,1,0,C,6605,Cephalopoda,prackendb
+0.01,1,0,C1,6606,Coleoidea,prackendb
+0.01,1,0,C2,215451,Octopodiformes,prackendb
+0.01,1,0,O,6638,Octopoda,prackendb
+0.01,1,0,O1,6646,Incirrata,prackendb
+0.01,1,0,F,6647,Octopodidae,prackendb
+0.01,1,0,G,6643,Octopus,prackendb
+0.01,1,1,S,2607531,Octopus sinensis,prackendb
+0.48,48,1,P,6157,Platyhelminthes,prackendb
+0.44,44,0,C,6178,Trematoda,prackendb
+0.44,44,0,C1,6179,Digenea,prackendb
+0.41,41,0,O,6180,Strigeidida,prackendb
+0.41,41,0,O1,31244,Schistosomatoidea,prackendb
+0.41,41,0,F,31245,Schistosomatidae,prackendb
+0.34,34,10,G,6181,Schistosoma,prackendb
+0.05,5,5,S,48269,Schistosoma margrebowiei,prackendb
+0.03,3,3,S,6183,Schistosoma mansoni,prackendb
+0.03,3,3,S,1163369,Schistosoma turkestanicum,prackendb
+0.03,3,3,S,31246,Schistosoma mattheei,prackendb
+0.03,3,3,S,6188,Schistosoma rodhaini,prackendb
+0.03,3,3,S,6184,Schistosoma bovis,prackendb
+0.02,2,2,S,6189,Schistosoma spindale,prackendb
+0.01,1,1,S,6187,Schistosoma intercalatum,prackendb
+0.01,1,1,S,6186,Schistosoma curassoni,prackendb
+0.05,5,0,G,39198,Heterobilharzia,prackendb
+0.05,5,5,S,39320,Heterobilharzia americana,prackendb
+0.02,2,0,G,100601,Trichobilharzia,prackendb
+0.01,1,1,S,157069,Trichobilharzia regenti,prackendb
+0.01,1,1,S,157070,Trichobilharzia szidati,prackendb
+0.03,3,0,O,27871,Plagiorchiida,prackendb
+0.03,3,0,O1,27872,Xiphidiata,prackendb
+0.03,3,0,O2,1776223,Gorgoderoidea,prackendb
+0.03,3,0,F,73421,Dicrocoeliidae,prackendb
+0.03,3,0,G,57077,Dicrocoelium,prackendb
+0.03,3,3,S,57078,Dicrocoelium dendriticum,prackendb
+0.02,2,0,C,6199,Cestoda,prackendb
+0.02,2,0,C1,6200,Eucestoda,prackendb
+0.02,2,0,O,1224679,Diphyllobothriidea,prackendb
+0.02,2,0,F,28843,Diphyllobothriidae,prackendb
+0.02,2,0,G,46580,Spirometra,prackendb
+0.02,2,2,S,99802,Spirometra erinaceieuropaei,prackendb
+0.01,1,0,C,147100,Rhabditophora,prackendb
+0.01,1,0,C1,166126,Seriata,prackendb
+0.01,1,0,O,6159,Tricladida,prackendb
+0.01,1,0,O1,1292243,Continenticola,prackendb
+0.01,1,0,O2,1292253,Geoplanoidea,prackendb
+0.01,1,0,F,31262,Dugesiidae,prackendb
+0.01,1,0,G,55270,Schmidtea,prackendb
+0.01,1,1,S,79327,Schmidtea mediterranea,prackendb
+0.24,24,0,P,6340,Annelida,prackendb
+0.2,20,0,C,6341,Polychaeta,prackendb
+0.19,19,0,C1,105390,Errantia,prackendb
+0.19,19,0,O,6348,Phyllodocida,prackendb
+0.08,8,0,F,39820,Nereididae,prackendb
+0.07,7,0,G,868094,Alitta,prackendb
+0.07,7,7,S,880429,Alitta virens,prackendb
+0.01,1,0,G,6354,Perinereis,prackendb
+0.01,1,1,S,1456959,Perinereis camiguinoides,prackendb
+0.08,8,0,F,46593,Polynoidae,prackendb
+0.07,7,0,G,222002,Lepidonotus,prackendb
+0.07,7,7,S,1210411,Lepidonotus clava,prackendb
+0.01,1,0,G,2796818,Alentiana,prackendb
+0.01,1,1,S,2796820,Alentiana palinpoda,prackendb
+0.03,3,0,F,104728,Sigalionidae,prackendb
+0.03,3,0,G,55701,Sthenelais,prackendb
+0.03,3,3,S,1210413,Sthenelais limicola,prackendb
+0.01,1,0,C1,105389,Sedentaria,prackendb
+0.01,1,0,C2,105391,Canalipalpata,prackendb
+0.01,1,0,O,6373,Terebellida,prackendb
+0.01,1,0,O1,2784886,Cirratuliformia,prackendb
+0.01,1,0,F,279648,Flabelligeridae,prackendb
+0.01,1,0,G,307611,Pherusa,prackendb
+0.01,1,1,S,307612,Pherusa plumosa,prackendb
+0.04,4,0,C,42113,Clitellata,prackendb
+0.03,3,0,C1,6381,Oligochaeta,prackendb
+0.03,3,0,O,2803884,Crassiclitellata,prackendb
+0.03,3,0,O1,6391,Lumbricina,prackendb
+0.03,3,0,F,6392,Lumbricidae,prackendb
+0.03,3,0,F1,1046325,Lumbricinae,prackendb
+0.03,3,0,G,6397,Lumbricus,prackendb
+0.03,3,0,G1,1050932,Lumbricus rubellus complex,prackendb
+0.03,3,3,S,35632,Lumbricus rubellus,prackendb
+0.01,1,0,C1,55824,Hirudinea,prackendb
+0.01,1,0,O,2218736,Hirudinida,prackendb
+0.01,1,0,O1,2218739,Oceanobdelliformes,prackendb
+0.01,1,0,F,60930,Piscicolidae,prackendb
+0.01,1,0,G,60957,Piscicola,prackendb
+0.01,1,1,S,60958,Piscicola geometra,prackendb
+0.06,6,0,P,10205,Bryozoa,prackendb
+0.06,6,0,C,10206,Gymnolaemata,prackendb
+0.06,6,0,O,10207,Cheilostomatida,prackendb
+0.04,4,0,O1,193205,Malacostegina,prackendb
+0.04,4,0,O2,193206,Membraniporoidea,prackendb
+0.04,4,0,F,192924,Membraniporidae,prackendb
+0.04,4,0,G,95169,Membranipora,prackendb
+0.04,4,4,S,95170,Membranipora membranacea,prackendb
+0.02,2,0,O1,558764,Flustrina,prackendb
+0.01,1,0,O2,193209,Buguloidea,prackendb
+0.01,1,0,F,10210,Bugulidae,prackendb
+0.01,1,0,G,1970207,Bugulina,prackendb
+0.01,1,1,S,192920,Bugulina stolonifera,prackendb
+0.01,1,0,O2,193246,Schizoporelloidea,prackendb
+0.01,1,0,F,558762,Cryptosulidae,prackendb
+0.01,1,0,G,558754,Cryptosula,prackendb
+0.01,1,1,S,558755,Cryptosula pallasiana,prackendb
+0.02,2,0,P,6217,Nemertea,prackendb
+0.02,2,0,C,6218,Pilidiophora,prackendb
+0.02,2,0,O,6219,Heteronemertea,prackendb
+0.02,2,0,F,6222,Lineidae,prackendb
+0.01,1,0,G,6223,Lineus,prackendb
+0.01,1,1,S,88925,Lineus longissimus,prackendb
+0.01,1,0,G,2057966,Yininemertes,prackendb
+0.01,1,1,S,2057967,Yininemertes pratensis,prackendb
+0.01,1,0,P,7568,Brachiopoda,prackendb
+0.01,1,0,P1,115369,Rhynchonelliformea,prackendb
+0.01,1,0,C,115371,Rhynchonellata,prackendb
+0.01,1,0,O,7578,Terebratulida,prackendb
+0.01,1,0,O1,115390,Terebratellidina,prackendb
+0.01,1,0,O2,115392,Laqueoidea,prackendb
+0.01,1,0,F,33476,Laqueidae,prackendb
+0.01,1,0,G,33477,Laqueus,prackendb
+0.01,1,1,S,147651,Laqueus japonicus,prackendb
+0.03,3,0,K5,2697496,Gnathifera,prackendb
+0.03,3,0,P,10190,Rotifera,prackendb
+0.03,3,0,C,2816136,Eurotatoria,prackendb
+0.03,3,0,C1,44578,Bdelloidea,prackendb
+0.03,3,0,O,104779,Adinetida,prackendb
+0.03,3,0,F,104780,Adinetidae,prackendb
+0.03,3,0,G,104781,Adineta,prackendb
+0.03,3,3,S,104782,Adineta vaga,prackendb
+8.98,898,0,K3,33511,Deuterostomia,prackendb
+8.89,889,1,P,7711,Chordata,prackendb
+8.34,834,0,P1,89593,Craniata,prackendb
+8.34,834,0,P2,7742,Vertebrata,prackendb
+8.34,834,0,P3,7776,Gnathostomata,prackendb
+8.27,827,0,P4,117570,Teleostomi,prackendb
+8.27,827,36,P5,117571,Euteleostomi,prackendb
+4.66,466,0,P6,8287,Sarcopterygii,prackendb
+4.66,466,0,P7,1338369,Dipnotetrapodomorpha,prackendb
+4.66,466,13,P8,32523,Tetrapoda,prackendb
+4.44,444,10,P9,32524,Amniota,prackendb
+2.77,277,0,C,40674,Mammalia,prackendb
+2.77,277,1,C1,32525,Theria,prackendb
+2.7,270,0,C2,9347,Eutheria,prackendb
+2.69,269,8,C3,1437010,Boreoeutheria,prackendb
+2.01,201,1,C4,314146,Euarchontoglires,prackendb
+1.84,184,0,C5,314147,Glires,prackendb
+1.84,184,1,O,9989,Rodentia,prackendb
+1.27,127,0,O1,33550,Hystricomorpha,prackendb
+1.26,126,0,F,10167,Bathyergidae,prackendb
+1.26,126,0,G,10180,Heterocephalus,prackendb
+1.26,126,126,S,10181,Heterocephalus glaber,prackendb
+0.01,1,0,F,10150,Chinchillidae,prackendb
+0.01,1,0,G,10151,Chinchilla,prackendb
+0.01,1,1,S,34839,Chinchilla lanigera,prackendb
+0.52,52,0,O1,1963758,Myomorpha,prackendb
+0.52,52,0,O2,337687,Muroidea,prackendb
+0.41,41,0,F,10066,Muridae,prackendb
+0.25,25,0,F1,39107,Murinae,prackendb
+0.2,20,0,G,10088,Mus,prackendb
+0.2,20,2,G1,862507,Mus,prackendb
+0.15,15,14,S,10090,Mus musculus,prackendb
+0.01,1,1,S1,10091,Mus musculus castaneus,prackendb
+0.02,2,2,S,10096,Mus spretus,prackendb
+0.01,1,1,S,10089,Mus caroli,prackendb
+0.03,3,0,G,10128,Apodemus,prackendb
+0.03,3,0,G1,400053,Sylvaemus group,prackendb
+0.03,3,3,S,10129,Apodemus sylvaticus,prackendb
+0.01,1,0,G,10114,Rattus,prackendb
+0.01,1,1,S,10116,Rattus norvegicus,prackendb
+0.01,1,0,G,30639,Mastomys,prackendb
+0.01,1,1,S,35658,Mastomys coucha,prackendb
+0.16,16,0,F1,326408,Deomyinae,prackendb
+0.16,16,1,G,10067,Acomys,prackendb
+0.12,12,12,S,60746,Acomys russatus,prackendb
+0.02,2,2,S,60744,Acomys dimidiatus,prackendb
+0.01,1,1,S,83527,Acomys percivali,prackendb
+0.11,11,1,F,337677,Cricetidae,prackendb
+0.07,7,0,F1,337963,Neotominae,prackendb
+0.06,6,0,G,38667,Onychomys,prackendb
+0.06,6,6,S,38674,Onychomys torridus,prackendb
+0.01,1,1,G,10040,Peromyscus,prackendb
+0.02,2,0,F1,39087,Arvicolinae,prackendb
+0.02,2,0,G,10049,Arvicola,prackendb
+0.02,2,2,S,1047088,Arvicola amphibius,prackendb
+0.01,1,0,F1,10026,Cricetinae,prackendb
+0.01,1,0,G,10043,Phodopus,prackendb
+0.01,1,1,S,109678,Phodopus roborovskii,prackendb
+0.04,4,0,O1,33553,Sciuromorpha,prackendb
+0.04,4,0,F,55153,Sciuridae,prackendb
+0.04,4,0,F1,9991,Sciurinae,prackendb
+0.04,4,0,F2,337752,Sciurini,prackendb
+0.04,4,0,G,10001,Sciurus,prackendb
+0.03,3,3,S,30640,Sciurus carolinensis,prackendb
+0.01,1,1,S,55149,Sciurus vulgaris,prackendb
+0.16,16,0,O,9443,Primates,prackendb
+0.16,16,0,O1,376913,Haplorrhini,prackendb
+0.16,16,0,O2,314293,Simiiformes,prackendb
+0.15,15,1,O3,9526,Catarrhini,prackendb
+0.13,13,0,O4,314295,Hominoidea,prackendb
+0.13,13,0,F,9604,Hominidae,prackendb
+0.13,13,2,F1,207598,Homininae,prackendb
+0.11,11,0,G,9605,Homo,prackendb
+0.11,11,11,S,9606,Homo sapiens,prackendb
+0.01,1,0,O4,314294,Cercopithecoidea,prackendb
+0.01,1,0,F,9527,Cercopithecidae,prackendb
+0.01,1,0,F1,9528,Cercopithecinae,prackendb
+0.01,1,0,G,9539,Macaca,prackendb
+0.01,1,0,S,54602,Macaca thibetana,prackendb
+0.01,1,1,S1,257877,Macaca thibetana thibetana,prackendb
+0.01,1,0,O3,9479,Platyrrhini,prackendb
+0.01,1,0,F,9498,Cebidae,prackendb
+0.01,1,0,F1,9480,Callitrichinae,prackendb
+0.01,1,0,G,9481,Callithrix,prackendb
+0.01,1,0,G1,1965096,Callithrix,prackendb
+0.01,1,1,S,9483,Callithrix jacchus,prackendb
+0.6,60,0,C4,314145,Laurasiatheria,prackendb
+0.27,27,0,O,33554,Carnivora,prackendb
+0.26,26,1,O1,379584,Caniformia,prackendb
+0.12,12,0,F,9608,Canidae,prackendb
+0.12,12,0,G,9611,Canis,prackendb
+0.12,12,12,S,9612,Canis lupus,prackendb
+0.1,10,0,F,9655,Mustelidae,prackendb
+0.06,6,0,F1,1008252,Melinae,prackendb
+0.06,6,0,G,9661,Meles,prackendb
+0.06,6,6,S,9662,Meles meles,prackendb
+0.04,4,0,F1,169417,Lutrinae,prackendb
+0.04,4,0,G,9656,Lutra,prackendb
+0.04,4,4,S,9657,Lutra lutra,prackendb
+0.03,3,1,F,9632,Ursidae,prackendb
+0.02,2,0,G,9639,Ursus,prackendb
+0.02,2,2,S,9644,Ursus arctos,prackendb
+0.01,1,0,O1,379583,Feliformia,prackendb
+0.01,1,0,F,9681,Felidae,prackendb
+0.01,1,0,F1,338152,Felinae,prackendb
+0.01,1,0,G,9682,Felis,prackendb
+0.01,1,1,S,9685,Felis catus,prackendb
+0.26,26,0,O,91561,Artiodactyla,prackendb
+0.14,14,0,O1,9845,Ruminantia,prackendb
+0.14,14,1,O2,35500,Pecora,prackendb
+0.09,9,0,F,9895,Bovidae,prackendb
+0.05,5,0,F1,27592,Bovinae,prackendb
+0.05,5,4,G,9903,Bos,prackendb
+0.01,1,1,S,72004,Bos mutus,prackendb
+0.04,4,0,F1,9963,Caprinae,prackendb
+0.04,4,0,G,9935,Ovis,prackendb
+0.04,4,0,S,37174,Ovis canadensis,prackendb
+0.04,4,4,S1,112262,Ovis canadensis canadensis,prackendb
+0.04,4,0,F,9850,Cervidae,prackendb
+0.04,4,0,F1,34878,Cervinae,prackendb
+0.04,4,0,G,9859,Cervus,prackendb
+0.04,4,4,S,9860,Cervus elaphus,prackendb
+0.07,7,0,O1,2653789,Whippomorpha,prackendb
+0.07,7,0,O2,9721,Cetacea,prackendb
+0.07,7,0,O3,9722,Odontoceti,prackendb
+0.07,7,0,F,9726,Delphinidae,prackendb
+0.07,7,0,G,9732,Orcinus,prackendb
+0.07,7,7,S,9733,Orcinus orca,prackendb
+0.04,4,0,O1,35497,Suina,prackendb
+0.04,4,0,F,9821,Suidae,prackendb
+0.04,4,0,G,9822,Sus,prackendb
+0.04,4,1,S,9823,Sus scrofa,prackendb
+0.03,3,3,S1,415978,Sus scrofa scrofa,prackendb
+0.01,1,0,O1,9834,Tylopoda,prackendb
+0.01,1,0,F,9835,Camelidae,prackendb
+0.01,1,1,G,9836,Camelus,prackendb
+0.07,7,0,O,9397,Chiroptera,prackendb
+0.07,7,0,O1,30560,Microchiroptera,prackendb
+0.07,7,0,F,9431,Vespertilionidae,prackendb
+0.07,7,0,G,27671,Pipistrellus,prackendb
+0.07,7,7,S,59474,Pipistrellus pipistrellus,prackendb
+0.01,1,0,C3,9348,Xenarthra,prackendb
+0.01,1,0,O,948950,Pilosa,prackendb
+0.01,1,0,O1,948953,Folivora,prackendb
+0.01,1,0,F,227508,Megalonychidae,prackendb
+0.01,1,0,G,9357,Choloepus,prackendb
+0.01,1,1,S,27675,Choloepus didactylus,prackendb
+0.06,6,0,C2,9263,Metatheria,prackendb
+0.03,3,0,O,38607,Microbiotheria,prackendb
+0.03,3,0,F,30660,Microbiotheriidae,prackendb
+0.03,3,0,G,33561,Dromiciops,prackendb
+0.03,3,3,S,33562,Dromiciops gliroides,prackendb
+0.03,3,0,O,38609,Diprotodontia,prackendb
+0.02,2,0,F,9338,Vombatidae,prackendb
+0.02,2,0,G,29138,Vombatus,prackendb
+0.02,2,2,S,29139,Vombatus ursinus,prackendb
+0.01,1,0,F,38624,Phascolarctidae,prackendb
+0.01,1,0,G,38625,Phascolarctos,prackendb
+0.01,1,1,S,38626,Phascolarctos cinereus,prackendb
+1.57,157,0,P10,8457,Sauropsida,prackendb
+1.57,157,0,P11,32561,Sauria,prackendb
+1.46,146,0,P12,1329799,Archelosauria,prackendb
+1.44,144,0,P13,8492,Archosauria,prackendb
+1.44,144,0,P14,436486,Dinosauria,prackendb
+1.44,144,0,P15,436489,Saurischia,prackendb
+1.44,144,0,P16,436491,Theropoda,prackendb
+1.44,144,0,P17,436492,Coelurosauria,prackendb
+1.44,144,3,C,8782,Aves,prackendb
+1.32,132,68,C1,8825,Neognathae,prackendb
+0.21,21,0,C2,1549675,Galloanserae,prackendb
+0.15,15,0,O,8976,Galliformes,prackendb
+0.15,15,1,F,9005,Phasianidae,prackendb
+0.11,11,0,F1,466552,Meleagridinae,prackendb
+0.11,11,0,G,9102,Meleagris,prackendb
+0.11,11,11,S,9103,Meleagris gallopavo,prackendb
+0.03,3,0,F1,9072,Phasianinae,prackendb
+0.03,3,0,G,9030,Gallus,prackendb
+0.03,3,3,S,9031,Gallus gallus,prackendb
+0.06,6,0,O,8826,Anseriformes,prackendb
+0.06,6,0,F,8830,Anatidae,prackendb
+0.06,6,0,F1,2068716,Anatinae,prackendb
+0.06,6,0,G,8835,Anas,prackendb
+0.06,6,6,S,8839,Anas platyrhynchos,prackendb
+0.16,16,0,O,2558200,Accipitriformes,prackendb
+0.16,16,0,F,56259,Accipitridae,prackendb
+0.16,16,5,F1,8955,Accipitrinae,prackendb
+0.06,6,0,G,8956,Accipiter,prackendb
+0.06,6,6,S,8957,Accipiter gentilis,prackendb
+0.05,5,0,G,8960,Aquila,prackendb
+0.05,5,0,S,8962,Aquila chrysaetos,prackendb
+0.05,5,5,S1,223781,Aquila chrysaetos chrysaetos,prackendb
+0.14,14,1,O,9126,Passeriformes,prackendb
+0.08,8,0,F,9183,Turdidae,prackendb
+0.08,8,0,G,36283,Erithacus,prackendb
+0.08,8,8,S,37610,Erithacus rubecula,prackendb
+0.02,2,0,O1,175121,Passeroidea,prackendb
+0.01,1,0,F,9158,Passeridae,prackendb
+0.01,1,0,G,9159,Passer,prackendb
+0.01,1,1,S,9160,Passer montanus,prackendb
+0.01,1,0,F,37611,Estrildidae,prackendb
+0.01,1,0,F1,40155,Estrildinae,prackendb
+0.01,1,0,G,40156,Lonchura,prackendb
+0.01,1,0,S,40157,Lonchura striata,prackendb
+0.01,1,1,S1,299123,Lonchura striata domestica,prackendb
+0.01,1,0,F,9153,Paridae,prackendb
+0.01,1,0,G,9154,Parus,prackendb
+0.01,1,1,S,9157,Parus major,prackendb
+0.01,1,1,F,400783,Thraupidae,prackendb
+0.01,1,0,O1,2116661,Sylvioidea,prackendb
+0.01,1,0,F,36270,Sylviidae,prackendb
+0.01,1,0,F1,330750,Acrocephalinae,prackendb
+0.01,1,0,G,39620,Acrocephalus,prackendb
+0.01,1,0,S,48156,Acrocephalus scirpaceus,prackendb
+0.01,1,1,S1,126889,Acrocephalus scirpaceus scirpaceus,prackendb
+0.08,8,0,C2,2607030,Caprimulgimorphae,prackendb
+0.08,8,0,O,8902,Caprimulgiformes,prackendb
+0.08,8,0,F,48283,Caprimulgidae,prackendb
+0.08,8,0,F1,48286,Caprimulginae,prackendb
+0.08,8,0,G,48284,Caprimulgus,prackendb
+0.08,8,8,S,111811,Caprimulgus europaeus,prackendb
+0.03,3,0,O,8929,Columbiformes,prackendb
+0.03,3,0,F,8930,Columbidae,prackendb
+0.03,3,0,G,36242,Streptopelia,prackendb
+0.03,3,3,S,177155,Streptopelia turtur,prackendb
+0.01,1,0,O,8948,Falconiformes,prackendb
+0.01,1,0,F,8949,Falconidae,prackendb
+0.01,1,1,G,8952,Falco,prackendb
+0.01,1,0,O,9223,Psittaciformes,prackendb
+0.01,1,0,F,9224,Psittacidae,prackendb
+0.01,1,0,G,35547,Strigops,prackendb
+0.01,1,1,S,2489341,Strigops habroptila,prackendb
+0.09,9,1,C1,8783,Palaeognathae,prackendb
+0.08,8,0,O,8819,Apterygiformes,prackendb
+0.08,8,0,F,8820,Apterygidae,prackendb
+0.08,8,0,G,8821,Apteryx,prackendb
+0.08,8,0,S,2696672,Apteryx mantelli,prackendb
+0.08,8,8,S1,202946,Apteryx mantelli mantelli,prackendb
+0.02,2,0,P13,2841271,Testudinata,prackendb
+0.02,2,0,O,8459,Testudines,prackendb
+0.02,2,0,O1,8464,Cryptodira,prackendb
+0.01,1,0,O2,1579275,Trionychia,prackendb
+0.01,1,0,F,34907,Trionychidae,prackendb
+0.01,1,0,G,204969,Pelodiscus,prackendb
+0.01,1,1,S,13735,Pelodiscus sinensis,prackendb
+0.01,1,0,O2,1579337,Durocryptodira,prackendb
+0.01,1,0,O3,8486,Testudinoidea,prackendb
+0.01,1,0,F,8487,Testudinidae,prackendb
+0.01,1,0,G,38771,Gopherus,prackendb
+0.01,1,1,S,286002,Gopherus flavomarginatus,prackendb
+0.11,11,0,C,8504,Lepidosauria,prackendb
+0.11,11,0,O,8509,Squamata,prackendb
+0.11,11,1,O1,1329961,Bifurcata,prackendb
+0.09,9,0,O2,1329950,Unidentata,prackendb
+0.09,9,0,O3,1329912,Episquamata,prackendb
+0.09,9,0,O4,1329911,Toxicofera,prackendb
+0.04,4,0,O5,8511,Iguania,prackendb
+0.02,2,0,F,2024747,Dactyloidae,prackendb
+0.02,2,0,G,28376,Anolis,prackendb
+0.02,2,2,S,28377,Anolis carolinensis,prackendb
+0.01,1,0,O6,83232,Acrodonta,prackendb
+0.01,1,0,F,81953,Agamidae,prackendb
+0.01,1,0,F1,145349,Amphibolurinae,prackendb
+0.01,1,0,G,52201,Pogona,prackendb
+0.01,1,1,S,103695,Pogona vitticeps,prackendb
+0.01,1,0,F,2024743,Phrynosomatidae,prackendb
+0.01,1,0,F1,42425,Phrynosomatinae,prackendb
+0.01,1,0,G,8518,Sceloporus,prackendb
+0.01,1,1,S,8520,Sceloporus undulatus,prackendb
+0.04,4,0,O5,8570,Serpentes,prackendb
+0.04,4,0,O6,34989,Colubroidea,prackendb
+0.04,4,0,F,8689,Viperidae,prackendb
+0.02,2,0,F1,8690,Viperinae,prackendb
+0.02,2,0,G,8703,Vipera,prackendb
+0.02,2,2,S,103942,Vipera ursinii,prackendb
+0.02,2,0,F1,8710,Crotalinae,prackendb
+0.02,2,0,G,8728,Crotalus,prackendb
+0.02,2,2,S,88082,Crotalus tigris,prackendb
+0.01,1,0,O5,8548,Anguimorpha,prackendb
+0.01,1,0,O6,1330544,Paleoanguimorpha,prackendb
+0.01,1,0,O7,1329920,Varanoidea,prackendb
+0.01,1,0,F,8555,Varanidae,prackendb
+0.01,1,0,G,8556,Varanus,prackendb
+0.01,1,1,S,61221,Varanus komodoensis,prackendb
+0.01,1,0,O2,8560,Gekkota,prackendb
+0.01,1,0,F,1329929,Sphaerodactylidae,prackendb
+0.01,1,0,G,53271,Sphaerodactylus,prackendb
+0.01,1,1,S,933632,Sphaerodactylus townsendi,prackendb
+0.09,9,0,C,8292,Amphibia,prackendb
+0.05,5,0,O,8445,Gymnophiona,prackendb
+0.03,3,0,F,30380,Rhinatrematidae,prackendb
+0.03,3,0,G,194407,Rhinatrema,prackendb
+0.03,3,3,S,194408,Rhinatrema bivittatum,prackendb
+0.02,2,0,F,264006,Dermophiidae,prackendb
+0.02,2,0,G,260994,Geotrypetes,prackendb
+0.02,2,2,S,260995,Geotrypetes seraphini,prackendb
+0.04,4,0,C1,41666,Batrachia,prackendb
+0.04,4,0,O,8342,Anura,prackendb
+0.02,2,0,O1,8416,Neobatrachia,prackendb
+0.01,1,0,O2,8417,Hyloidea,prackendb
+0.01,1,0,F,8382,Bufonidae,prackendb
+0.01,1,0,G,651667,Rhinella,prackendb
+0.01,1,1,S,1658278,Rhinella alata,prackendb
+0.01,1,0,O2,30352,Ranoidea,prackendb
+0.01,1,0,F,8397,Ranidae,prackendb
+0.01,1,0,G,8399,Rana,prackendb
+0.01,1,0,G1,121175,Rana,prackendb
+0.01,1,1,S,8407,Rana temporaria,prackendb
+0.02,2,0,O1,30319,Pipoidea,prackendb
+0.02,2,0,F,8352,Pipidae,prackendb
+0.02,2,0,F1,8360,Xenopodinae,prackendb
+0.02,2,0,G,8353,Xenopus,prackendb
+0.02,2,0,G1,262014,Xenopus,prackendb
+0.02,2,2,S,8355,Xenopus laevis,prackendb
+3.25,325,0,P6,7898,Actinopterygii,prackendb
+3.24,324,2,C,186623,Actinopteri,prackendb
+3.09,309,0,C1,41665,Neopterygii,prackendb
+3.09,309,1,C2,32443,Teleostei,prackendb
+3.07,307,0,C3,1489341,Osteoglossocephalai,prackendb
+3.04,304,5,C4,186625,Clupeocephala,prackendb
+2.02,202,5,C5,1489388,Euteleosteomorpha,prackendb
+1.76,176,0,C6,123365,Neoteleostei,prackendb
+1.76,176,0,C7,123366,Eurypterygia,prackendb
+1.76,176,0,C8,123367,Ctenosquamata,prackendb
+1.76,176,0,C9,123368,Acanthomorphata,prackendb
+1.74,174,1,C10,123369,Euacanthomorphacea,prackendb
+1.66,166,7,C11,1489872,Percomorphaceae,prackendb
+0.6,60,2,C12,1489922,Eupercaria,prackendb
+0.29,29,1,O,8111,Perciformes,prackendb
+0.14,14,0,O1,1489943,Serranoidei,prackendb
+0.14,14,0,F,30871,Serranidae,prackendb
+0.14,14,0,F1,274794,Epinephelinae,prackendb
+0.14,14,0,F2,1505891,Epinephelini,prackendb
+0.08,8,1,G,94231,Epinephelus,prackendb
+0.07,7,7,S,293821,Epinephelus fuscoguttatus,prackendb
+0.06,6,0,G,134629,Plectropomus,prackendb
+0.06,6,6,S,160734,Plectropomus leopardus,prackendb
+0.07,7,1,O1,8100,Cottioidei,prackendb
+0.05,5,0,O2,1490021,Cottales,prackendb
+0.05,5,0,F,8092,Cottidae,prackendb
+0.05,5,0,G,61642,Taurulus,prackendb
+0.05,5,5,S,61643,Taurulus bubalis,prackendb
+0.01,1,0,O2,8192,Zoarcales,prackendb
+0.01,1,0,F,56724,Pholidae,prackendb
+0.01,1,0,F1,181468,Pholinae,prackendb
+0.01,1,0,G,56725,Pholis,prackendb
+0.01,1,1,S,56726,Pholis gunnellus,prackendb
+0.07,7,0,O1,8205,Notothenioidei,prackendb
+0.05,5,0,F,36203,Bovichtidae,prackendb
+0.05,5,0,G,56715,Cottoperca,prackendb
+0.05,5,5,S,56716,Cottoperca gobio,prackendb
+0.02,2,0,F,30806,Channichthyidae,prackendb
+0.02,2,0,G,52238,Pseudochaenichthys,prackendb
+0.02,2,2,S,52239,Pseudochaenichthys georgianus,prackendb
+0.09,9,0,O,1489931,Spariformes,prackendb
+0.09,9,0,F,8169,Sparidae,prackendb
+0.05,5,0,G,8174,Sparus,prackendb
+0.05,5,5,S,8175,Sparus aurata,prackendb
+0.04,4,0,G,8176,Acanthopagrus,prackendb
+0.04,4,4,S,8177,Acanthopagrus latus,prackendb
+0.07,7,0,C13,1489923,Eupercaria incertae sedis,prackendb
+0.07,7,0,F,30870,Sciaenidae,prackendb
+0.05,5,0,G,215359,Nibea,prackendb
+0.05,5,5,S,240163,Nibea albiflora,prackendb
+0.02,2,0,G,215357,Larimichthys,prackendb
+0.02,2,2,S,215358,Larimichthys crocea,prackendb
+0.04,4,0,O,31022,Tetraodontiformes,prackendb
+0.04,4,0,O1,31028,Tetraodontoidei,prackendb
+0.04,4,0,O2,32517,Tetradontoidea,prackendb
+0.04,4,0,F,31031,Tetraodontidae,prackendb
+0.04,4,0,G,31032,Takifugu,prackendb
+0.04,4,4,S,31033,Takifugu rubripes,prackendb
+0.04,4,0,O,1489928,Labriformes,prackendb
+0.04,4,0,F,8247,Labridae,prackendb
+0.02,2,0,G,98381,Notolabrus,prackendb
+0.02,2,2,S,1203425,Notolabrus celidotus,prackendb
+0.01,1,0,G,30799,Labrus,prackendb
+0.01,1,1,S,56723,Labrus bergylta,prackendb
+0.01,1,0,G,202584,Cheilinus,prackendb
+0.01,1,1,S,241271,Cheilinus undulatus,prackendb
+0.04,4,0,O,1489939,Pempheriformes,prackendb
+0.04,4,0,F,1204718,Lateolabracidae,prackendb
+0.04,4,0,G,8163,Lateolabrax,prackendb
+0.04,4,4,S,315492,Lateolabrax maculatus,prackendb
+0.01,1,0,O,1489940,Centrarchiformes,prackendb
+0.01,1,0,O1,1545897,Centrarchoidei,prackendb
+0.01,1,0,F,119486,Sinipercidae,prackendb
+0.01,1,0,G,119487,Siniperca,prackendb
+0.01,1,1,S,119488,Siniperca chuatsi,prackendb
+0.5,50,1,C12,1489908,Ovalentaria,prackendb
+0.35,35,0,C13,1489913,Atherinomorphae,prackendb
+0.15,15,0,O,8075,Atheriniformes,prackendb
+0.07,7,0,F,270656,Phallostethidae,prackendb
+0.07,7,0,G,300305,Neostethus,prackendb
+0.07,7,7,S,300306,Neostethus bicornis,prackendb
+0.06,6,0,F,238703,Telmatherinidae,prackendb
+0.06,6,0,G,270533,Telmatherina,prackendb
+0.06,6,6,S,446457,Telmatherina bonti,prackendb
+0.02,2,0,F,30700,Melanotaeniidae,prackendb
+0.02,2,0,G,32459,Melanotaenia,prackendb
+0.02,2,2,S,1250792,Melanotaenia boesemani,prackendb
+0.1,10,0,O,28738,Cyprinodontiformes,prackendb
+0.1,10,0,O1,8087,Cyprinodontoidei,prackendb
+0.09,9,0,F,8079,Poeciliidae,prackendb
+0.09,9,0,F1,586240,Poeciliinae,prackendb
+0.05,5,0,G,8080,Poecilia,prackendb
+0.05,5,5,S,8081,Poecilia reticulata,prackendb
+0.02,2,1,G,8082,Xiphophorus,prackendb
+0.01,1,1,S,8084,Xiphophorus hellerii,prackendb
+0.02,2,0,G,56612,Poeciliopsis,prackendb
+0.02,2,2,S,73161,Poeciliopsis monacha,prackendb
+0.01,1,0,F,28758,Goodeidae,prackendb
+0.01,1,0,G,208332,Girardinichthys,prackendb
+0.01,1,1,S,208333,Girardinichthys multiradiatus,prackendb
+0.1,10,0,O,76071,Beloniformes,prackendb
+0.1,10,0,O1,28781,Adrianichthyoidei,prackendb
+0.1,10,0,F,47757,Adrianichthyidae,prackendb
+0.1,10,0,F1,8088,Oryziinae,prackendb
+0.1,10,0,G,8089,Oryzias,prackendb
+0.09,9,9,S,8090,Oryzias latipes,prackendb
+0.01,1,1,S,30732,Oryzias melastigma,prackendb
+0.1,10,0,C13,1489920,Blenniimorphae,prackendb
+0.1,10,1,O,1489921,Blenniiformes,prackendb
+0.08,8,0,O1,123349,Gobiesocoidei,prackendb
+0.08,8,0,F,63826,Gobiesocidae,prackendb
+0.08,8,0,F1,557415,Gobiesocinae,prackendb
+0.08,8,0,G,210581,Gouania,prackendb
+0.08,8,8,S,441366,Gouania willdenowi,prackendb
+0.01,1,0,O1,56717,Blennioidei,prackendb
+0.01,1,0,F,56718,Blenniidae,prackendb
+0.01,1,0,F1,703913,Salariinae,prackendb
+0.01,1,0,G,94311,Salarias,prackendb
+0.01,1,1,S,181472,Salarias fasciatus,prackendb
+0.02,2,0,C13,1489909,Ovalentaria incertae sedis,prackendb
+0.02,2,0,F,205120,Ambassidae,prackendb
+0.02,2,0,G,210631,Parambassis,prackendb
+0.02,2,2,S,210632,Parambassis ranga,prackendb
+0.02,2,0,C13,1489910,Cichlomorphae,prackendb
+0.02,2,0,O,1489911,Cichliformes,prackendb
+0.02,2,0,F,8113,Cichlidae,prackendb
+0.02,2,0,F1,319095,African cichlids,prackendb
+0.02,2,1,F2,318546,Pseudocrenilabrinae,prackendb
+0.01,1,0,F3,1315725,Oreochromini,prackendb
+0.01,1,0,G,8139,Oreochromis,prackendb
+0.01,1,1,S,8128,Oreochromis niloticus,prackendb
+0.16,16,0,C12,1489904,Carangaria,prackendb
+0.09,9,0,O,1489907,Carangiformes,prackendb
+0.07,7,0,F,8157,Carangidae,prackendb
+0.07,7,0,G,36211,Trachurus,prackendb
+0.07,7,7,S,36212,Trachurus trachurus,prackendb
+0.02,2,0,F,173245,Echeneidae,prackendb
+0.02,2,0,G,173246,Echeneis,prackendb
+0.02,2,2,S,173247,Echeneis naucrates,prackendb
+0.07,7,0,O,8252,Pleuronectiformes,prackendb
+0.07,7,0,O1,30942,Pleuronectoidei,prackendb
+0.04,4,0,F,30948,Soleidae,prackendb
+0.04,4,0,G,28828,Solea,prackendb
+0.04,4,4,S,28829,Solea senegalensis,prackendb
+0.03,3,0,F,52902,Scophthalmidae,prackendb
+0.03,3,0,G,52903,Scophthalmus,prackendb
+0.03,3,3,S,52904,Scophthalmus maximus,prackendb
+0.12,12,0,C12,1489892,Anabantaria,prackendb
+0.1,10,0,O,1489900,Anabantiformes,prackendb
+0.1,10,0,O1,50370,Anabantoidei,prackendb
+0.06,6,0,F,64142,Anabantidae,prackendb
+0.06,6,0,G,64143,Anabas,prackendb
+0.06,6,6,S,64144,Anabas testudineus,prackendb
+0.04,4,0,F,270602,Osphronemidae,prackendb
+0.04,4,0,F1,158449,Macropodinae,prackendb
+0.04,4,0,G,158455,Betta,prackendb
+0.04,4,4,S,158456,Betta splendens,prackendb
+0.02,2,0,O,43697,Synbranchiformes,prackendb
+0.02,2,0,O1,129920,Mastacembeloidei,prackendb
+0.02,2,0,F,94233,Mastacembelidae,prackendb
+0.02,2,0,G,94234,Mastacembelus,prackendb
+0.02,2,2,S,205130,Mastacembelus armatus,prackendb
+0.09,9,0,C12,1489875,Gobiaria,prackendb
+0.09,9,0,O,1489876,Kurtiformes,prackendb
+0.09,9,0,O1,1489877,Apogonoidei,prackendb
+0.09,9,0,F,83881,Apogonidae,prackendb
+0.09,9,0,F1,475176,Apogoninae,prackendb
+0.09,9,0,G,375763,Sphaeramia,prackendb
+0.09,9,9,S,375764,Sphaeramia orbicularis,prackendb
+0.06,6,0,C12,1489885,Pelagiaria,prackendb
+0.06,6,0,O,1489894,Scombriformes,prackendb
+0.06,6,0,F,8224,Scombridae,prackendb
+0.06,6,0,F1,186745,Scombrinae,prackendb
+0.06,6,0,F2,186749,Thunnini,prackendb
+0.06,6,2,G,8234,Thunnus,prackendb
+0.02,2,2,S,8236,Thunnus albacares,prackendb
+0.02,2,2,S,8240,Thunnus maccoyii,prackendb
+0.04,4,0,C12,1489874,Batrachoidaria,prackendb
+0.04,4,0,O,8064,Batrachoidiformes,prackendb
+0.04,4,0,F,8065,Batrachoididae,prackendb
+0.04,4,0,F1,390319,Thalassophyrininae,prackendb
+0.04,4,0,G,289381,Thalassophryne,prackendb
+0.04,4,4,S,390379,Thalassophryne amazonica,prackendb
+0.02,2,0,C12,1489883,Syngnathiaria,prackendb
+0.02,2,0,O,129912,Syngnathiformes,prackendb
+0.02,2,0,O1,1489884,Syngnathoidei,prackendb
+0.02,2,0,F,72045,Syngnathidae,prackendb
+0.01,1,0,F1,129914,Syngnathinae,prackendb
+0.01,1,0,G,103719,Syngnathus,prackendb
+0.01,1,1,S,161584,Syngnathus acus,prackendb
+0.01,1,0,F1,129917,Hippocampinae,prackendb
+0.01,1,0,G,72046,Hippocampus,prackendb
+0.01,1,1,S,109280,Hippocampus comes,prackendb
+0.07,7,0,C11,181483,Holocentrimorphaceae,prackendb
+0.07,7,0,O,1490028,Holocentriformes,prackendb
+0.07,7,0,F,47697,Holocentridae,prackendb
+0.07,7,0,F1,47698,Myripristinae,prackendb
+0.07,7,0,G,47699,Myripristis,prackendb
+0.07,7,7,S,586833,Myripristis murdjan,prackendb
+0.02,2,0,C10,1489838,Paracanthopterygii,prackendb
+0.02,2,0,C11,1489841,Zeiogadaria,prackendb
+0.02,2,0,C12,1489843,Gadariae,prackendb
+0.02,2,0,O,8043,Gadiformes,prackendb
+0.02,2,0,O1,1489845,Gadoidei,prackendb
+0.02,2,0,F,8045,Gadidae,prackendb
+0.02,2,0,G,8048,Gadus,prackendb
+0.02,2,2,S,8049,Gadus morhua,prackendb
+0.2,20,0,C6,41705,Protacanthopterygii,prackendb
+0.19,19,0,O,8006,Salmoniformes,prackendb
+0.19,19,0,F,8015,Salmonidae,prackendb
+0.1,10,0,F1,504567,Coregoninae,prackendb
+0.1,10,1,G,27772,Coregonus,prackendb
+0.09,9,0,G1,2649731,unclassified Coregonus,prackendb
+0.09,9,9,S,861768,Coregonus sp. 'balchen',prackendb
+0.09,9,1,F1,504568,Salmoninae,prackendb
+0.06,6,0,G,8028,Salmo,prackendb
+0.06,6,6,S,8032,Salmo trutta,prackendb
+0.02,2,0,G,8016,Oncorhynchus,prackendb
+0.01,1,1,S,8017,Oncorhynchus gorbuscha,prackendb
+0.01,1,1,S,8023,Oncorhynchus nerka,prackendb
+0.01,1,0,O,8007,Esociformes,prackendb
+0.01,1,0,F,8008,Esocidae,prackendb
+0.01,1,0,G,8009,Esox,prackendb
+0.01,1,1,S,8010,Esox lucius,prackendb
+0.01,1,0,C6,1489798,Stomiati,prackendb
+0.01,1,0,O,41711,Osmeriformes,prackendb
+0.01,1,0,F,8012,Osmeridae,prackendb
+0.01,1,0,F1,182238,Hypomesinae,prackendb
+0.01,1,0,G,137519,Hypomesus,prackendb
+0.01,1,1,S,137520,Hypomesus transpacificus,prackendb
+0.97,97,1,C5,186634,Otomorpha,prackendb
+0.91,91,0,C6,32519,Ostariophysi,prackendb
+0.87,87,0,C7,186626,Otophysi,prackendb
+0.84,84,0,C8,186627,Cypriniphysae,prackendb
+0.84,84,0,O,7952,Cypriniformes,prackendb
+0.77,77,0,O1,30727,Cyprinoidei,prackendb
+0.53,53,0,F,2743709,Danionidae,prackendb
+0.53,53,0,F1,2743711,Danioninae,prackendb
+0.53,53,3,G,7954,Danio,prackendb
+0.23,23,23,S,7955,Danio rerio,prackendb
+0.18,18,18,S,1142201,Danio aesculapii,prackendb
+0.09,9,9,S,242068,Danio kyathit,prackendb
+0.23,23,1,F,7953,Cyprinidae,prackendb
+0.11,11,0,F1,2743693,Barbinae,prackendb
+0.11,11,0,G,40829,Barbus,prackendb
+0.11,11,11,S,40830,Barbus barbus,prackendb
+0.11,11,0,F1,2743694,Cyprininae,prackendb
+0.08,8,0,G,7961,Cyprinus,prackendb
+0.08,8,8,S,7962,Cyprinus carpio,prackendb
+0.03,3,0,G,7956,Carassius,prackendb
+0.03,3,3,S,7957,Carassius auratus,prackendb
+0.01,1,0,F,2743745,Xenocyprididae,prackendb
+0.01,1,0,F1,2743747,Xenocypridinae,prackendb
+0.01,1,0,G,75351,Megalobrama,prackendb
+0.01,1,1,S,75352,Megalobrama amblycephala,prackendb
+0.07,7,0,O1,30725,Cobitoidei,prackendb
+0.07,7,0,F,278171,Nemacheilidae,prackendb
+0.07,7,0,G,160394,Barbatula,prackendb
+0.07,7,7,S,135647,Barbatula barbatula,prackendb
+0.03,3,0,C8,186628,Characiphysae,prackendb
+0.02,2,0,O,7995,Siluriformes,prackendb
+0.02,2,0,O1,1489793,Siluroidei,prackendb
+0.02,2,0,F,30989,Siluridae,prackendb
+0.02,2,0,G,94992,Silurus,prackendb
+0.02,2,2,S,933932,Silurus aristotelis,prackendb
+0.01,1,0,O,7991,Characiformes,prackendb
+0.01,1,0,O1,1489739,Characoidei,prackendb
+0.01,1,0,F,7992,Characidae,prackendb
+0.01,1,0,F1,42595,Stethaprioninae,prackendb
+0.01,1,0,G,7993,Astyanax,prackendb
+0.01,1,1,S,7994,Astyanax mexicanus,prackendb
+0.04,4,0,C7,186633,Anotophysi,prackendb
+0.04,4,0,O,29140,Gonorynchiformes,prackendb
+0.04,4,0,O1,186632,Chanoidei,prackendb
+0.04,4,0,F,29142,Chanidae,prackendb
+0.04,4,0,G,29143,Chanos,prackendb
+0.04,4,4,S,29144,Chanos chanos,prackendb
+0.05,5,0,C6,282425,Clupei,prackendb
+0.05,5,0,O,32446,Clupeiformes,prackendb
+0.03,3,0,O1,1489460,Clupeoidei,prackendb
+0.03,3,0,F,55118,Clupeidae,prackendb
+0.02,2,0,F1,55119,Alosinae,prackendb
+0.02,2,1,G,34772,Alosa,prackendb
+0.01,1,1,S,278164,Alosa alosa,prackendb
+0.01,1,0,F1,7948,Clupeinae,prackendb
+0.01,1,0,G,7949,Clupea,prackendb
+0.01,1,1,S,7950,Clupea harengus,prackendb
+0.02,2,0,O1,1489459,Denticipitoidei,prackendb
+0.02,2,0,F,299319,Denticipitidae,prackendb
+0.02,2,0,G,299320,Denticeps,prackendb
+0.02,2,2,S,299321,Denticeps clupeoides,prackendb
+0.03,3,0,C4,1489343,Osteoglossocephala,prackendb
+0.03,3,0,C5,31089,Osteoglossomorpha,prackendb
+0.03,3,0,O,41712,Osteoglossiformes,prackendb
+0.03,3,0,F,27723,Osteoglossidae,prackendb
+0.03,3,0,G,27726,Scleropages,prackendb
+0.03,3,3,S,113540,Scleropages formosus,prackendb
+0.01,1,0,C3,1489340,Elopocephalai,prackendb
+0.01,1,0,C4,186624,Elopocephala,prackendb
+0.01,1,0,C5,32521,Elopomorpha,prackendb
+0.01,1,0,O,7933,Anguilliformes,prackendb
+0.01,1,0,F,7934,Anguillidae,prackendb
+0.01,1,0,G,7935,Anguilla,prackendb
+0.01,1,1,S,7936,Anguilla anguilla,prackendb
+0.13,13,0,C1,32440,Chondrostei,prackendb
+0.13,13,0,O,7899,Acipenseriformes,prackendb
+0.13,13,0,O1,186622,Acipenseroidei,prackendb
+0.13,13,0,F,7900,Acipenseridae,prackendb
+0.13,13,0,F1,124129,Acipenserinae,prackendb
+0.13,13,0,F2,124130,Acipenserini,prackendb
+0.13,13,0,G,7901,Acipenser,prackendb
+0.13,13,13,S,7906,Acipenser ruthenus,prackendb
+0.01,1,0,C,1338366,Cladistia,prackendb
+0.01,1,0,O,8288,Polypteriformes,prackendb
+0.01,1,0,F,8289,Polypteridae,prackendb
+0.01,1,0,G,27686,Erpetoichthys,prackendb
+0.01,1,1,S,27687,Erpetoichthys calabaricus,prackendb
+0.07,7,0,C,7777,Chondrichthyes,prackendb
+0.07,7,0,C1,7778,Elasmobranchii,prackendb
+0.04,4,0,C2,117893,Batoidea,prackendb
+0.04,4,0,O,7858,Rajiformes,prackendb
+0.04,4,0,F,30475,Rajidae,prackendb
+0.04,4,0,G,117853,Amblyraja,prackendb
+0.04,4,4,S,386614,Amblyraja radiata,prackendb
+0.03,3,0,C2,119203,Selachii,prackendb
+0.03,3,0,C3,119197,Galeomorphii,prackendb
+0.03,3,0,C4,119195,Galeoidea,prackendb
+0.02,2,0,O,30483,Carcharhiniformes,prackendb
+0.02,2,0,F,7826,Scyliorhinidae,prackendb
+0.02,2,0,G,7829,Scyliorhinus,prackendb
+0.02,2,2,S,7830,Scyliorhinus canicula,prackendb
+0.01,1,0,O,30503,Orectolobiformes,prackendb
+0.01,1,0,F,259919,Rhincodontidae,prackendb
+0.01,1,0,G,1849765,Rhincodon,prackendb
+0.01,1,1,S,259920,Rhincodon typus,prackendb
+0.52,52,1,P1,7712,Tunicata,prackendb
+0.51,51,1,C,7713,Ascidiacea,prackendb
+0.43,43,1,O,7720,Stolidobranchia,prackendb
+0.38,38,0,F,27573,Molgulidae,prackendb
+0.38,38,1,G,27574,Molgula,prackendb
+0.36,36,36,S,30282,Molgula occidentalis,prackendb
+0.01,1,1,S,30278,Molgula bleizi,prackendb
+0.04,4,0,F,7721,Styelidae,prackendb
+0.03,3,1,G,7724,Styela,prackendb
+0.02,2,2,S,7725,Styela clava,prackendb
+0.01,1,0,G,7722,Polyandrocarpa,prackendb
+0.01,1,1,S,581059,Polyandrocarpa zorritensis,prackendb
+0.05,5,0,O,32436,Aplousobranchia,prackendb
+0.05,5,0,F,201955,Polyclinidae,prackendb
+0.05,5,0,G,201956,Aplidium,prackendb
+0.05,5,5,S,2771288,Aplidium turbinatum,prackendb
+0.02,2,0,O,7716,Phlebobranchia,prackendb
+0.02,2,0,F,7717,Cionidae,prackendb
+0.02,2,0,G,7718,Ciona,prackendb
+0.01,1,1,S,7719,Ciona intestinalis,prackendb
+0.01,1,1,S,51511,Ciona savignyi,prackendb
+0.02,2,0,P1,7735,Cephalochordata,prackendb
+0.02,2,0,C,2682552,Leptocardii,prackendb
+0.02,2,0,O,2682553,Amphioxiformes,prackendb
+0.02,2,0,F,7736,Branchiostomatidae,prackendb
+0.02,2,0,G,7737,Branchiostoma,prackendb
+0.02,2,2,S,7740,Branchiostoma lanceolatum,prackendb
+0.09,9,0,P,7586,Echinodermata,prackendb
+0.09,9,0,P1,133551,Eleutherozoa,prackendb
+0.09,9,0,P2,7587,Asterozoa,prackendb
+0.09,9,0,C,7588,Asteroidea,prackendb
+0.08,8,0,C1,41242,Forcipulatacea,prackendb
+0.08,8,0,O,7599,Forcipulatida,prackendb
+0.08,8,0,F,7600,Asteriidae,prackendb
+0.04,4,0,G,7608,Marthasterias,prackendb
+0.04,4,4,S,7609,Marthasterias glacialis,prackendb
+0.04,4,0,G,7601,Asterias,prackendb
+0.04,4,4,S,7604,Asterias rubens,prackendb
+0.01,1,0,C1,41243,Valvatacea,prackendb
+0.01,1,0,O,41166,Valvatida,prackendb
+0.01,1,0,F,133432,Acanthasteridae,prackendb
+0.01,1,0,G,133433,Acanthaster,prackendb
+0.01,1,1,S,133434,Acanthaster planci,prackendb
+0.05,5,0,P,6073,Cnidaria,prackendb
+0.04,4,0,C,6101,Anthozoa,prackendb
+0.03,3,0,C1,6102,Hexacorallia,prackendb
+0.02,2,0,O,6103,Actiniaria,prackendb
+0.01,1,0,F,45349,Edwardsiidae,prackendb
+0.01,1,0,G,45350,Nematostella,prackendb
+0.01,1,1,S,45351,Nematostella vectensis,prackendb
+0.01,1,0,F,42822,Actiniidae,prackendb
+0.01,1,0,G,6104,Actinia,prackendb
+0.01,1,1,S,6105,Actinia tenebrosa,prackendb
+0.01,1,0,O,6125,Scleractinia,prackendb
+0.01,1,0,O1,123760,Faviina,prackendb
+0.01,1,0,F,46736,Merulinidae,prackendb
+0.01,1,0,G,1920453,Orbicella,prackendb
+0.01,1,1,S,48498,Orbicella faveolata,prackendb
+0.01,1,0,C1,6132,Octocorallia,prackendb
+0.01,1,0,O,40677,Alcyonacea,prackendb
+0.01,1,0,O1,723662,Alcyoniina,prackendb
+0.01,1,0,F,51108,Nephtheidae,prackendb
+0.01,1,0,G,51109,Dendronephthya,prackendb
+0.01,1,1,S,151771,Dendronephthya gigantea,prackendb
+0.01,1,0,C,1927913,Staurozoa,prackendb
+0.01,1,0,O,37528,Stauromedusae,prackendb
+0.01,1,0,O1,1927915,Myostaurida,prackendb
+0.01,1,0,F,1927917,Haliclystidae,prackendb
+0.01,1,0,G,37533,Haliclystus,prackendb
+0.01,1,1,S,313498,Haliclystus octoradiatus,prackendb
+0.02,2,0,P,6040,Porifera,prackendb
+0.02,2,0,C,6042,Demospongiae,prackendb
+0.02,2,0,C1,1779146,Heteroscleromorpha,prackendb
+0.02,2,0,O,6049,Haplosclerida,prackendb
+0.02,2,0,F,68562,Petrosiidae,prackendb
+0.02,2,0,G,68563,Petrosia,prackendb
+0.02,2,2,S,68564,Petrosia ficiformis,prackendb
+0.31,31,0,K,4751,Fungi,prackendb
+0.27,27,0,K1,451864,Dikarya,prackendb
+0.23,23,0,P,4890,Ascomycota,prackendb
+0.22,22,0,P1,716545,saccharomyceta,prackendb
+0.15,15,0,P2,147538,Pezizomycotina,prackendb
+0.15,15,0,P3,716546,leotiomyceta,prackendb
+0.08,8,0,P4,715989,sordariomyceta,prackendb
+0.06,6,0,C,147550,Sordariomycetes,prackendb
+0.05,5,0,C1,222543,Hypocreomycetidae,prackendb
+0.05,5,0,O,5125,Hypocreales,prackendb
+0.03,3,0,F,5129,Hypocreaceae,prackendb
+0.03,3,0,G,5543,Trichoderma,prackendb
+0.02,2,2,S,51453,Trichoderma reesei,prackendb
+0.01,1,1,S,29875,Trichoderma virens,prackendb
+0.02,2,0,F,110618,Nectriaceae,prackendb
+0.02,2,0,G,5506,Fusarium,prackendb
+0.01,1,1,G1,569360,Fusarium sambucinum species complex,prackendb
+0.01,1,1,G1,171631,Fusarium oxysporum species complex,prackendb
+0.01,1,0,C1,222544,Sordariomycetidae,prackendb
+0.01,1,0,O,5114,Diaporthales,prackendb
+0.01,1,0,F,767018,Diaporthaceae,prackendb
+0.01,1,0,G,36922,Diaporthe,prackendb
+0.01,1,1,S,748121,Diaporthe batatas,prackendb
+0.02,2,0,C,147548,Leotiomycetes,prackendb
+0.02,2,0,O,5178,Helotiales,prackendb
+0.02,2,0,F,5181,Helotiaceae,prackendb
+0.02,2,0,G,5182,Hymenoscyphus,prackendb
+0.02,2,0,G1,2617741,unclassified Hymenoscyphus,prackendb
+0.02,2,2,S,2919693,Hymenoscyphus sp. 'IN02',prackendb
+0.04,4,0,P4,715962,dothideomyceta,prackendb
+0.04,4,0,C,147541,Dothideomycetes,prackendb
+0.03,3,0,C1,451868,Pleosporomycetidae,prackendb
+0.03,3,0,O,92860,Pleosporales,prackendb
+0.02,2,0,O1,715340,Pleosporineae,prackendb
+0.01,1,0,F,28556,Pleosporaceae,prackendb
+0.01,1,0,G,5502,Curvularia,prackendb
+0.01,1,1,S,95742,Curvularia clavata,prackendb
+0.01,1,0,F,34374,Leptosphaeriaceae,prackendb
+0.01,1,0,G,5021,Leptosphaeria,prackendb
+0.01,1,0,G1,220671,Leptosphaeria maculans species complex,prackendb
+0.01,1,0,S,5022,Leptosphaeria maculans,prackendb
+0.01,1,1,S1,225343,Leptosphaeria maculans 'lepidii' group,prackendb
+0.01,1,0,O1,1255046,Massarineae,prackendb
+0.01,1,0,F,221678,Didymosphaeriaceae,prackendb
+0.01,1,0,G,125369,Paraphaeosphaeria,prackendb
+0.01,1,1,S,1460663,Paraphaeosphaeria sporulosa,prackendb
+0.01,1,0,C1,451867,Dothideomycetidae,prackendb
+0.01,1,0,O,2726947,Mycosphaerellales,prackendb
+0.01,1,0,F,93133,Mycosphaerellaceae,prackendb
+0.01,1,0,G,237179,Sphaerulina,prackendb
+0.01,1,0,S,85929,Sphaerulina musiva,prackendb
+0.01,1,1,S1,692275,Sphaerulina musiva SO2202,prackendb
+0.03,3,0,C,147545,Eurotiomycetes,prackendb
+0.03,3,0,C1,451871,Eurotiomycetidae,prackendb
+0.03,3,0,O,5042,Eurotiales,prackendb
+0.03,3,0,F,1131492,Aspergillaceae,prackendb
+0.03,3,0,G,5052,Aspergillus,prackendb
+0.01,1,1,S,1810919,Aspergillus mulundensis,prackendb
+0.01,1,1,S,1220188,Aspergillus tanneri,prackendb
+0.01,1,0,G1,2720870,Aspergillus subgen. Nidulantes,prackendb
+0.01,1,0,S,162425,Aspergillus nidulans,prackendb
+0.01,1,1,S1,227321,Aspergillus nidulans FGSC A4,prackendb
+0.07,7,0,P2,147537,Saccharomycotina,prackendb
+0.07,7,0,C,4891,Saccharomycetes,prackendb
+0.07,7,0,O,4892,Saccharomycetales,prackendb
+0.03,3,0,F,4893,Saccharomycetaceae,prackendb
+0.02,2,0,G,4930,Saccharomyces,prackendb
+0.02,2,2,S,4932,Saccharomyces cerevisiae,prackendb
+0.01,1,0,G,1196389,Zygotorulaspora,prackendb
+0.01,1,1,S,42260,Zygotorulaspora mrakii,prackendb
+0.02,2,0,F,1156497,Pichiaceae,prackendb
+0.01,1,0,G,13366,Brettanomyces,prackendb
+0.01,1,1,S,13502,Brettanomyces nanus,prackendb
+0.01,1,0,G,461281,Ogataea,prackendb
+0.01,1,1,S,460523,Ogataea polymorpha,prackendb
+0.01,1,0,F,34353,Dipodascaceae,prackendb
+0.01,1,0,G,43987,Geotrichum,prackendb
+0.01,1,1,S,1173061,Geotrichum candidum,prackendb
+0.01,1,0,O1,2926619,CUG-Ser2 clade,prackendb
+0.01,1,0,F,34366,Saccharomycopsidaceae,prackendb
+0.01,1,0,G,4943,Saccharomycopsis,prackendb
+0.01,1,0,G1,2636529,unclassified Saccharomycopsis,prackendb
+0.01,1,1,S,2826930,Saccharomycopsis sp. TF-2021a,prackendb
+0.01,1,0,P1,451866,Taphrinomycotina,prackendb
+0.01,1,0,C,147553,Pneumocystidomycetes,prackendb
+0.01,1,0,O,37987,Pneumocystidales,prackendb
+0.01,1,0,F,44281,Pneumocystidaceae,prackendb
+0.01,1,0,G,4753,Pneumocystis,prackendb
+0.01,1,1,S,4754,Pneumocystis carinii,prackendb
+0.04,4,0,P,5204,Basidiomycota,prackendb
+0.03,3,0,P1,5302,Agaricomycotina,prackendb
+0.03,3,0,C,155619,Agaricomycetes,prackendb
+0.02,2,0,C1,452333,Agaricomycetidae,prackendb
+0.02,2,0,O,68889,Boletales,prackendb
+0.01,1,0,O1,227330,Boletineae,prackendb
+0.01,1,0,F,5368,Boletaceae,prackendb
+0.01,1,0,F1,1487592,Boletoideae,prackendb
+0.01,1,0,G,182794,Xanthoconium,prackendb
+0.01,1,0,G1,2685146,unclassified Xanthoconium,prackendb
+0.01,1,1,S,2979424,Xanthoconium sp. 'IN01',prackendb
+0.01,1,0,O1,227334,Coniophorineae,prackendb
+0.01,1,0,F,80634,Coniophoraceae,prackendb
+0.01,1,0,G,80635,Coniophora,prackendb
+0.01,1,0,S,80637,Coniophora puteana,prackendb
+0.01,1,1,S1,741705,Coniophora puteana RWD-64-598 SS2,prackendb
+0.01,1,0,C1,355688,Agaricomycetes incertae sedis,prackendb
+0.01,1,0,O,36064,Cantharellales,prackendb
+0.01,1,0,F,5250,Ceratobasidiaceae,prackendb
+0.01,1,0,G,5251,Ceratobasidium,prackendb
+0.01,1,0,G1,2600200,unclassified Ceratobasidium,prackendb
+0.01,1,1,S,170446,Ceratobasidium sp. AG-Ba,prackendb
+0.01,1,0,P1,452284,Ustilaginomycotina,prackendb
+0.01,1,0,C,1538075,Malasseziomycetes,prackendb
+0.01,1,0,O,162474,Malasseziales,prackendb
+0.01,1,0,F,742845,Malasseziaceae,prackendb
+0.01,1,1,G,55193,Malassezia,prackendb
+0.04,4,0,K1,112252,Fungi incertae sedis,prackendb
+0.04,4,0,P,1913637,Mucoromycota,prackendb
+0.04,4,0,P1,214504,Glomeromycotina,prackendb
+0.04,4,0,C,214506,Glomeromycetes,prackendb
+0.04,4,0,O,36750,Glomerales,prackendb
+0.04,4,0,F,36751,Glomeraceae,prackendb
+0.03,3,0,G,1129544,Rhizophagus,prackendb
+0.03,3,3,S,588596,Rhizophagus irregularis,prackendb
+0.01,1,0,G,1548385,Dominikia,prackendb
+0.01,1,1,S,2804877,Dominikia glomerocarpica,prackendb
+0.01,1,0,C,28009,Choanoflagellata,prackendb
+0.01,1,0,O,1924738,Craspedida,prackendb
+0.01,1,0,F,81529,Salpingoecidae,prackendb
+0.01,1,0,G,86017,Salpingoeca,prackendb
+0.01,1,1,S,946362,Salpingoeca rosetta,prackendb
+4.77,477,0,K,33090,Viridiplantae,prackendb
+4.74,474,0,P,35493,Streptophyta,prackendb
+4.74,474,0,P1,131221,Streptophytina,prackendb
+4.74,474,1,P2,3193,Embryophyta,prackendb
+4.69,469,0,P3,58023,Tracheophyta,prackendb
+4.69,469,0,P4,78536,Euphyllophyta,prackendb
+4.69,469,0,P5,58024,Spermatophyta,prackendb
+4.69,469,0,C,3398,Magnoliopsida,prackendb
+4.68,468,1,C1,1437183,Mesangiospermae,prackendb
+4.44,444,0,C2,71240,eudicotyledons,prackendb
+4.44,444,0,C3,91827,Gunneridae,prackendb
+4.44,444,6,C4,1437201,Pentapetalae,prackendb
+3.4,340,0,C5,71275,rosids,prackendb
+2.61,261,0,C6,91836,malvids,prackendb
+2.37,237,0,O,41938,Malvales,prackendb
+2.37,237,0,F,3629,Malvaceae,prackendb
+2.36,236,2,F1,214907,Malvoideae,prackendb
+2.3,230,3,G,3633,Gossypium,prackendb
+2.24,224,224,S,34284,Gossypium turneri,prackendb
+0.02,2,2,S,34274,Gossypium herbaceum,prackendb
+0.01,1,1,S,47622,Gossypium bickii,prackendb
+0.04,4,0,G,47614,Gossypioides,prackendb
+0.04,4,4,S,47615,Gossypioides kirkii,prackendb
+0.01,1,0,F1,214909,Byttnerioideae,prackendb
+0.01,1,0,G,3640,Theobroma,prackendb
+0.01,1,1,S,3641,Theobroma cacao,prackendb
+0.19,19,0,O,3699,Brassicales,prackendb
+0.18,18,0,F,3700,Brassicaceae,prackendb
+0.09,9,0,F1,981071,Brassiceae,prackendb
+0.06,6,0,G,3725,Raphanus,prackendb
+0.06,6,6,S,3726,Raphanus sativus,prackendb
+0.03,3,3,G,3705,Brassica,prackendb
+0.05,5,1,F1,980083,Camelineae,prackendb
+0.02,2,0,G,3701,Arabidopsis,prackendb
+0.01,1,1,S,3702,Arabidopsis thaliana,prackendb
+0.01,1,1,S,38785,Arabidopsis arenosa,prackendb
+0.02,2,0,G,71323,Camelina,prackendb
+0.02,2,2,S,883000,Camelina hispida,prackendb
+0.02,2,0,F1,981099,Thlaspideae,prackendb
+0.02,2,0,G,13287,Thlaspi,prackendb
+0.02,2,2,S,13288,Thlaspi arvense,prackendb
+0.01,1,0,F1,981100,Eutremeae,prackendb
+0.01,1,0,G,98005,Eutrema,prackendb
+0.01,1,1,S,72664,Eutrema salsugineum,prackendb
+0.01,1,0,F1,981070,Arabideae,prackendb
+0.01,1,0,G,50451,Arabis,prackendb
+0.01,1,1,S,50452,Arabis alpina,prackendb
+0.01,1,0,F,301454,Cleomaceae,prackendb
+0.01,1,0,F1,2768677,New World clade,prackendb
+0.01,1,0,G,1168313,Tarenaya,prackendb
+0.01,1,1,S,28532,Tarenaya hassleriana,prackendb
+0.03,3,0,O,41937,Sapindales,prackendb
+0.03,3,0,F,23808,Simaroubaceae,prackendb
+0.03,3,0,G,23809,Ailanthus,prackendb
+0.03,3,3,S,2768810,Ailanthus altissimus,prackendb
+0.02,2,0,O,41944,Myrtales,prackendb
+0.01,1,0,F,3931,Myrtaceae,prackendb
+0.01,1,0,F1,1699513,Myrtoideae,prackendb
+0.01,1,0,F2,1699523,Myrteae,prackendb
+0.01,1,0,F3,1705104,Pimenta group,prackendb
+0.01,1,0,G,260125,Campomanesia,prackendb
+0.01,1,1,S,1365876,Campomanesia xanthocarpa,prackendb
+0.01,1,0,F,3934,Onagraceae,prackendb
+0.01,1,0,F1,1585427,Onagroideae,prackendb
+0.01,1,0,F2,1585433,Epilobieae,prackendb
+0.01,1,0,G,238243,Chamaenerion,prackendb
+0.01,1,1,S,13055,Chamaenerion angustifolium,prackendb
+0.75,75,1,C6,91835,fabids,prackendb
+0.32,32,0,O,72025,Fabales,prackendb
+0.32,32,0,F,3803,Fabaceae,prackendb
+0.31,31,0,F1,3814,Papilionoideae,prackendb
+0.31,31,0,F2,2231393,50 kb inversion clade,prackendb
+0.24,24,0,F3,2231382,NPAAA clade,prackendb
+0.14,14,0,F4,2233838,Hologalegina,prackendb
+0.13,13,0,F5,2233839,IRL clade,prackendb
+0.11,11,0,F6,163742,Trifolieae,prackendb
+0.08,8,2,G,3877,Medicago,prackendb
+0.03,3,3,S,3880,Medicago truncatula,prackendb
+0.03,3,3,S,70936,Medicago arabica,prackendb
+0.03,3,0,G,3898,Trifolium,prackendb
+0.03,3,3,S,57577,Trifolium pratense,prackendb
+0.02,2,0,F6,163722,Cicereae,prackendb
+0.02,2,0,G,3826,Cicer,prackendb
+0.02,2,2,S,3827,Cicer arietinum,prackendb
+0.01,1,0,F5,2233857,robinioid clade,prackendb
+0.01,1,0,F6,163747,Loteae,prackendb
+0.01,1,0,G,3867,Lotus,prackendb
+0.01,1,1,S,34305,Lotus japonicus,prackendb
+0.1,10,0,F4,2233855,indigoferoid/millettioid clade,prackendb
+0.1,10,0,F5,163735,Phaseoleae,prackendb
+0.09,9,1,G,3913,Vigna,prackendb
+0.05,5,5,S,3917,Vigna unguiculata,prackendb
+0.03,3,1,S,3914,Vigna angularis,prackendb
+0.02,2,2,S1,157739,Vigna angularis var. angularis,prackendb
+0.01,1,0,G,3846,Glycine,prackendb
+0.01,1,0,G1,1462606,Glycine subgen. Soja,prackendb
+0.01,1,1,S,3847,Glycine max,prackendb
+0.05,5,0,F3,2231384,genistoids sensu lato,prackendb
+0.05,5,0,F4,2231385,core genistoids,prackendb
+0.05,5,0,F5,163729,Genisteae,prackendb
+0.05,5,0,G,3869,Lupinus,prackendb
+0.05,5,5,S,3871,Lupinus angustifolius,prackendb
+0.02,2,0,F3,2231387,dalbergioids sensu lato,prackendb
+0.02,2,0,F4,163725,Dalbergieae,prackendb
+0.02,2,0,F5,2231390,Pterocarpus clade,prackendb
+0.02,2,0,G,3817,Arachis,prackendb
+0.02,2,2,S,3818,Arachis hypogaea,prackendb
+0.01,1,0,F1,3804,Caesalpinioideae,prackendb
+0.01,1,0,F2,3807,mimosoid clade,prackendb
+0.01,1,0,F3,163487,Mimoseae,prackendb
+0.01,1,0,G,35715,Prosopis,prackendb
+0.01,1,1,S,207710,Prosopis alba,prackendb
+0.14,14,0,O,3502,Fagales,prackendb
+0.08,8,0,F,3514,Betulaceae,prackendb
+0.05,5,0,G,13450,Corylus,prackendb
+0.05,5,5,S,13451,Corylus avellana,prackendb
+0.03,3,0,G,12989,Carpinus,prackendb
+0.03,3,3,S,176864,Carpinus viminea,prackendb
+0.05,5,0,F,3503,Fagaceae,prackendb
+0.04,4,0,G,3511,Quercus,prackendb
+0.04,4,4,S,38942,Quercus robur,prackendb
+0.01,1,0,G,21024,Fagus,prackendb
+0.01,1,1,S,28930,Fagus sylvatica,prackendb
+0.01,1,0,F,16714,Juglandaceae,prackendb
+0.01,1,0,G,13402,Carya,prackendb
+0.01,1,1,S,32201,Carya illinoinensis,prackendb
+0.13,13,0,O,3646,Malpighiales,prackendb
+0.09,9,0,F,3977,Euphorbiaceae,prackendb
+0.08,8,0,F1,235629,Acalyphoideae,prackendb
+0.08,8,0,F2,235880,Acalypheae,prackendb
+0.08,8,0,G,3984,Mercurialis,prackendb
+0.08,8,8,S,3986,Mercurialis annua,prackendb
+0.01,1,0,F1,235631,Crotonoideae,prackendb
+0.01,1,0,F2,235882,Micrandreae,prackendb
+0.01,1,0,G,3980,Hevea,prackendb
+0.01,1,1,S,3981,Hevea brasiliensis,prackendb
+0.02,2,0,F,3688,Salicaceae,prackendb
+0.02,2,0,F1,238069,Saliceae,prackendb
+0.02,2,1,G,3689,Populus,prackendb
+0.01,1,1,S,3694,Populus trichocarpa,prackendb
+0.01,1,0,F,4004,Linaceae,prackendb
+0.01,1,0,G,4005,Linum,prackendb
+0.01,1,1,S,4006,Linum usitatissimum,prackendb
+0.01,1,0,F,24921,Violaceae,prackendb
+0.01,1,0,G,13757,Viola,prackendb
+0.01,1,1,S,502511,Viola canina,prackendb
+0.12,12,0,O,3744,Rosales,prackendb
+0.11,11,0,F,3745,Rosaceae,prackendb
+0.06,6,0,F1,171638,Rosoideae,prackendb
+0.06,6,0,F2,721790,Colurieae,prackendb
+0.06,6,0,G,3761,Geum,prackendb
+0.06,6,6,S,57919,Geum urbanum,prackendb
+0.05,5,0,F1,171637,Amygdaloideae,prackendb
+0.03,3,0,F2,721813,Maleae,prackendb
+0.02,2,0,G,3749,Malus,prackendb
+0.01,1,1,S,3752,Malus sylvestris,prackendb
+0.01,1,1,S,3750,Malus domestica,prackendb
+0.01,1,0,G,3766,Pyrus,prackendb
+0.01,1,1,S,225117,Pyrus x bretschneideri,prackendb
+0.02,2,0,F2,721805,Amygdaleae,prackendb
+0.02,2,1,G,3754,Prunus,prackendb
+0.01,1,1,S,102107,Prunus mume,prackendb
+0.01,1,0,F,3608,Rhamnaceae,prackendb
+0.01,1,0,F1,325284,Paliureae,prackendb
+0.01,1,0,G,72171,Ziziphus,prackendb
+0.01,1,0,S,326968,Ziziphus jujuba,prackendb
+0.01,1,1,S1,714518,Ziziphus jujuba var. spinosa,prackendb
+0.03,3,0,O,71239,Cucurbitales,prackendb
+0.03,3,0,F,3650,Cucurbitaceae,prackendb
+0.02,2,0,F1,1003877,Benincaseae,prackendb
+0.01,1,0,G,3655,Cucumis,prackendb
+0.01,1,1,S,3656,Cucumis melo,prackendb
+0.01,1,0,G,102210,Benincasa,prackendb
+0.01,1,1,S,102211,Benincasa hispida,prackendb
+0.01,1,0,F1,1003878,Cucurbiteae,prackendb
+0.01,1,1,G,3660,Cucurbita,prackendb
+0.04,4,0,C6,91834,rosids incertae sedis,prackendb
+0.04,4,0,O,403667,Vitales,prackendb
+0.04,4,0,F,3602,Vitaceae,prackendb
+0.04,4,0,F1,2304100,Viteae,prackendb
+0.04,4,1,G,3603,Vitis,prackendb
+0.03,3,3,S,29760,Vitis vinifera,prackendb
+0.95,95,1,C5,71274,asterids,prackendb
+0.81,81,0,C6,91888,lamiids,prackendb
+0.6,60,0,O,4069,Solanales,prackendb
+0.3,30,0,F,4070,Solanaceae,prackendb
+0.3,30,1,F1,424551,Solanoideae,prackendb
+0.29,29,0,F2,424574,Solaneae,prackendb
+0.29,29,4,G,4107,Solanum,prackendb
+0.16,16,2,G1,49274,Solanum subgen. Lycopersicon,prackendb
+0.08,8,8,S,4081,Solanum lycopersicum,prackendb
+0.06,6,6,S,28526,Solanum pennellii,prackendb
+0.06,6,6,S,45834,Solanum dulcamara,prackendb
+0.03,3,3,S,4113,Solanum tuberosum,prackendb
+0.3,30,0,F,4118,Convolvulaceae,prackendb
+0.3,30,0,F1,267213,Ipomoeeae,prackendb
+0.3,30,26,G,4119,Ipomoea,prackendb
+0.04,4,4,S,35885,Ipomoea triloba,prackendb
+0.21,21,0,O,4143,Lamiales,prackendb
+0.12,12,0,F,4136,Lamiaceae,prackendb
+0.05,5,0,F1,216702,Scutellarioideae,prackendb
+0.05,5,0,G,4139,Scutellaria,prackendb
+0.05,5,5,S,53169,Scutellaria galericulata,prackendb
+0.04,4,0,F1,216703,Lamioideae,prackendb
+0.04,4,0,F2,983543,Marrubieae,prackendb
+0.04,4,0,G,155228,Ballota,prackendb
+0.04,4,4,S,194200,Ballota nigra,prackendb
+0.03,3,0,F1,216706,Nepetoideae,prackendb
+0.03,3,0,F2,216718,Mentheae,prackendb
+0.03,3,0,F3,2836339,Salviinae,prackendb
+0.03,3,1,G,21880,Salvia,prackendb
+0.01,1,0,G1,2026555,Salvia subgen. Calosphace,prackendb
+0.01,1,0,G2,2026556,core Calosphace,prackendb
+0.01,1,1,S,180675,Salvia splendens,prackendb
+0.01,1,0,G1,2291027,Salvia incertae sedis,prackendb
+0.01,1,1,S,49212,Salvia hispanica,prackendb
+0.08,8,0,F,4144,Oleaceae,prackendb
+0.04,4,0,F1,426105,Jasmineae,prackendb
+0.04,4,0,G,4147,Jasminum,prackendb
+0.04,4,4,S,660624,Jasminum sambac,prackendb
+0.04,4,0,F1,426106,Oleeae,prackendb
+0.04,4,0,G,38871,Fraxinus,prackendb
+0.04,4,4,S,56036,Fraxinus pennsylvanica,prackendb
+0.01,1,0,F,4180,Pedaliaceae,prackendb
+0.01,1,0,G,4181,Sesamum,prackendb
+0.01,1,1,S,4182,Sesamum indicum,prackendb
+0.1,10,0,C6,91882,campanulids,prackendb
+0.07,7,0,O,4036,Apiales,prackendb
+0.07,7,0,O1,364270,Apiineae,prackendb
+0.07,7,0,F,4050,Araliaceae,prackendb
+0.07,7,0,G,4051,Hedera,prackendb
+0.07,7,7,S,4052,Hedera helix,prackendb
+0.03,3,0,O,4209,Asterales,prackendb
+0.03,3,0,F,4210,Asteraceae,prackendb
+0.03,3,0,F1,102804,Asteroideae,prackendb
+0.02,2,0,F2,102806,Inuleae,prackendb
+0.02,2,0,F3,911294,Inulinae,prackendb
+0.02,2,0,G,56534,Pulicaria,prackendb
+0.02,2,2,S,56535,Pulicaria dysenterica,prackendb
+0.01,1,0,F2,102812,Senecioneae,prackendb
+0.01,1,0,F3,795080,Tussilagininae,prackendb
+0.01,1,0,G,98727,Sinosenecio,prackendb
+0.01,1,1,S,186970,Sinosenecio oldhamianus,prackendb
+0.03,3,0,O,41945,Ericales,prackendb
+0.02,2,0,F,25692,Balsaminaceae,prackendb
+0.02,2,0,G,35939,Impatiens,prackendb
+0.02,2,2,S,253017,Impatiens glandulifera,prackendb
+0.01,1,0,F,27065,Theaceae,prackendb
+0.01,1,0,G,59678,Stewartia,prackendb
+0.01,1,0,S,59679,Stewartia pseudocamellia,prackendb
+0.01,1,1,S1,941580,Stewartia pseudocamellia var. koreana,prackendb
+0.03,3,0,O,3524,Caryophyllales,prackendb
+0.02,2,0,F,3615,Polygonaceae,prackendb
+0.02,2,0,F1,1110380,Polygonoideae,prackendb
+0.02,2,0,F2,1110385,Polygoneae,prackendb
+0.02,2,0,G,46786,Polygonum,prackendb
+0.02,2,2,S,137693,Polygonum aviculare,prackendb
+0.01,1,0,F,1804623,Chenopodiaceae,prackendb
+0.01,1,0,F1,1804621,Betoideae,prackendb
+0.01,1,0,G,3554,Beta,prackendb
+0.01,1,0,S,161934,Beta vulgaris,prackendb
+0.01,1,1,S1,3555,Beta vulgaris subsp. vulgaris,prackendb
+0.22,22,0,C2,4447,Liliopsida,prackendb
+0.21,21,0,C3,1437197,Petrosaviidae,prackendb
+0.2,20,0,C4,4734,commelinids,prackendb
+0.18,18,0,O,38820,Poales,prackendb
+0.11,11,0,F,4479,Poaceae,prackendb
+0.06,6,0,F1,359160,BOP clade,prackendb
+0.05,5,0,F2,147367,Oryzoideae,prackendb
+0.05,5,0,F3,147380,Oryzeae,prackendb
+0.05,5,0,F4,1648021,Oryzinae,prackendb
+0.05,5,0,G,4527,Oryza,prackendb
+0.04,4,3,S,4530,Oryza sativa,prackendb
+0.01,1,1,S1,39946,Oryza sativa Indica Group,prackendb
+0.01,1,1,S,4538,Oryza glaberrima,prackendb
+0.01,1,0,F2,147368,Pooideae,prackendb
+0.01,1,0,F3,1648037,Poodae,prackendb
+0.01,1,0,F4,147387,Poeae,prackendb
+0.01,1,0,F5,1652081,Poeae Chloroplast Group 2 (Poeae type),prackendb
+0.01,1,0,F6,2948571,Loliodinae,prackendb
+0.01,1,0,F7,640630,Loliinae,prackendb
+0.01,1,0,G,4520,Lolium,prackendb
+0.01,1,1,S,4522,Lolium perenne,prackendb
+0.05,5,0,F1,147370,PACMAD clade,prackendb
+0.05,5,0,F2,147369,Panicoideae,prackendb
+0.05,5,0,F3,1648036,Panicodae,prackendb
+0.05,5,0,F4,147428,Paniceae,prackendb
+0.05,5,0,F5,1293361,Cenchrinae,prackendb
+0.05,5,0,G,4554,Setaria,prackendb
+0.05,5,5,S,4556,Setaria viridis,prackendb
+0.03,3,0,F,4613,Bromeliaceae,prackendb
+0.03,3,0,F1,1909378,Bromelioideae,prackendb
+0.03,3,0,G,4614,Ananas,prackendb
+0.03,3,2,S,4615,Ananas comosus,prackendb
+0.01,1,1,S1,296719,Ananas comosus var. bracteatus,prackendb
+0.03,3,0,F,14101,Juncaceae,prackendb
+0.02,2,0,G,46322,Luzula,prackendb
+0.02,2,2,S,59018,Luzula sylvatica,prackendb
+0.01,1,0,G,13578,Juncus,prackendb
+0.01,1,1,S,13579,Juncus effusus,prackendb
+0.01,1,0,F,4609,Cyperaceae,prackendb
+0.01,1,0,F1,986140,Cyperoideae,prackendb
+0.01,1,0,F2,994702,Rhynchosporeae,prackendb
+0.01,1,0,G,46332,Rhynchospora,prackendb
+0.01,1,1,S,2022672,Rhynchospora breviuscula,prackendb
+0.02,2,0,O,4618,Zingiberales,prackendb
+0.02,2,0,F,4637,Musaceae,prackendb
+0.02,2,0,G,4640,Musa,prackendb
+0.02,2,2,S,320322,Musa troglodytarum,prackendb
+0.01,1,0,O,40548,Dioscoreales,prackendb
+0.01,1,0,F,4671,Dioscoreaceae,prackendb
+0.01,1,0,G,4672,Dioscorea,prackendb
+0.01,1,0,S,29710,Dioscorea cayenensis,prackendb
+0.01,1,1,S1,55577,Dioscorea cayenensis subsp. rotundata,prackendb
+0.01,1,0,O,16360,Alismatales,prackendb
+0.01,1,0,F,4454,Araceae,prackendb
+0.01,1,0,F1,284551,Lemnoideae,prackendb
+0.01,1,0,G,4473,Spirodela,prackendb
+0.01,1,1,S,51605,Spirodela intermedia,prackendb
+0.01,1,0,O,232378,Proteales,prackendb
+0.01,1,0,F,4328,Proteaceae,prackendb
+0.01,1,0,G,54954,Telopea,prackendb
+0.01,1,1,S,54955,Telopea speciosissima,prackendb
+0.01,1,0,O,261007,Nymphaeales,prackendb
+0.01,1,0,F,4410,Nymphaeaceae,prackendb
+0.01,1,0,G,4418,Nymphaea,prackendb
+0.01,1,1,S,210225,Nymphaea colorata,prackendb
+0.03,3,0,P3,3208,Bryophyta,prackendb
+0.03,3,0,P4,404260,Bryophytina,prackendb
+0.03,3,0,C,3214,Bryopsida,prackendb
+0.03,3,0,C1,114658,Bryidae,prackendb
+0.03,3,0,C2,404315,Hypnanae,prackendb
+0.03,3,0,O,13798,Hypnales,prackendb
+0.02,2,0,F,28466,Hylocomiaceae,prackendb
+0.02,2,0,G,28467,Rhytidiadelphus,prackendb
+0.02,2,2,S,28468,Rhytidiadelphus loreus,prackendb
+0.01,1,0,F,61526,Thuidiaceae,prackendb
+0.01,1,0,G,67427,Thuidium,prackendb
+0.01,1,1,S,67428,Thuidium tamariscinum,prackendb
+0.01,1,0,P3,3195,Marchantiophyta,prackendb
+0.01,1,0,C,186770,Marchantiopsida,prackendb
+0.01,1,0,C1,186774,Marchantiidae,prackendb
+0.01,1,0,O,28908,Marchantiales,prackendb
+0.01,1,0,F,29585,Marchantiaceae,prackendb
+0.01,1,0,G,3196,Marchantia,prackendb
+0.01,1,0,S,3197,Marchantia polymorpha,prackendb
+0.01,1,1,S1,1480154,Marchantia polymorpha subsp. ruderalis,prackendb
+0.03,3,0,P,3041,Chlorophyta,prackendb
+0.02,2,0,P1,2692248,core chlorophytes,prackendb
+0.02,2,0,C,3166,Chlorophyceae,prackendb
+0.02,2,0,C1,2812636,CS clade,prackendb
+0.02,2,0,O,3042,Chlamydomonadales,prackendb
+0.02,2,0,F,3043,Dunaliellaceae,prackendb
+0.02,2,0,G,3044,Dunaliella,prackendb
+0.02,2,2,S,257627,Dunaliella primolecta,prackendb
+0.01,1,1,C,33103,Ulvophyceae,prackendb
+0.69,69,0,D1,2698737,Sar,prackendb
+0.69,69,0,D2,33630,Alveolata,prackendb
+0.64,64,0,P,5794,Apicomplexa,prackendb
+0.55,55,0,C,422676,Aconoidasida,prackendb
+0.36,36,0,O,2735539,Nephromycida,prackendb
+0.36,36,0,G,873537,Nephromyces,prackendb
+0.36,36,1,G1,2637010,unclassified Nephromyces,prackendb
+0.35,35,35,S,2544991,Nephromyces sp. ex Molgula occidentalis,prackendb
+0.18,18,0,O,5819,Haemosporida,prackendb
+0.18,18,0,F,1639119,Plasmodiidae,prackendb
+0.18,18,0,G,5820,Plasmodium,prackendb
+0.13,13,2,G1,418101,Plasmodium (Vinckeia),prackendb
+0.1,10,0,S,5821,Plasmodium berghei,prackendb
+0.1,10,10,S1,5823,Plasmodium berghei ANKA,prackendb
+0.01,1,0,S,5860,Plasmodium vinckei,prackendb
+0.01,1,1,S1,54757,Plasmodium vinckei vinckei,prackendb
+0.03,3,1,G1,418107,Plasmodium (Laverania),prackendb
+0.02,2,2,S,720590,Plasmodium sp. DRC-Itaito,prackendb
+0.02,2,0,G1,2038118,Plasmodium (Lacertamoeba),prackendb
+0.02,2,2,S,31275,Plasmodium floridense,prackendb
+0.01,1,0,O,5863,Piroplasmida,prackendb
+0.01,1,0,F,32594,Babesiidae,prackendb
+0.01,1,0,G,5864,Babesia,prackendb
+0.01,1,0,S,5868,Babesia microti,prackendb
+0.01,1,1,S1,1133968,Babesia microti strain RI,prackendb
+0.09,9,0,C,1280412,Conoidasida,prackendb
+0.09,9,1,C1,5796,Coccidia,prackendb
+0.08,8,0,O,75739,Eucoccidiorida,prackendb
+0.08,8,0,O1,423054,Eimeriorina,prackendb
+0.04,4,0,F,5799,Eimeriidae,prackendb
+0.04,4,0,G,5800,Eimeria,prackendb
+0.02,2,2,S,352384,Eimeria furonis,prackendb
+0.01,1,1,S,5802,Eimeria tenella,prackendb
+0.01,1,1,S,947528,Eimeria anguillae,prackendb
+0.02,2,0,F,5809,Sarcocystidae,prackendb
+0.02,2,0,G,5810,Toxoplasma,prackendb
+0.02,2,0,S,5811,Toxoplasma gondii,prackendb
+0.02,2,2,S1,508771,Toxoplasma gondii ME49,prackendb
+0.02,2,0,F,35082,Cryptosporidiidae,prackendb
+0.02,2,0,G,5806,Cryptosporidium,prackendb
+0.02,2,2,S,5807,Cryptosporidium parvum,prackendb
+0.05,5,0,P,5878,Ciliophora,prackendb
+0.05,5,0,P1,431838,Intramacronucleata,prackendb
+0.04,4,0,C,6020,Oligohymenophorea,prackendb
+0.04,4,0,O,31277,Hymenostomatida,prackendb
+0.04,4,0,O1,37093,Tetrahymenina,prackendb
+0.04,4,0,F,291294,Tetrahymenidae,prackendb
+0.04,4,0,G,5890,Tetrahymena,prackendb
+0.04,4,0,S,5911,Tetrahymena thermophila,prackendb
+0.04,4,4,S1,312017,Tetrahymena thermophila SB210,prackendb
+0.01,1,0,C,6000,Prostomatea,prackendb
+0.01,1,0,O,6001,Prorodontida,prackendb
+0.01,1,0,F,693141,Placidae,prackendb
+0.01,1,0,G,693142,Placus,prackendb
+0.01,1,1,S,1005901,Placus striatus,prackendb
+0.03,3,0,P,2763,Rhodophyta,prackendb
+0.02,2,0,C,2797,Bangiophyceae,prackendb
+0.01,1,0,O,2798,Porphyridiales,prackendb
+0.01,1,0,F,2799,Porphyridiaceae,prackendb
+0.01,1,0,G,2791,Porphyridium,prackendb
+0.01,1,1,S,2792,Porphyridium aerugineum,prackendb
+0.01,1,0,O,265318,Cyanidiales,prackendb
+0.01,1,0,F,265316,Cyanidiaceae,prackendb
+0.01,1,0,G,83373,Galdieria,prackendb
+0.01,1,1,S,130081,Galdieria sulphuraria,prackendb
+0.01,1,0,C,2806,Florideophyceae,prackendb
+0.01,1,0,C1,2045261,Rhodymeniophycidae,prackendb
+0.01,1,0,O,2802,Ceramiales,prackendb
+0.01,1,1,F,2803,Rhodomelaceae,prackendb
+0.02,2,0,D1,554915,Amoebozoa,prackendb
+0.02,2,0,P,2605435,Evosea,prackendb
+0.01,1,0,C,142796,Eumycetozoa,prackendb
+0.01,1,0,C1,33083,Dictyostelia,prackendb
+0.01,1,0,O,2058949,Dictyosteliales,prackendb
+0.01,1,0,F,2058185,Dictyosteliaceae,prackendb
+0.01,1,0,G,5782,Dictyostelium,prackendb
+0.01,1,1,S,5786,Dictyostelium purpureum,prackendb
+0.01,1,0,P1,555406,Archamoebae,prackendb
+0.01,1,0,O,2682482,Mastigamoebida,prackendb
+0.01,1,0,F,33084,Entamoebidae,prackendb
+0.01,1,0,G,5758,Entamoeba,prackendb
+0.01,1,0,S,33085,Entamoeba invadens,prackendb
+0.01,1,1,S1,370355,Entamoeba invadens IP1,prackendb
+0.02,2,0,D1,2611352,Discoba,prackendb
+0.02,2,0,P,5752,Heterolobosea,prackendb
+0.02,2,0,P1,2601529,Tetramitia,prackendb
+0.02,2,0,P2,2601530,Eutetramitia,prackendb
+0.02,2,0,F,5765,Vahlkampfiidae,prackendb
+0.02,2,0,G,5761,Naegleria,prackendb
+0.01,1,1,S,5762,Naegleria gruberi,prackendb
+0.01,1,1,S,51637,Naegleria lovaniensis,prackendb
+0.02,2,0,D1,2611341,Metamonada,prackendb
+0.02,2,0,P,5719,Parabasalia,prackendb
+0.02,2,0,O,37104,Trichomonadida,prackendb
+0.02,2,0,F,181550,Trichomonadidae,prackendb
+0.02,2,0,G,5721,Trichomonas,prackendb
+0.02,2,0,S,5722,Trichomonas vaginalis,prackendb
+0.02,2,2,S1,412133,Trichomonas vaginalis G3,prackendb
+0.01,1,0,C,3027,Cryptophyceae,prackendb
+0.01,1,0,O,589342,Pyrenomonadales,prackendb
+0.01,1,0,F,589345,Chroomonadaceae,prackendb
+0.01,1,0,G,3028,Chroomonas,prackendb
+0.01,1,0,S,195065,Chroomonas mesostigmatica,prackendb
+0.01,1,1,S1,1195612,Chroomonas mesostigmatica CCMP1168,prackendb
+2.07,207,6,,2,Bacteria,prackendb
+1.09,109,5,P,1224,Proteobacteria,prackendb
+0.69,69,2,C,1236,Gammaproteobacteria,prackendb
+0.4,40,0,O,91347,Enterobacterales,prackendb
+0.34,34,0,F,543,Enterobacteriaceae,prackendb
+0.31,31,0,F1,2890311,Klebsiella/Raoultella group,prackendb
+0.31,31,0,G,570,Klebsiella,prackendb
+0.31,31,31,S,1463165,Klebsiella quasipneumoniae,prackendb
+0.01,1,0,F1,191675,Enterobacteriaceae incertae sedis,prackendb
+0.01,1,0,F2,84563,"ant, tsetse, mealybug, aphid, etc. endosymbionts",prackendb
+0.01,1,0,F3,84564,ant endosymbionts,prackendb
+0.01,1,0,G,203804,Candidatus Blochmannia,prackendb
+0.01,1,0,G1,711328,unclassified Candidatus Blochmannia,prackendb
+0.01,1,1,S,1505597,Blochmannia endosymbiont of Camponotus (Colobopsis) obliquus,prackendb
+0.01,1,0,G,561,Escherichia,prackendb
+0.01,1,1,S,562,Escherichia coli,prackendb
+0.01,1,0,F1,36866,unclassified Enterobacteriaceae,prackendb
+0.01,1,1,S,2675783,Enterobacteriaceae endosymbiont of Donacia semicuprea,prackendb
+0.04,4,0,F,1903409,Erwiniaceae,prackendb
+0.02,2,0,G,32199,Buchnera,prackendb
+0.02,2,0,S,9,Buchnera aphidicola,prackendb
+0.01,1,1,S1,98795,Buchnera aphidicola (Myzus persicae),prackendb
+0.01,1,1,S1,2727851,Buchnera aphidicola (Hormaphis cornu),prackendb
+0.01,1,0,G,551,Erwinia,prackendb
+0.01,1,1,S,55211,Erwinia persicina,prackendb
+0.01,1,1,G,53335,Pantoea,prackendb
+0.01,1,0,F,1903410,Pectobacteriaceae,prackendb
+0.01,1,0,G,122277,Pectobacterium,prackendb
+0.01,1,1,S,2778550,Pectobacterium parvum,prackendb
+0.01,1,0,F,1903411,Yersiniaceae,prackendb
+0.01,1,1,G,629,Yersinia,prackendb
+0.06,6,0,O,135623,Vibrionales,prackendb
+0.06,6,0,F,641,Vibrionaceae,prackendb
+0.05,5,1,G,662,Vibrio,prackendb
+0.01,1,1,S,47951,Vibrio cyclitrophicus,prackendb
+0.01,1,0,G1,717610,Vibrio harveyi group,prackendb
+0.01,1,1,S,696485,Vibrio owensii,prackendb
+0.01,1,1,S,1074311,Vibrio alfacsensis,prackendb
+0.01,1,1,S,92172,Vibrio aerogenes,prackendb
+0.01,1,0,G,657,Photobacterium,prackendb
+0.01,1,0,G1,2628852,unclassified Photobacterium,prackendb
+0.01,1,1,S,2912855,Photobacterium sp. CCB-ST2H9,prackendb
+0.05,5,0,O,135622,Alteromonadales,prackendb
+0.03,3,0,F,267890,Shewanellaceae,prackendb
+0.03,3,0,G,22,Shewanella,prackendb
+0.01,1,0,G1,196818,unclassified Shewanella,prackendb
+0.01,1,1,S,2575361,Shewanella sp. MEBiC00475,prackendb
+0.01,1,1,S,150120,Shewanella livingstonensis,prackendb
+0.01,1,1,S,2487742,Shewanella psychromarinicola,prackendb
+0.01,1,0,F,72275,Alteromonadaceae,prackendb
+0.01,1,0,G,89404,Glaciecola,prackendb
+0.01,1,1,S,2489595,Glaciecola amylolytica,prackendb
+0.01,1,0,F,267889,Colwelliaceae,prackendb
+0.01,1,0,G,28228,Colwellia,prackendb
+0.01,1,0,G1,196834,unclassified Colwellia,prackendb
+0.01,1,1,S,1816219,Colwellia sp. PAMC 21821,prackendb
+0.04,4,0,O,72274,Pseudomonadales,prackendb
+0.04,4,0,F,135621,Pseudomonadaceae,prackendb
+0.02,2,0,G,286,Pseudomonas,prackendb
+0.01,1,0,G1,136842,Pseudomonas chlororaphis group,prackendb
+0.01,1,1,S,587753,Pseudomonas chlororaphis,prackendb
+0.01,1,0,G1,136849,Pseudomonas syringae group,prackendb
+0.01,1,0,G2,251695,Pseudomonas syringae group genomosp. 1,prackendb
+0.01,1,0,S,317,Pseudomonas syringae,prackendb
+0.01,1,0,S1,59510,Pseudomonas syringae pv. pisi,prackendb
+0.01,1,1,S2,1357292,Pseudomonas syringae pv. pisi str. PP1,prackendb
+0.01,1,0,F1,351,Azotobacter group,prackendb
+0.01,1,0,G,352,Azotobacter,prackendb
+0.01,1,1,S,69964,Azotobacter salinestris,prackendb
+0.01,1,0,G,2901164,Stutzerimonas,prackendb
+0.01,1,0,G1,136846,Stutzerimonas stutzeri group,prackendb
+0.01,1,0,G2,578833,Stutzerimonas stutzeri subgroup,prackendb
+0.01,1,1,S,316,Stutzerimonas stutzeri,prackendb
+0.03,3,0,O,2887326,Moraxellales,prackendb
+0.03,3,0,F,468,Moraxellaceae,prackendb
+0.02,2,0,G,469,Acinetobacter,prackendb
+0.01,1,1,S,1839785,Acinetobacter portensis,prackendb
+0.01,1,1,S,134534,Acinetobacter gyllenbergii,prackendb
+0.01,1,0,G,2824158,Aquirhabdus,prackendb
+0.01,1,1,S,2283318,Aquirhabdus parva,prackendb
+0.03,3,0,O,135625,Pasteurellales,prackendb
+0.03,3,0,F,712,Pasteurellaceae,prackendb
+0.01,1,0,G,2899790,Mergibacter,prackendb
+0.01,1,1,S,221402,Mergibacter septicus,prackendb
+0.01,1,0,G,2094023,Glaesserella,prackendb
+0.01,1,1,S,738,Glaesserella parasuis,prackendb
+0.01,1,0,G,416916,Aggregatibacter,prackendb
+0.01,1,0,G1,2639383,unclassified Aggregatibacter,prackendb
+0.01,1,1,S,2820817,Aggregatibacter sp. 2125159857,prackendb
+0.02,2,0,O,135619,Oceanospirillales,prackendb
+0.02,2,0,F,28256,Halomonadaceae,prackendb
+0.02,2,0,F1,114403,Zymobacter group,prackendb
+0.02,2,0,G,235572,Candidatus Portiera,prackendb
+0.02,2,2,S,91844,Candidatus Portiera aleyrodidarum,prackendb
+0.01,1,0,O,72273,Thiotrichales,prackendb
+0.01,1,0,F,34064,Francisellaceae,prackendb
+0.01,1,0,G,262,Francisella,prackendb
+0.01,1,0,S,622488,Francisella hispaniensis,prackendb
+0.01,1,1,S1,1088883,Francisella hispaniensis FSC454,prackendb
+0.01,1,0,O,118969,Legionellales,prackendb
+0.01,1,0,F,118968,Coxiellaceae,prackendb
+0.01,1,0,G,59195,Rickettsiella,prackendb
+0.01,1,1,S,676208,Candidatus Rickettsiella viridis,prackendb
+0.01,1,0,O,135614,Xanthomonadales,prackendb
+0.01,1,0,F,32033,Xanthomonadaceae,prackendb
+0.01,1,0,G,68,Lysobacter,prackendb
+0.01,1,1,S,69,Lysobacter enzymogenes,prackendb
+0.01,1,0,O,135624,Aeromonadales,prackendb
+0.01,1,0,F,84642,Aeromonadaceae,prackendb
+0.01,1,1,G,642,Aeromonas,prackendb
+0.16,16,2,C,28211,Alphaproteobacteria,prackendb
+0.05,5,0,O,356,Hyphomicrobiales,prackendb
+0.02,2,0,F,69277,Phyllobacteriaceae,prackendb
+0.01,1,0,G,68287,Mesorhizobium,prackendb
+0.01,1,0,G1,325217,unclassified Mesorhizobium,prackendb
+0.01,1,1,S,2493673,Mesorhizobium sp. M1B.F.Ca.ET.045.04.1.1,prackendb
+0.01,1,0,G,28100,Phyllobacterium,prackendb
+0.01,1,1,S,1867719,Phyllobacterium zundukense,prackendb
+0.01,1,0,F,41294,Nitrobacteraceae,prackendb
+0.01,1,1,G,374,Bradyrhizobium,prackendb
+0.01,1,0,F,82115,Rhizobiaceae,prackendb
+0.01,1,0,F1,227290,Rhizobium/Agrobacterium group,prackendb
+0.01,1,0,G,357,Agrobacterium,prackendb
+0.01,1,1,S,2735528,Agrobacterium vaccinii,prackendb
+0.01,1,0,F,255475,Aurantimonadaceae,prackendb
+0.01,1,0,G,293088,Martelella,prackendb
+0.01,1,1,S,1486262,Martelella endophytica,prackendb
+0.03,3,0,O,204457,Sphingomonadales,prackendb
+0.02,2,0,F,41297,Sphingomonadaceae,prackendb
+0.02,2,0,G,165696,Novosphingobium,prackendb
+0.02,2,0,S,48935,Novosphingobium aromaticivorans,prackendb
+0.02,2,2,S1,279238,Novosphingobium aromaticivorans DSM 12444,prackendb
+0.01,1,0,F,2820280,Sphingosinicellaceae,prackendb
+0.01,1,0,G,335405,Sphingosinicella,prackendb
+0.01,1,1,S,335406,Sphingosinicella microcystinivorans,prackendb
+0.02,2,0,O,204441,Rhodospirillales,prackendb
+0.02,2,0,F,433,Acetobacteraceae,prackendb
+0.01,1,0,G,434,Acetobacter,prackendb
+0.01,1,1,S,1633874,Acetobacter oryzifermentans,prackendb
+0.01,1,1,G,125216,Roseomonas,prackendb
+0.02,2,0,O,204455,Rhodobacterales,prackendb
+0.01,1,0,F,31989,Rhodobacteraceae,prackendb
+0.01,1,0,G,265,Paracoccus,prackendb
+0.01,1,1,S,2065379,Paracoccus jeotgali,prackendb
+0.01,1,0,F,2854170,Roseobacteraceae,prackendb
+0.01,1,0,G,2854186,Pseudosulfitobacter,prackendb
+0.01,1,1,S,1402135,Pseudosulfitobacter pseudonitzschiae,prackendb
+0.01,1,0,O,766,Rickettsiales,prackendb
+0.01,1,0,F,942,Anaplasmataceae,prackendb
+0.01,1,0,F1,952,Wolbachieae,prackendb
+0.01,1,0,G,953,Wolbachia,prackendb
+0.01,1,1,G1,2640676,unclassified Wolbachia,prackendb
+0.01,1,0,O,54526,Pelagibacterales,prackendb
+0.01,1,0,F,1655514,Pelagibacteraceae,prackendb
+0.01,1,0,G,198251,Candidatus Pelagibacter,prackendb
+0.01,1,0,G1,2647897,unclassified Candidatus Pelagibacter,prackendb
+0.01,1,1,S,1388755,Candidatus Pelagibacter sp. HIMB1321,prackendb
+0.11,11,0,C,28216,Betaproteobacteria,prackendb
+0.06,6,0,O,80840,Burkholderiales,prackendb
+0.02,2,0,F,119060,Burkholderiaceae,prackendb
+0.01,1,0,G,44013,Polynucleobacter,prackendb
+0.01,1,1,S,576610,Polynucleobacter necessarius,prackendb
+0.01,1,0,G,32008,Burkholderia,prackendb
+0.01,1,1,S,28095,Burkholderia gladioli,prackendb
+0.01,1,0,F,506,Alcaligenaceae,prackendb
+0.01,1,0,G,517,Bordetella,prackendb
+0.01,1,0,G1,2630031,unclassified Bordetella,prackendb
+0.01,1,1,S,28081,Bordetella sp.,prackendb
+0.01,1,0,F,75682,Oxalobacteraceae,prackendb
+0.01,1,0,F1,2895353,Massilia group,prackendb
+0.01,1,0,G,149698,Massilia,prackendb
+0.01,1,1,S,2728020,Massilia forsythiae,prackendb
+0.01,1,0,O1,80841,unclassified Burkholderiales,prackendb
+0.01,1,1,S,1891238,Burkholderiales bacterium,prackendb
+0.01,1,0,F,995019,Sutterellaceae,prackendb
+0.01,1,0,G,577310,Parasutterella,prackendb
+0.01,1,0,G1,1263096,environmental samples,prackendb
+0.01,1,1,S,1263098,uncultured Parasutterella sp.,prackendb
+0.04,4,0,C1,119066,Betaproteobacteria incertae sedis,prackendb
+0.04,4,1,G,33055,Candidatus Kinetoplastibacterium,prackendb
+0.02,2,2,S,1576550,Candidatus Kinetoplastibacterium sorsogonicusi,prackendb
+0.01,1,0,S,994695,Candidatus Kinetoplastibacterium galatii,prackendb
+0.01,1,1,S1,1208921,Candidatus Kinetoplastibacterium galatii TCC219,prackendb
+0.01,1,0,O,206351,Neisseriales,prackendb
+0.01,1,1,F,481,Neisseriaceae,prackendb
+0.08,8,0,P1,68525,delta/epsilon subdivisions,prackendb
+0.06,6,0,C,29547,Epsilonproteobacteria,prackendb
+0.05,5,0,O,213849,Campylobacterales,prackendb
+0.03,3,1,F,2808963,Arcobacteraceae,prackendb
+0.01,1,0,G,28196,Arcobacter,prackendb
+0.01,1,0,G1,2593671,unclassified Arcobacter,prackendb
+0.01,1,1,S,2593672,Arcobacter sp. FWKO B,prackendb
+0.01,1,0,G,2321114,Malaciobacter,prackendb
+0.01,1,0,S,603050,Malaciobacter mytili,prackendb
+0.01,1,1,S1,1032238,Malaciobacter mytili LMG 24559,prackendb
+0.01,1,0,F,72294,Campylobacteraceae,prackendb
+0.01,1,0,G,194,Campylobacter,prackendb
+0.01,1,1,S,2505970,Campylobacter armoricus,prackendb
+0.01,1,0,F,2771471,Thiovulaceae,prackendb
+0.01,1,0,G,202746,Sulfurimonas,prackendb
+0.01,1,1,S,2740404,Candidatus Sulfurimonas baltica,prackendb
+0.01,1,0,O,235899,Nautiliales,prackendb
+0.01,1,0,F,224467,Nautiliaceae,prackendb
+0.01,1,0,G,191291,Nautilia,prackendb
+0.01,1,0,S,244787,Nautilia profundicola,prackendb
+0.01,1,1,S1,598659,Nautilia profundicola AmH,prackendb
+0.02,2,0,C,28221,Deltaproteobacteria,prackendb
+0.01,1,0,O,213118,Desulfobacterales,prackendb
+0.01,1,0,F,2886822,Desulfocapsaceae,prackendb
+0.01,1,0,G,2886823,Desulfosediminicola,prackendb
+0.01,1,1,S,2569540,Desulfosediminicola ganghwensis,prackendb
+0.01,1,0,O,213462,Syntrophobacterales,prackendb
+0.01,1,0,F,213465,Syntrophobacteraceae,prackendb
+0.01,1,0,G,361106,Desulfoglaeba,prackendb
+0.01,1,0,S,361111,Desulfoglaeba alkanexedens,prackendb
+0.01,1,1,S1,980445,Desulfoglaeba alkanexedens ALDC,prackendb
+0.67,67,0,D1,1783272,Terrabacteria group,prackendb
+0.44,44,2,P,1239,Firmicutes,prackendb
+0.31,31,0,C,91061,Bacilli,prackendb
+0.26,26,1,O,1385,Bacillales,prackendb
+0.15,15,1,F,186817,Bacillaceae,prackendb
+0.04,4,0,G,2675230,Cytobacillus,prackendb
+0.04,4,4,S,2779776,Cytobacillus suaedae,prackendb
+0.01,1,0,G,2675234,Alkalihalobacillus,prackendb
+0.01,1,0,G1,2675276,unclassified Alkalihalobacillus,prackendb
+0.01,1,1,S,2924032,Alkalihalobacillus sp. LMS39,prackendb
+0.01,1,0,G,2837503,Gottfriedia,prackendb
+0.01,1,1,S,371036,Gottfriedia acidiceleris,prackendb
+0.01,1,0,G,2837504,Heyndrickxia,prackendb
+0.01,1,1,S,46224,Heyndrickxia sporothermodurans,prackendb
+0.01,1,0,G,2837508,Rossellomorea,prackendb
+0.01,1,1,S,189381,Rossellomorea marisflavi,prackendb
+0.01,1,0,G,1434042,Salisediminibacterium,prackendb
+0.01,1,0,S,85683,Salisediminibacterium selenitireducens,prackendb
+0.01,1,1,S1,439292,[Bacillus] selenitireducens MLS10,prackendb
+0.01,1,0,G,400634,Lysinibacillus,prackendb
+0.01,1,0,G1,2636778,unclassified Lysinibacillus,prackendb
+0.01,1,1,S,2169540,Lysinibacillus sp. 2017,prackendb
+0.01,1,0,G,2800373,Priestia,prackendb
+0.01,1,1,S,1404,Priestia megaterium,prackendb
+0.01,1,0,G,84406,Virgibacillus,prackendb
+0.01,1,0,G1,2620237,unclassified Virgibacillus,prackendb
+0.01,1,1,S,2419841,Virgibacillus sp. Bac330,prackendb
+0.01,1,0,G,45667,Halobacillus,prackendb
+0.01,1,0,G1,2636472,unclassified Halobacillus,prackendb
+0.01,1,1,S,2932259,Halobacillus sp. SSHM10-5,prackendb
+0.01,1,0,G,2920444,Mangrovibacillus,prackendb
+0.01,1,1,S,2593652,Mangrovibacillus cuniculi,prackendb
+0.05,5,0,F,90964,Staphylococcaceae,prackendb
+0.04,4,1,G,1279,Staphylococcus,prackendb
+0.01,1,1,S,1282,Staphylococcus epidermidis,prackendb
+0.01,1,1,S,29382,Staphylococcus cohnii,prackendb
+0.01,1,1,S,46127,Staphylococcus felis,prackendb
+0.01,1,0,G,69965,Macrococcus,prackendb
+0.01,1,1,S,2875764,Macrococcus armenti,prackendb
+0.02,2,0,F,186818,Planococcaceae,prackendb
+0.01,1,0,G,1569,Sporosarcina,prackendb
+0.01,1,0,G1,2647733,unclassified Sporosarcina,prackendb
+0.01,1,1,S,2283194,Sporosarcina sp. PTS2304,prackendb
+0.01,1,0,G,1649,Kurthia,prackendb
+0.01,1,1,S,1650,Kurthia zopfii,prackendb
+0.02,2,0,F,186822,Paenibacillaceae,prackendb
+0.02,2,0,G,44249,Paenibacillus,prackendb
+0.01,1,0,G1,185978,unclassified Paenibacillus,prackendb
+0.01,1,1,S,2866810,Paenibacillus sp. PSB04,prackendb
+0.01,1,1,S,2565926,Paenibacillus algicola,prackendb
+0.01,1,0,F,186820,Listeriaceae,prackendb
+0.01,1,0,G,1637,Listeria,prackendb
+0.01,1,1,S,1639,Listeria monocytogenes,prackendb
+0.05,5,0,O,186826,Lactobacillales,prackendb
+0.03,3,1,F,33958,Lactobacillaceae,prackendb
+0.02,2,0,G,2767887,Ligilactobacillus,prackendb
+0.02,2,2,S,1624,Ligilactobacillus salivarius,prackendb
+0.01,1,0,F,1300,Streptococcaceae,prackendb
+0.01,1,1,G,1301,Streptococcus,prackendb
+0.01,1,0,F,186827,Aerococcaceae,prackendb
+0.01,1,0,G,1375,Aerococcus,prackendb
+0.01,1,0,S,1376,Aerococcus urinae,prackendb
+0.01,1,1,S1,866775,Aerococcus urinae ACS-120-V-Col10a,prackendb
+0.09,9,0,C,186801,Clostridia,prackendb
+0.07,7,1,O,186802,Eubacteriales,prackendb
+0.02,2,0,F,186803,Lachnospiraceae,prackendb
+0.01,1,0,G,28050,Lachnospira,prackendb
+0.01,1,1,S,39485,Lachnospira eligens,prackendb
+0.01,1,0,F1,186928,unclassified Lachnospiraceae,prackendb
+0.01,1,1,S,2785025,Lachnospiraceae bacterium TB5,prackendb
+0.01,1,0,F,186807,Peptococcaceae,prackendb
+0.01,1,0,G,2282742,Desulfofarcimen,prackendb
+0.01,1,0,S,58138,Desulfofarcimen acetoxidans,prackendb
+0.01,1,1,S1,485916,Desulfofarcimen acetoxidans DSM 771,prackendb
+0.01,1,0,F,216572,Oscillospiraceae,prackendb
+0.01,1,1,G,216851,Faecalibacterium,prackendb
+0.01,1,0,F,2603322,Vallitaleaceae,prackendb
+0.01,1,0,G,1348611,Vallitalea,prackendb
+0.01,1,1,S,1185412,Vallitalea guaymasensis,prackendb
+0.01,1,0,F,990719,Christensenellaceae,prackendb
+0.01,1,0,F1,1917874,unclassified Christensenellaceae,prackendb
+0.01,1,1,S,2054177,Christensenellaceae bacterium,prackendb
+0.01,1,0,O,68295,Thermoanaerobacterales,prackendb
+0.01,1,0,F,543371,Thermoanaerobacterales Family III. Incertae Sedis,prackendb
+0.01,1,0,G,28895,Thermoanaerobacterium,prackendb
+0.01,1,0,S,1517,Thermoanaerobacterium thermosaccharolyticum,prackendb
+0.01,1,1,S1,580327,Thermoanaerobacterium thermosaccharolyticum DSM 571,prackendb
+0.01,1,0,O,2786987,Koleobacterales,prackendb
+0.01,1,0,F,2786988,Koleobacteraceae,prackendb
+0.01,1,0,G,2786989,Koleobacter,prackendb
+0.01,1,1,S,2751313,Koleobacter methoxysyntrophicus,prackendb
+0.01,1,0,C,526524,Erysipelotrichia,prackendb
+0.01,1,0,O,526525,Erysipelotrichales,prackendb
+0.01,1,0,F,128827,Erysipelotrichaceae,prackendb
+0.01,1,0,G,2749267,Amedibacterium,prackendb
+0.01,1,1,S,2583452,Amedibacterium intestinale,prackendb
+0.01,1,0,C,909932,Negativicutes,prackendb
+0.01,1,0,O,909929,Selenomonadales,prackendb
+0.01,1,0,F,1843490,Sporomusaceae,prackendb
+0.01,1,0,G,365348,Pelosinus,prackendb
+0.01,1,0,G1,2629460,unclassified Pelosinus,prackendb
+0.01,1,1,S,484770,Pelosinus sp. UFO1,prackendb
+0.11,11,0,P,201174,Actinobacteria,prackendb
+0.11,11,0,C,1760,Actinomycetia,prackendb
+0.06,6,0,O,85007,Corynebacteriales,prackendb
+0.04,4,0,F,1762,Mycobacteriaceae,prackendb
+0.04,4,0,G,1866885,Mycolicibacterium,prackendb
+0.04,4,4,S,59813,Mycolicibacterium novocastrense,prackendb
+0.01,1,0,F,85026,Gordoniaceae,prackendb
+0.01,1,0,G,2053,Gordonia,prackendb
+0.01,1,1,S,2665643,Gordonia mangrovi,prackendb
+0.01,1,0,F,85028,Tsukamurellaceae,prackendb
+0.01,1,0,G,2060,Tsukamurella,prackendb
+0.01,1,1,S,57704,Tsukamurella tyrosinosolvens,prackendb
+0.02,2,0,O,85006,Micrococcales,prackendb
+0.02,2,1,F,1268,Micrococcaceae,prackendb
+0.01,1,0,G,1742993,Pseudarthrobacter,prackendb
+0.01,1,0,G1,2647000,unclassified Pseudarthrobacter,prackendb
+0.01,1,1,S,2596911,Pseudarthrobacter sp. NBSH8,prackendb
+0.02,2,0,O,85011,Streptomycetales,prackendb
+0.02,2,0,F,2062,Streptomycetaceae,prackendb
+0.02,2,0,G,1883,Streptomyces,prackendb
+0.02,2,2,S,54571,Streptomyces venezuelae,prackendb
+0.01,1,0,O,85009,Propionibacteriales,prackendb
+0.01,1,0,F,31957,Propionibacteriaceae,prackendb
+0.01,1,0,G,1912215,Acidipropionibacterium,prackendb
+0.01,1,1,S,1748,Acidipropionibacterium acidipropionici,prackendb
+0.07,7,0,P,544448,Tenericutes,prackendb
+0.07,7,0,C,31969,Mollicutes,prackendb
+0.05,5,0,O,186328,Entomoplasmatales,prackendb
+0.05,5,0,F,2131,Spiroplasmataceae,prackendb
+0.05,5,0,G,2132,Spiroplasma,prackendb
+0.02,2,2,S,1963034,Candidatus Spiroplasma holothuricola,prackendb
+0.02,2,0,S,301585,Spiroplasma platyhelix,prackendb
+0.02,2,2,S1,1276218,Spiroplasma platyhelix PALS-1,prackendb
+0.01,1,0,S,216937,Spiroplasma floricola,prackendb
+0.01,1,1,S1,1336749,Spiroplasma floricola 23-6,prackendb
+0.02,2,0,O,2085,Mycoplasmatales,prackendb
+0.02,2,0,F,2092,Mycoplasmataceae,prackendb
+0.02,2,0,G,2767358,Mycoplasmopsis,prackendb
+0.01,1,1,S,55603,Mycoplasmopsis caviae,prackendb
+0.01,1,1,S,28903,Mycoplasmopsis bovis,prackendb
+0.05,5,0,D2,1798711,Cyanobacteria/Melainabacteria group,prackendb
+0.05,5,0,P,1117,Cyanobacteria,prackendb
+0.02,2,0,O,1161,Nostocales,prackendb
+0.02,2,0,F,2661849,Calotrichaceae,prackendb
+0.02,2,0,G,1186,Calothrix,prackendb
+0.02,2,0,G1,2619626,unclassified Calothrix,prackendb
+0.01,1,1,S,1170562,Calothrix sp. PCC 6303,prackendb
+0.01,1,1,S,2853227,Calothrix sp. PCC 7716,prackendb
+0.02,2,0,P1,1301283,Oscillatoriophycideae,prackendb
+0.02,2,0,O,1118,Chroococcales,prackendb
+0.01,1,0,F,1890450,Aphanothecaceae,prackendb
+0.01,1,0,G,28070,Gloeothece,prackendb
+0.01,1,0,S,2546359,Gloeothece verrucosa,prackendb
+0.01,1,1,S1,497965,Gloeothece verrucosa PCC 7822,prackendb
+0.01,1,0,F,1890464,Chroococcaceae,prackendb
+0.01,1,0,G,669357,Geminocystis,prackendb
+0.01,1,0,G1,2625037,unclassified Geminocystis,prackendb
+0.01,1,1,S,1617448,Geminocystis sp. NIES-3709,prackendb
+0.01,1,0,O,2881377,Pseudanabaenales,prackendb
+0.01,1,0,F,1890438,Leptolyngbyaceae,prackendb
+0.01,1,0,G,47251,Leptolyngbya,prackendb
+0.01,1,1,S,1184,Leptolyngbya boryana,prackendb
+0.24,24,0,D1,1783270,FCB group,prackendb
+0.24,24,0,D2,68336,Bacteroidetes/Chlorobi group,prackendb
+0.23,23,1,P,976,Bacteroidota,prackendb
+0.11,11,0,C,117743,Flavobacteriia,prackendb
+0.11,11,0,O,200644,Flavobacteriales,prackendb
+0.1,10,0,F,49546,Flavobacteriaceae,prackendb
+0.02,2,0,G,237,Flavobacterium,prackendb
+0.01,1,1,S,2906077,Flavobacterium davisii,prackendb
+0.01,1,0,G1,196869,unclassified Flavobacterium,prackendb
+0.01,1,1,S,2977321,Flavobacterium sp. TR2,prackendb
+0.01,1,1,G,444051,Mesoflavibacter,prackendb
+0.01,1,0,G,2967089,Abyssalbus,prackendb
+0.01,1,1,S,2926907,Abyssalbus ytuae,prackendb
+0.01,1,0,G,252356,Maribacter,prackendb
+0.01,1,0,G1,2615042,unclassified Maribacter,prackendb
+0.01,1,1,S,313603,Maribacter sp. HTCC2170,prackendb
+0.01,1,0,F1,61432,unclassified Flavobacteriaceae,prackendb
+0.01,1,1,S,531844,Flavobacteriaceae bacterium 3519-10,prackendb
+0.01,1,0,G,76831,Myroides,prackendb
+0.01,1,1,S,480520,Myroides profundi,prackendb
+0.01,1,0,G,104267,Tenacibaculum,prackendb
+0.01,1,1,S,107401,Tenacibaculum maritimum,prackendb
+0.01,1,0,G,291183,Lacinutrix,prackendb
+0.01,1,0,G1,2647285,unclassified Lacinutrix,prackendb
+0.01,1,1,S,2057808,Lacinutrix sp. Bg11-31,prackendb
+0.01,1,0,G,111500,Muricauda,prackendb
+0.01,1,0,G1,2615049,unclassified Muricauda,prackendb
+0.01,1,1,S,192149,Muricauda sp.,prackendb
+0.01,1,0,F,2762318,Weeksellaceae,prackendb
+0.01,1,0,F1,2782232,Chryseobacterium group,prackendb
+0.01,1,0,G,59732,Chryseobacterium,prackendb
+0.01,1,1,S,112234,Chryseobacterium joostei,prackendb
+0.04,4,0,C,117747,Sphingobacteriia,prackendb
+0.04,4,0,O,200666,Sphingobacteriales,prackendb
+0.04,4,0,F,84566,Sphingobacteriaceae,prackendb
+0.03,3,2,G,84567,Pedobacter,prackendb
+0.01,1,1,S,332999,Pedobacter suwonensis,prackendb
+0.01,1,0,G,423349,Mucilaginibacter,prackendb
+0.01,1,1,S,2027860,Mucilaginibacter rubeus,prackendb
+0.03,3,0,C,200643,Bacteroidia,prackendb
+0.03,3,0,O,171549,Bacteroidales,prackendb
+0.03,3,0,F,815,Bacteroidaceae,prackendb
+0.03,3,1,G,816,Bacteroides,prackendb
+0.01,1,0,G1,2646097,unclassified Bacteroides,prackendb
+0.01,1,1,S,29523,Bacteroides sp.,prackendb
+0.01,1,1,S,291644,Bacteroides salyersiae,prackendb
+0.02,2,0,C,768503,Cytophagia,prackendb
+0.02,2,0,O,768507,Cytophagales,prackendb
+0.01,1,0,F,89373,Cytophagaceae,prackendb
+0.01,1,1,G,2676247,Aquirufa,prackendb
+0.01,1,0,F,1937968,Bernardetiaceae,prackendb
+0.01,1,0,G,1937972,Bernardetia,prackendb
+0.01,1,0,S,999,Bernardetia litoralis,prackendb
+0.01,1,1,S1,880071,Bernardetia litoralis DSM 6794,prackendb
+0.02,2,0,C,1853228,Chitinophagia,prackendb
+0.02,2,0,O,1853229,Chitinophagales,prackendb
+0.02,2,0,F,563835,Chitinophagaceae,prackendb
+0.01,1,0,G,79328,Chitinophaga,prackendb
+0.01,1,1,G1,2619133,unclassified Chitinophaga,prackendb
+0.01,1,0,G,1769012,Arachidicoccus,prackendb
+0.01,1,0,G1,2636138,unclassified Arachidicoccus,prackendb
+0.01,1,1,S,2545455,Arachidicoccus sp. B3-10,prackendb
+0.01,1,0,P,1936987,Balneolaeota,prackendb
+0.01,1,0,C,1853221,Balneolia,prackendb
+0.01,1,0,O,1853223,Balneolales,prackendb
+0.01,1,0,F,1813606,Balneolaceae,prackendb
+0.01,1,0,G,455358,Balneola,prackendb
+0.01,1,0,G1,2615059,unclassified Balneola,prackendb
+0.01,1,1,S,2024824,Balneola sp.,prackendb
+0.01,1,0,D1,48479,environmental samples,prackendb
+0.01,1,1,S,1781530,uncultured bacterium gwe2_scaffold_8,prackendb
+0.05,5,0,,2157,Archaea,prackendb
+0.04,4,0,P,28890,Euryarchaeota,prackendb
+0.03,3,0,P1,2290931,Stenosarchaea group,prackendb
+0.02,2,0,C,183963,Halobacteria,prackendb
+0.01,1,0,O,2235,Halobacteriales,prackendb
+0.01,1,0,F,1963268,Haloarculaceae,prackendb
+0.01,1,1,G,2237,Haloarcula,prackendb
+0.01,1,0,O,1644060,Natrialbales,prackendb
+0.01,1,0,F,1644061,Natrialbaceae,prackendb
+0.01,1,0,G,88723,Natrinema,prackendb
+0.01,1,0,G1,2622230,unclassified Natrinema,prackendb
+0.01,1,1,S,2871694,Natrinema sp. SYSU A 869,prackendb
+0.01,1,0,C,224756,Methanomicrobia,prackendb
+0.01,1,0,O,570264,Methanocellales,prackendb
+0.01,1,0,F,570265,Methanocellaceae,prackendb
+0.01,1,0,G,570266,Methanocella,prackendb
+0.01,1,0,S,1175444,Methanocella conradii,prackendb
+0.01,1,1,S1,1041930,Methanocella conradii HZ254,prackendb
+0.01,1,0,P1,2283794,Methanomada group,prackendb
+0.01,1,0,C,183939,Methanococci,prackendb
+0.01,1,0,O,2182,Methanococcales,prackendb
+0.01,1,0,F,196117,Methanocaldococcaceae,prackendb
+0.01,1,0,G,196118,Methanocaldococcus,prackendb
+0.01,1,0,S,83171,Methanocaldococcus fervens,prackendb
+0.01,1,1,S1,573064,Methanocaldococcus fervens AG86,prackendb
+0.01,1,0,D1,1783275,TACK group,prackendb
+0.01,1,0,P,28889,Crenarchaeota,prackendb
+0.01,1,0,C,183924,Thermoprotei,prackendb
+0.01,1,0,O,2281,Sulfolobales,prackendb
+0.01,1,0,F,118883,Sulfolobaceae,prackendb
+0.01,1,0,G,2284,Sulfolobus,prackendb
+0.01,1,1,S,2285,Sulfolobus acidocaldarius,prackendb
+0.16,16,0,,10239,Viruses,prackendb
+0.08,8,0,1,12333,unclassified bacterial viruses,prackendb
+0.08,8,0,D2,2693321,Marine virus AFVG,prackendb
+0.07,7,7,S,2693901,Marine virus AFVG_250M701,prackendb
+0.01,1,1,S,2694412,Marine virus AFVG_25M260,prackendb
+0.04,4,0,1,2731341,Duplodnaviria,prackendb
+0.04,4,0,K,2731360,Heunggongvirae,prackendb
+0.04,4,0,P,2731618,Uroviricota,prackendb
+0.04,4,0,C,2731619,Caudoviricetes,prackendb
+0.01,1,0,F,10699,Siphoviridae,prackendb
+0.01,1,0,F1,196894,unclassified Siphoviridae,prackendb
+0.01,1,1,S,2170413,Siphoviridae sp.,prackendb
+0.01,1,0,F,10662,Myoviridae,prackendb
+0.01,1,0,F1,196896,unclassified Myoviridae,prackendb
+0.01,1,1,S,2202564,Myoviridae sp.,prackendb
+0.01,1,0,F,2946170,Straboviridae,prackendb
+0.01,1,0,F1,1198136,Tevenvirinae,prackendb
+0.01,1,0,G,2948828,Mosugukvirus,prackendb
+0.01,1,0,S,2956206,Mosugukvirus pm2,prackendb
+0.01,1,1,S1,1429794,Pectobacterium bacteriophage PM2,prackendb
+0.01,1,0,G,1623305,Skunavirus,prackendb
+0.01,1,0,S,2845407,Skunavirus caseusJM1,prackendb
+0.01,1,1,S1,1289467,Lactococcus phage CaseusJM1,prackendb
+0.02,2,0,1,12429,unclassified viruses,prackendb
+0.02,2,0,D2,2204151,unclassified DNA viruses,prackendb
+0.02,2,0,D3,51368,unclassified dsDNA viruses,prackendb
+0.02,2,2,S,2591644,Prokaryotic dsDNA virus sp.,prackendb
+0.01,1,0,,687329,Anelloviridae,prackendb
+0.01,1,0,G,687332,Betatorquevirus,prackendb
+0.01,1,0,G1,1535289,unclassified Betatorquevirus,prackendb
+0.01,1,1,S,93678,TTV-like mini virus,prackendb
+0.01,1,0,1,2732004,Varidnaviria,prackendb
+0.01,1,0,K,2732005,Bamfordvirae,prackendb
+0.01,1,0,P,2732007,Nucleocytoviricota,prackendb
+0.01,1,0,C,2732523,Megaviricetes,prackendb
+0.01,1,0,O,2732554,Imitervirales,prackendb
+0.01,1,0,F,549779,Mimiviridae,prackendb
+0.01,1,1,G,315393,Mimivirus,prackendb
+0.01,1,0,1,2787854,other entries,prackendb
+0.01,1,0,2,28384,other sequences,prackendb
+0.01,1,0,R3,81077,artificial sequences,prackendb
+0.01,1,1,S,32630,synthetic construct,prackendb

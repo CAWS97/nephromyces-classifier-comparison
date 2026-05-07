@@ -1,0 +1,22 @@
+# Data and intermediate files
+data/raw/*.fastq
+data/raw/*.fq
+data/raw/*.fastq.gz
+data/raw/*.out
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# SLURM logs
+logs/
+*.out
+*.err

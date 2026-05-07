@@ -1,0 +1,19 @@
+db_name,category,percent
+kraken2_basic,Unclassified,89.52
+kraken2_basic,Apicomplexa/Nephromyces-related,0.0
+kraken2_basic,Host/Chordata,0.0
+kraken2_basic,Bacteria,0.02
+kraken2_basic,Other Eukaryotes,0.0
+kraken2_basic,Other,6.71
+pluspf,Unclassified,85.29
+pluspf,Apicomplexa/Nephromyces-related,0.22
+pluspf,Host/Chordata,7.84
+pluspf,Bacteria,0.0
+pluspf,Other Eukaryotes,0.0
+pluspf,Other,3.74
+prackendb,Unclassified,40.55
+prackendb,Apicomplexa/Nephromyces-related,0.59
+prackendb,Host/Chordata,0.5
+prackendb,Bacteria,0.02
+prackendb,Other Eukaryotes,0.0
+prackendb,Other,34.79

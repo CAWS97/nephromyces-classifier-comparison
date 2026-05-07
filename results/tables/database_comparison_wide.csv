@@ -1,0 +1,7 @@
+category,kraken2_basic_percent,pluspf_percent,prackendb_percent,delta_pluspf_minus_kraken2_basic,delta_prackendb_minus_kraken2_basic,delta_prackendb_minus_pluspf,max_abs_delta
+Unclassified,89.52,85.29,40.55,-4.23,-48.97,-44.74,48.97
+Other,6.71,3.74,34.79,-2.97,28.08,31.05,31.05
+Host/Chordata,0.0,7.84,0.5,7.84,0.5,-7.34,7.84
+Apicomplexa/Nephromyces-related,0.0,0.22,0.59,0.22,0.59,0.37,0.59
+Bacteria,0.02,0.0,0.02,-0.02,0.0,0.02,0.02
+Other Eukaryotes,0.0,0.0,0.0,0.0,0.0,0.0,0.0
